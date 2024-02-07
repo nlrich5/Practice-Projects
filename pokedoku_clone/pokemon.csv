@@ -108,3 +108,6 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 85,Dodrio,Normal,Flying,2/2,Kanto,NONE
 86,Seel,Water,NONE,1/2,Kanto,NONE
 87,Dewgong,Water,Ice,2/2,Kanto,NONE
+88,Grimer,Poison,NONE,1/2,Kanto,NONE
+88,Alolan Grimer,Poison,Dark,1/2,Alola,Alolan Form
+89,Muk,

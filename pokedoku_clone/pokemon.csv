@@ -8,3 +8,33 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 7,Squirtle,Water,NONE,1/3,Kanto,Starter
 8,Wartortle,Water,NONE,2/3,Kanto,Starter
 9,Blastoise,Water,NONE,3/3,Kanto,Starter
+10,Caterpie,Bug,NONE,1/3,Kanto,NONE
+11,Metapod,Bug,NONE,2/3,Kanto,NONE
+12,Butterfree,Bug,Flying,3/3,Kanto,NONE
+13,Weedle,Bug,Poison,1/3,Kanto,NONE
+14,Kakuna,Bug,Poison,2/3,Kanto,NONE
+15,Beedrill,Bug,Poison,3/3,Kanto,NONE
+16,Pidgey,Normal,Flying,1/3,Kanto,NONE
+17,Pidgeotto,Normal,Flying,2/3,Kanto,NONE
+18,Pidgeot,Normal,Flying,3/3,Kanto,NONE
+19,Rattata,Normal,NONE,1/2,Kanto,NONE
+19,Alolan Rattata,Dark,Normal,1/2,Alola,Alolan Form
+20,Raticate,Normal,NONE,2/2,Kanto,NONE
+20,Alolan Raticate,Dark,Normal,2/2,Alola,Alolan Form
+21,Spearow,Normal,Flying,1/2,Kanto,NONE
+22,Fearow,Normal,Flying,2/2,Kanto,NONE
+23,Ekans,Poison,NONE,1/2,Kanto,NONE
+24,Arbok,Poison,NONE,2/2,Kanto,NONE
+25,Pikachu,Electric,NONE,2/3,Kanto,NONE
+26,Raichu,Electric,NONE,3/3,Kanto,NONE
+26,Alolan Raichu,Electric,Psychic,3/3,Alola,NONE
+27,Sandshrew,Ground,NONE,1/2,Kanto,NONE
+27,Alolan Sandshrew,Ice,Steel,1/2,Alola,NONE
+28,Sandslash,Ground,NONE,2/2,Kanto,NONE
+28,Alolan Sandslash,Ice,Steel,2/2,Alola,NONE
+29,Nidoran♀,Poison,NONE,1/3,Kanto,NONE
+30,Nidorina,Poison,NONE,2/3,Kanto,NONE
+31,Nidoqueen,Poison,Ground,3/3,Kanto,NONE
+32,Nidoran♂,Poison,NONE,1/3,Kanto,NONE
+33,Nidorino,Poison,NONE,2/3,Kanto,NONE
+34,Nidoking,Poison,Ground,3/3,Kanto,NONE

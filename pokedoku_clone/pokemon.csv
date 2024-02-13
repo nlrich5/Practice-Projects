@@ -18,20 +18,20 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 17,Pidgeotto,Normal,Flying,2/3,Kanto,NONE
 18,Pidgeot,Normal,Flying,3/3,Kanto,NONE
 19,Rattata,Normal,NONE,1/2,Kanto,NONE
-19,Alolan Rattata,Dark,Normal,1/2,Alola,Alolan Form
+19,Alolan Rattata,Dark,Normal,1/2,Alola,NONE
 20,Raticate,Normal,NONE,2/2,Kanto,NONE
-20,Alolan Raticate,Dark,Normal,2/2,Alola,Alolan Form
+20,Alolan Raticate,Dark,Normal,2/2,Alola,NONE
 21,Spearow,Normal,Flying,1/2,Kanto,NONE
 22,Fearow,Normal,Flying,2/2,Kanto,NONE
 23,Ekans,Poison,NONE,1/2,Kanto,NONE
 24,Arbok,Poison,NONE,2/2,Kanto,NONE
 25,Pikachu,Electric,NONE,2/3,Kanto,NONE
 26,Raichu,Electric,NONE,3/3,Kanto,NONE
-26,Alolan Raichu,Electric,Psychic,3/3,Alola,Alolan Form
+26,Alolan Raichu,Electric,Psychic,3/3,Alola,NONE
 27,Sandshrew,Ground,NONE,1/2,Kanto,NONE
-27,Alolan Sandshrew,Ice,Steel,1/2,Alola,Alolan Form
+27,Alolan Sandshrew,Ice,Steel,1/2,Alola,NONE
 28,Sandslash,Ground,NONE,2/2,Kanto,NONE
-28,Alolan Sandslash,Ice,Steel,2/2,Alola,Alolan Form
+28,Alolan Sandslash,Ice,Steel,2/2,Alola,NONE
 29,Nidoran♀,Poison,NONE,1/3,Kanto,NONE
 30,Nidorina,Poison,NONE,2/3,Kanto,NONE
 31,Nidoqueen,Poison,Ground,3/3,Kanto,NONE
@@ -41,9 +41,9 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 35,Clefairy,Fairy,NONE,2/3,Kanto,NONE
 36,Clefable,Fairy,NONE,3/3,Kanto,NONE
 37,Vulpix,Fire,NONE,1/2,Kanto,NONE
-37,Alolan Vulpix,Ice,NONE,1/2,Alola,Alolan Form
+37,Alolan Vulpix,Ice,NONE,1/2,Alola,NONE
 38,Ninetales,Fire,NONE,2/2,Kanto,NONE
-38,Alolan Ninetales,Ice,Fairy,2/2,Alola,Alolan Form
+38,Alolan Ninetales,Ice,Fairy,2/2,Alola,NONE
 39,Jigglypuff,Normal,Fairy,2/3,Kanto,NONE
 40,Wigglytuff,Normal,Fairy,3/3,Kanto,NONE
 41,Zubat,Poison,Flying,1/3,Kanto,NONE
@@ -56,22 +56,22 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 48,Venonat,Bug,Poison,1/2,Kanto,NONE
 49,Venomoth,Bug,Poison,2/2,Kanto,NONE
 50,Diglett,Ground,NONE,1/2,Kanto,NONE
-50,Alolan Diglett,Ground,Steel,1/2,Alola,Alolan Form
+50,Alolan Diglett,Ground,Steel,1/2,Alola,NONE
 51,Dugtrio,Ground,NONE,2/2,Kanto,NONE
-51,Alolan Dugtrio,Ground,Steel,2/2,Alola,Alolan Form
+51,Alolan Dugtrio,Ground,Steel,2/2,Alola,NONE
 52,Meowth,Normal,NONE,1/2,Kanto,NONE
-52,Alolan Meowth,Dark,NONE,1/2,Alola,Alolan Form
-52,Galarian Meowth,Steel,NONE,1/2,Galar,Galarian Form
+52,Alolan Meowth,Dark,NONE,1/2,Alola,NONE
+52,Galarian Meowth,Steel,NONE,1/2,Galar,NONE
 53,Persian,Normal,NONE,2/2,Kanto,NONE
-53,Alolan Persian,Dark,NONE,2/2,Alola,Alolan Form
+53,Alolan Persian,Dark,NONE,2/2,Alola,NONE
 54,Psyduck,Water,NONE,1/2,Kanto,NONE
 55,Golduck,Water,NONR,2/2,Kanto,NONE
 56,Mankey,Fighting,NONE,1/3,Kanto,NONE
 57,Primeape,Fighting,NONE,2/3,Kanto,NONE
 58,Growlithe,Fire,NONE,1/2,Kanto,NONE
-58,Hisuian Growlithe,Fire,Rock,1/2,Hisui,Hisuian Form
+58,Hisuian Growlithe,Fire,Rock,1/2,Hisui,NONE
 59,Arcanine,Fire,NONE,2/2,Kanto,NONE
-59,Hisuian Arcanine,Fire,Rock,2/2,Kanto,Hisuian Form
+59,Hisuian Arcanine,Fire,Rock,2/2,Kanto,NONE
 60,Poliwag,Water,NONE,1/3,Kanto,NONE
 61,Poliwhirl,Water,NONE,2/3,Kanto,Branching-Pre
 62,Poliwrath,Water,Fighting,3/3,Kanto,Branching-Post
@@ -87,15 +87,15 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 72,Tentacool,Water,Poison,1/2,Kanto,NONE
 73,Tentacruel,Water,Poison,2/2,Kanto,NONE
 74,Geodude,Rock,Ground,1/3,Kanto,NONE
-74,Alolan Geodude,Rock,Electric,1/3,Alola,Alolan Form
+74,Alolan Geodude,Rock,Electric,1/3,Alola,NONE
 75,Graveler,Rock,Ground,2/3,Kanto,NONE
 75,Alolan Graveler,Rock,Electric,2/3,Alola,Alola Form
 76,Golem,Rock,Ground,3/3,Kanto,NONE
-76,Alolan Golem,Rock,Electric,3/3,Alola,Alolan Form
+76,Alolan Golem,Rock,Electric,3/3,Alola,NONE
 77,Ponyta,Fire,NONE,1/2,Kanto,NONE
-77,Galarian Ponyta,Psychic,NONE,1/2,Galar,Galarian Form
+77,Galarian Ponyta,Psychic,NONE,1/2,Galar,NONE
 78,Rapidash,Fire,NONE,2/2,Kanto,NONE
-78,Galarian Rapidash,Psychic,Fairy,2/2,Galar,Galarian Form
+78,Galarian Rapidash,Psychic,Fairy,2/2,Galar,NONE
 79,Slowpoke,Water,Psychic,1/2,Kanto,Branching-Pre
 79,Galarian Slowpoke,Psychic,NONE,1/2,Galar,Branching-Pre
 80,Slowbro,Water,Psychic,2/2,Kanto,Branching-Post
@@ -109,9 +109,9 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 86,Seel,Water,NONE,1/2,Kanto,NONE
 87,Dewgong,Water,Ice,2/2,Kanto,NONE
 88,Grimer,Poison,NONE,1/2,Kanto,NONE
-88,Alolan Grimer,Poison,Dark,1/2,Alola,Alolan Form
+88,Alolan Grimer,Poison,Dark,1/2,Alola,NONE
 89,Muk,Poison,NONE,2/2,Kanto,NONE
-89,Alolan Muk,Poison,Dark,2/2,Alola,Alolan Form
+89,Alolan Muk,Poison,Dark,2/2,Alola,NONE
 90,Shellder,Water,NONE,1/2,Kanto,NONE
 91,Cloyster,Water,Ice,2/2,Kanto,NONE
 92,Gastly,Ghost,Poison,1/3,Kanto,NONE
@@ -123,21 +123,21 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 98,Krabby,Water,NONE,1/2,Kanto,NONE
 99,Kingler,Water,NONE,2/2,Kanto,NONE
 100,Voltorb,Electric,NONE,1/2,Kanto,NONE
-100,Hisuian Voltorb,Electric,Grass,1/2,Hisui,Hisuian Form
+100,Hisuian Voltorb,Electric,Grass,1/2,Hisui,NONE
 101,Electrode,Electric,NONE,2/2,Kanto,NONE
-101,Hisuian Electrode,Electric,Grass,2/2,Hisui,Hisuian Form
+101,Hisuian Electrode,Electric,Grass,2/2,Hisui,NONE
 102,Exeggcute,Grass,Psychic,1/2,Kanto,NONE
 103,Exeggutor,Grass,Psychic,2/2,Kanto,NONE
-103,Alolan Exeggutor,Grass,Dragon,2/2,Alola,Alolan Form
+103,Alolan Exeggutor,Grass,Dragon,2/2,Alola,NONE
 104,Cubone,Ground,NONE,1/2,Kanto,NONE
 105,Marowak,Ground,NONE,2/2,Kanto,NONE
-105,Alolan Marowak,Fire,Ghost,2/2,Alola,Alolan Form
+105,Alolan Marowak,Fire,Ghost,2/2,Alola,NONE
 106,Hitmonlee,Fighting,NONE,2/2,Kanto,Branching-Post
 107,Hitmonchan,Fighting,NONE,2/2,Kanto,Branching-Post
 108,Lickitung,Normal,NONE,1/2,Kanto,NONE
 109,Koffing,Poison,NONE,1/2,Kanto,NONE
 110,Weezing,Poison,NONE,2/2,Kanto,NONE
-110,Galarian Weezing,Poison,Fairy,2/2,Galar,Galarian Form
+110,Galarian Weezing,Poison,Fairy,2/2,Galar,NONE
 111,Rhyhorn,Ground,Rock,1/3,Kanto,NONE
 112,Rhydon,Ground,Rock,2/3,Kanto,NONE
 113,Chansey,Normal,NONE,2/3,Kanto,NONE
@@ -150,4 +150,39 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 120,Staryu,Water,NONE,1/2,Kanto,NONE
 121,Starmie,Water,Psychic,2/2,Kanto,NONE
 122,Mr. Mime,Psychic,Fairy,2/3,Kanto,NONE
-122,Galarian Mr. Mime,Ice,Psychic,2/3,Galar,Galarian Form
+122,Galarian Mr. Mime,Ice,Psychic,2/3,Galar,NONE
+123,Scyther,Bug,Flying,1/2,Kanto,Branching-Pre
+124,Jynx,Ice,Psychic,2/2,Kanto,NONE
+125,Electabuzz,Electric,NONE,2/3,Kanto,NONE
+126,Magmar,Fire,NONE,2/3,Kanto,NONE
+127,Pinsir,Bug,NONE,1/1,Kanto,NONE
+128,Tauros,Normal,NONE,1/1,Kanto,NONE
+128,Paldean Tauros (Combat),Fighting,NONE,1/1,Paldea,Paldean Form
+128,Paldean Tauros (Blaze),Fighting,Fire,1/1,Paldea,Paldean Form
+128,Paldean Tauros (Aqua),Fighting,Water,1/1,Paldea,Paldean Form
+129,Magikarp,Water,NONE,1/2,Kanto,NONE
+130,Gyarados,Water,Flying,2/2,Kanto,NONE
+131,Lapras,Water,Ice,1/1,Kanto,NONE
+132,Ditto,Normal,NONE,1/1,Kanto,NONE
+133,Eevee,Normal,NONE,1/2,Kanto,Branching-Pre
+134,Vaporeon,Water,NONE,2/2,Kanto,Branching-Post
+135,Jolteon,Electric,NONE,2/2,Kanto,Branching-Post
+136,Flareon,Fire,NONE,2/2,Kanto,Branching-Post
+137,Porygon,Normal,NONE,1/3,Kanto,NONE
+138,Omanyte,Rock,Water,1/2,Kanto,Fossil
+139,Omastar,Rock,Water,2/2,Kanto,Fossil
+140,Kabuto,Rock,Water,1/2,Kanto,Fossil
+141,Kabutops,Rock,Water,2/2,Kanto,Fossil
+142,Aerodactyl,Rock,Flying,1/1,Kanto,Fossil
+143,Snorlax,Normal,NONE,2/2,Kanto,NONE
+144,Articuno,Ice,Flying,1/1,Kanto,Legendary
+144,Galarian Articuno,Psychic,Flying,1/1,Galar,Legendary
+145,Zapdos,Electric,Flying,1/1,Kanto,Legendary
+145,Galarian Zapdos,Fighting,Flying,1/1,Galar,Legendary
+146,Moltres,Fire,Flying,1/1,Kanto,Legendary
+146,Galarian Moltres,Dark,Flying,1/1,Kanto,Legendary
+147,Dratini,Dragon,NONE,1/3,Kanto,Pseudo-Legendary
+148,Dragonair,Dragon,NONE,2/3,Kanto,Pseudo-Legendary
+149,Dragonite,Dragon,Flying,3/3,Kanto,Pseudo-Legendary
+150,Mewtwo,Psychic,NONE,1/1,Kanto,Legendary
+151,New,Psychic,NONE,1/1,Kanto,Mythical

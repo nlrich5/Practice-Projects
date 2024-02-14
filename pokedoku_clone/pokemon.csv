@@ -292,3 +292,12 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 249,Lugia,Psychic,Flying,1/1,Johto,Legendary
 250,Ho-oh,Fire,Flying,1/1,Johto,Legendary
 251,Celebi,Psychic,Grass,1/1,Johto,Mythical
+252,Treecko,Grass,NONE,1/3,Hoenn,Starter
+253,Grovyle,Grass,NONE,2/3,Hoenn,Starter
+254,Sceptile,Grass,NONE,3/3,Hoenn,Starter
+255,Torchic,Fire,NONE,1/3,Hoenn,Starter
+256,Combusken,Fire,Fighting,2/3,Hoenn,Starter
+257,Blaziken,Fire,Fighting,3/3,Hoenn,Starter
+258,Mudkip,Water,NONE,1/3,Hoenn,Starter
+259,Marshtomp,Water,Ground,2/3,Hoenn,Starter
+260,Swampert,Water,Ground,3/3,Hoenn,Starter

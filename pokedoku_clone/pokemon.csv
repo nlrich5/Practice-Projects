@@ -238,3 +238,57 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 199,Slowking,Water,Psychic,2/2,Johto,Branching-Post
 199,Galarian Slowking,Poison,Psychic,2/2,Galar,Branching-Post
 200,Misdreavus,Ghost,NONE,1/2,Johto,NONE
+201,Unown,Psychic,NONE,1/1,Johto,NONE
+202,Wobbuffet,Psychic,NONE,2/2,Johto,NONE
+203,Girafarig,Normal,Psychic,1/2,Johto,NONE
+204,Pineco,Bug,NONE,1/2,Johto,NONE
+205,Forrtress,Bug,Steel,2/2,Johto,NONE
+206,Dunsparce,Normal,NONE,1/2,Johto,NONE
+207,Gligar,Ground,NONE,1/2,Johto,NONE
+208,Steelix,Steel,Ground,2/2,Johto,NONE
+209,Snubbull,Fairy,NONE,1/2,Johto,NONE
+210,Granbull,Fairy,NONE,2/2,Johto,NONE
+211,Qwilfish,Water,Poison,1/1,Johto,NONE
+211,Hisuian Qwilfish,Dark,Poison,1/2,Johto,NONE
+212,Scizor,Bug,Steel,2/2,Johto,Branching-Post
+213,Shuckle,Bug,Rock,1/1,Johto,NONE
+214,Heracross,Bug,Fighting,1/1,Johto,NONE
+215,Sneasel,Dark,Ice,1/2,Johto,NONE
+215,Hisuian Sneasel,Fighting,Poison,1/2,Hisui,NONE
+216,Teddiursa,Normal,NONE,1/3,Johto,NONE
+217,Ursaring,Normal,NONE,2/3,Johto,NONE
+218,Slugma,Fire,NONE,1/2,Johto,NONE
+219,Magcargo,Fire,Rock,2/2,Johto,NONE
+220,Swinub,Ice,Ground,1/3,Johto,NONE
+221,Piloswine,Ice,Ground,2/3,Johto,NONE
+222,Corsola,Water,Rock,1/1,Johto,NONE
+222,Galarian Corsola,Ghost,NONE,1/2,Galar,NONE
+223,Remoraid,Water,NONE,1/2,Johto,NONE
+224,Octillery,Water,NONE,2/2,Johto,NONE
+225,Delibird,Ice,Flying,1/1,Johto,NONE
+226,Mantine,Water,Flying,2/2,Johto,NONE
+227,Skarmory,Steel,Flying,1/1,Johto,NONE
+228,Houndour,Dark,Fire,1/2,Johto,NONE
+229,Houndoom,Dark,Fire,2/2,Johto,NONE
+230,Kingdra,Water,Dragon,3/3,Johto,NONE
+231,Phanpy,Ground,NONE,1/2,Johto,NONE
+232,Donphan,Ground,NONE,2/2,Johto,NONE
+233,Porygon2,Normal,NONE,2/3,Johto,NONE
+234,Stantler,Normal,NONE,1/2,Johto,NONE
+235,Smeargle,Normal,NONE,1/1,Johto,NONE
+236,Tyrogue,Fighting,NONE,1/2,Johto,Branching-Pre
+237,Hitmontop,Fighting,NONE,2/2,Johto,Branching-Post
+238,Smoochum,Ice,Psychic,1/2,Johto,Baby
+239,Elekid,Electric,NONE,1/3,Johto,Baby
+240,Magby,Fire,NONE,1/3,Johto,Baby
+241,Miltank,Normal,NONE,1/1,Johto,NONE
+242,Blissey,Normal,NONE,3/3,Johto,NONE
+243,Raikou,Electric,NONE,1/1,Johto,Legendary
+244,Entei,Fire,NONE,1/1,Johto,Legendary
+245,Suicune,Water,NONE,1/1,Johto,Legendary
+246,Larvitar,Rock,Ground,1/3,Johto,Pseudo-Legendary
+247,Pupitar,Rock,Ground,2/3,Johto,Pseudo-Legendary
+248,Tyranitar,Rock,Dark,3/3,Johto,Pseudo-Legendary
+249,Lugia,Psychic,Flying,1/1,Johto,Legendary
+250,Ho-oh,Fire,Flying,1/1,Johto,Legendary
+251,Celebi,Psychic,Grass,1/1,Johto,Mythical

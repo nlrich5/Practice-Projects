@@ -453,3 +453,31 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 405,Luxray,Electric,NONE,3/3,Sinnoh,NONE
 406,Budew,Grass,Poison,1/3,Sinnoh,NONE
 407,Roserade,Grass,Poison,3/3,Sinnoh,NONE
+408,Cranidos,Rock,NONE,1/2,Sinnoh,Fossil
+409,Rampardos,Rock,NONE,2/2,Sinnoh,Fossil
+410,Shieldon,Rock,Steel,1/2,Sinnoh,Fossil
+411,Bastiodon,Rock,Steel,2/2,Sinnoh,Fossil
+412,Burmy Plant,Bug,NONE,1/2,Sinnoh,Branching-Pre
+412,Burmy Sandy,Bug,NONE,1/2,Sinnoh,Branching-Pre
+412,Burmy Trash,Bug,NONE,1/2,Sinnoh,Branching-Pre
+413,Wormadam Plant,Bug,Grass,2/2,Sinnoh,Branching-Post
+413,Wormadam Sandy,Bug,Ground,2/2,Sinnoh,Branching-Post
+413,Wormadam Trash,Bug,Steel,2/2,Sinnoh,Branching-Post
+414,Mothim,Bug,Flying,2/2,Sinnoh,Branching-Post
+415,Combee,Bug,Flying,1/2,Sinnoh,NONE
+416,Vespiquen,Bug,Flying,2/2,Sinnoh,NONE
+417,Pachirisu,Electric,NONE,1/1,Sinnoh,NONE
+418,Buizel,Water,NONE,1/2,Sinnoh,NONE
+419,Floatzel,Water,NONE,2/2,Sinnoh,NONE
+420,Cherubi,Grass,NONE,1/2,Sinnoh,NONE
+421,Cherrim Overcast,Grass,NONE,2/2,Sinnoh,NONE
+421,Cherrim Sunshine,Grass,NONE,2/2,Sinnoh,NONE
+422,Shellos West,Water,NONE,1/2,Sinnoh,NONE
+422,Shellos East,Water,NONE,1/2,Sinnoh,NONE
+423,Gastrodon West,Water,Ground,2/2,Sinnoh,NONE
+423,Gastrodon East,Water,Ground,2/2,Sinnoh,NONE
+424,Ambipom,Normal,NONE,2/2,Sinnoh,NONE
+425,Drifloon,Ghost,Flying,1/2,Sinnoh,NONE
+426,Drifblim,Ghost,Flying,2/2,Sinnoh,NONE
+427,Buneary,Normal,NONE,1/2,Sinnoh,NONE
+428,Lopunny,Normal,NONE,2/2,Sinnoh,NONE

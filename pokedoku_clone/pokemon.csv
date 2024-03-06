@@ -481,3 +481,74 @@ Pokedex_No,Name,Type1,Type2,Evo_Stage,Region,Tag
 426,Drifblim,Ghost,Flying,2/2,Sinnoh,NONE
 427,Buneary,Normal,NONE,1/2,Sinnoh,NONE
 428,Lopunny,Normal,NONE,2/2,Sinnoh,NONE
+429,Mismagius,Ghost,NONE,2/2,Sinnoh,NONE
+430,Honchkrow,Dark,Flying,2/2,Sinnoh,NONE
+431,Glameow,Normal,NONE,1/2,Sinnoh,NONE
+432,Purugly,Normal,NONE,2/2,Sinnoh,NONE
+433,Chingling,Psychic,NONE,1/2,Sinnoh,NONE
+434,Stunky,Poison,Dark,1/2,Sinnoh,NONE
+435,Skuntank,Poison,Dark,2/2,Sinnoh,NONE
+436,Bronzor,Steel,Psychic,1/2,Sinnoh,NONE
+437,Bronzong,Steel,Psychic,2/2,Sinnoh,NONE
+438,Bonsly,Rock,NONE,1/2,Sinnoh,NONE
+439,Mime Jr.,Psychic,Fairy,1/3,Sinnoh,NONE
+440,Happiny,Normal,NONE,1/3,Sinnoh,NONE
+441,Chatot,Normal,Flying,1/1,Sinnoh,NONE
+442,Spiritomb,Ghost,Dark,1/1,Sinnoh,NONE
+443,Gible,Dragon,Ground,1/3,Sinnoh,Pseudo-Legendary
+444,Gabite,Dragon,Ground,2/3,Sinnoh,Pseudo-Legendary
+445,Garchomp,Dragon,Ground,3/3,Sinnoh,Pseudo-Legendary
+446,Munchlax,Normal,NONE,1/2,Sinnoh,NONE
+447,Riolu,Fighting,NONE,1/2,Sinnoh,NONE
+448,Lucario,Fighting,Steel,2/2,Sinnoh,NONE
+449,Hippopotas,Ground,NONE,1/2,Sinnoh,NONE
+450,Hippowdon,Ground,NONE,2/2,Sinnoh,NONE
+451,Skorupi,Poison,Bug,1/2,Sinnoh,NONE
+452,Drapion,Poison,Dark,2/2,Sinnoh,NONE
+453,Croagunk,Poison,Fighting,1/2,Sinnoh,NONE
+454,Toxicroak,Poison,Fighting,2/2,Sinnoh,NONE
+455,Carnivine,Grass,NONE,1/1,Sinnoh,NONE
+456,Finneon,Water,NONE,1/2,Sinnoh,NONE
+457,Lumineon,Water,NONE,2/2,Sinnoh,NONE
+458,Mantyke,Water,Flying,1/2,Sinnoh,NONE
+459,Snover,Grass,Ice,1/2,Sinnoh,NONE
+460,Abomasnow,Grass,Ice,2/2,Sinnoh,NONE
+461,Weavile,Dark,Ice,2/2,Sinnoh,NONE
+462,Magnezone,Electric,Steel,3/3,Sinnoh,NONE
+463,Lickilicky,Normal,NONE,2/2,Sinnoh,NONE
+464,Rhyperior,Ground,Rock,3/3,Sinnoh,NONE
+465,Tangrowth,Grass,NONE,2/2,Sinnoh,NONE
+466,Electivire,Electric,NONE,3/3,Sinnoh,NONE
+467,Magmortar,Fire,NONE,3/3,Sinnoh,NONE
+468,Togekiss,Fairy,Flying,3/3,Sinnoh,NONE
+469,Yanmega,Bug,Flying,2/2,Sinnoh,NONE
+470,Leafeon,Grass,NONE,2/2,Sinnoh,Branching-Post
+471,Glaceon,Ice,NONE,2/2,Sinnoh,Branching-Post
+472,Gliscor,Ground,Flying,2/2,Sinnoh,NONE
+473,Mamoswine,Ice,Ground,3/3,Sinnoh,NONE
+474,Porygon-Z,Normal,NONE,3/3,Sinnoh,NONE
+475,Gallade,Psychic,Fighting,3/3,Sinnoh,Branching-Post
+476,Probopass,Rock,Steel,2/2,Sinnoh,NONE
+477,Dusknoir,Ghost,NONE,3/3,Sinnoh,NONE
+478,Froslass,Ice,Ghost,3/3,Sinnoh,Branching-Post
+479,Rotom,Electric,Ghost,1/1,Sinnoh,NONE
+479,Rotom Heat,Electric,Fire,1/1,Sinnoh,NONE
+479,Rotom Wash,Electric,Water,1/1,Sinnoh,NONE
+479,Rotom Frost,Electric,Ice,1/1,Sinnoh,NONE
+479,Rotom Fan,Electric,Flying,1/1,Sinnoh,NONE
+479,Rotom Mow,Electric,Grass,1/1,Sinnoh,NONE
+480,Uxie,Psychic,NONE,1/1,Sinnoh,Legendary
+481,Mesprit,Psychic,NONE,1/1,Sinnoh,Legendary
+482,Azelf,Psychic,NONE,1/1,Sinnoh,Legendary
+483,Dialga,Steel,Dragon,1/1,Sinnoh,Legendary
+484,Palkia,Water,Dragon,1/1,Sinnoh,Legendary
+485,Heatran,Fire,Steel,1/1,Sinnoh,Legendary
+486,Regigigas,Normal,NONE,1/1,Sinnoh,Legendary
+487,Giratina,Ghost,Dragon,1/1,Sinnoh,Legendary
+488,Cresselia,Psychic,NONE,1/1,Sinnoh,Legendary
+489,Phione,Water,NONE,1/1,Sinnoh,Mythical
+490,Manaphy,Water,NONE,1/1,Sinnoh,Mythical
+491,Darkrai,Dark,NONE,1/1,Sinnoh,Mythical
+492,Shaymin (Land Forme),Grass,NONE,1/1,Sinnoh,Mythical
+492,Shaymin (Sky Forme),Grass,Flying,1/1,Sinnoh,Mythical
+493,Arceus,Normal,NONE,1/1,Sinnoh,Mythical

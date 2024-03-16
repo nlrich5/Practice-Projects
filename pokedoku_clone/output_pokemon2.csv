@@ -1,0 +1,1214 @@
+Pokedex_No,Name,Form,Type1,Type2,Region,Evo_Stage,Evo_Tag,Category
+1,Bulbasaur,NONE,Grass,Poison,Kanto,1/3,NONE,NONE
+2,Ivysaur,NONE,Grass,Poison,Kanto,2/3,NONE,NONE
+3,Venusaur,NONE,Grass,Poison,Kanto,3/3,NONE,NONE
+3,Venusaur,Mega Venusaur,Grass,Poison,Kanto,3/3,NONE,NONE
+4,Charmander,NONE,Fire,NONE,Kanto,1/3,NONE,NONE
+5,Charmeleon,NONE,Fire,NONE,Kanto,2/3,NONE,NONE
+6,Charizard,NONE,Fire,Flying,Kanto,3/3,NONE,NONE
+6,Charizard,Mega Charizard X,Fire,Dragon,Kanto,3/3,NONE,NONE
+6,Charizard,Mega Charizard Y,Fire,Flying,Kanto,3/3,NONE,NONE
+7,Squirtle,NONE,Water,NONE,Kanto,1/3,NONE,NONE
+8,Wartortle,NONE,Water,NONE,Kanto,2/3,NONE,NONE
+9,Blastoise,NONE,Water,NONE,Kanto,3/3,NONE,NONE
+9,Blastoise,Mega Blastoise,Water,NONE,Kanto,3/3,NONE,NONE
+10,Caterpie,NONE,Bug,NONE,Kanto,1/3,NONE,NONE
+11,Metapod,NONE,Bug,NONE,Kanto,2/3,NONE,NONE
+12,Butterfree,NONE,Bug,Flying,Kanto,3/3,NONE,NONE
+13,Weedle,NONE,Bug,Poison,Kanto,1/3,NONE,NONE
+14,Kakuna,NONE,Bug,Poison,Kanto,2/3,NONE,NONE
+15,Beedrill,NONE,Bug,Poison,Kanto,3/3,NONE,NONE
+15,Beedrill,Mega Beedrill,Bug,Poison,Kanto,3/3,NONE,NONE
+16,Pidgey,NONE,Normal,Flying,Kanto,1/3,NONE,NONE
+17,Pidgeotto,NONE,Normal,Flying,Kanto,2/3,NONE,NONE
+18,Pidgeot,NONE,Normal,Flying,Kanto,3/3,NONE,NONE
+18,Pidgeot,Mega Pidgeot,Normal,Flying,Kanto,3/3,NONE,NONE
+19,Rattata,NONE,Normal,NONE,Kanto,1/2,NONE,NONE
+19,Rattata,Alolan Rattata,Dark,Normal,Alola,1/2,NONE,NONE
+20,Raticate,NONE,Normal,NONE,Kanto,2/2,NONE,NONE
+20,Raticate,Alolan Raticate,Dark,Normal,Alola,2/2,NONE,NONE
+21,Spearow,NONE,Normal,Flying,Kanto,1/2,NONE,NONE
+22,Fearow,NONE,Normal,Flying,Kanto,1/2,NONE,NONE
+23,Ekans,NONE,Poison,NONE,Kanto,1/2,NONE,NONE
+24,Arbok,NONE,Poison,NONE,Kanto,2/2,NONE,NONE
+25,Pikachu,NONE,Electric,NONE,Kanto,2/3,NONE,NONE
+25,Pikachu,Partner Pikachu,Electric,NONE,Alola,1/1,NONE,NONE
+26,Raichu,NONE,Electric,NONE,Kanto,3/3,NONE,NONE
+26,Raichu,Alolan Raichu,Electric,Psychic,Alola,3/3,NONE,NONE
+27,Sandshrew,NONE,Ground,NONE,Kanto,1/2,NONE,NONE
+27,Sandshrew,Alolan Sandshrew,Ice,Steel,Alola,1/2,NONE,NONE
+28,Sandslash,NONE,Ground,NONE,Kanto,2/2,NONE,NONE
+28,Sandslash,Alolan Sandslash,Ice,Steel,Alola,2/2,NONE,NONE
+29,Nidoran,Female,Poison,NONE,Kanto,1/3,NONE,NONE
+30,Nidorina,NONE,Poison,NONE,Kanto,2/3,NONE,NONE
+31,Nidoqueen,NONE,Poison,Ground,Kanto,3/3,NONE,NONE
+32,Nidoran,Male,Poison,NONE,Kanto,1/3,NONE,NONE
+33,Nidorino,NONE,Poison,NONE,Kanto,2/3,NONE,NONE
+34,Nidoking,NONE,Poison,Ground,Kanto,3/3,NONE,NONE
+35,Clefairy,NONE,Fairy,NONE,Kanto,2/3,NONE,NONE
+36,Clefable,NONE,Fairy,NONE,Kanto,3/3,NONE,NONE
+37,Vulpix,NONE,Fire,NONE,Kanto,1/2,NONE,NONE
+37,Vulpix,Alolan Vulpix,Ice,NONE,Alola,1/2,NONE,NONE
+38,Ninetales,NONE,Fire,NONE,Kanto,2/2,NONE,NONE
+38,Ninetales,Alolan Ninetales,Ice,Fairy,Alola,2/2,NONE,NONE
+39,Jigglypuff,NONE,Normal,Fairy,Kanto,2/3,NONE,NONE
+40,Wigglytuff,NONE,Normal,Fairy,Kanto,3/3,NONE,NONE
+41,Zubat,NONE,Poison,Flying,Kanto,1/3,NONE,NONE
+42,Golbat,NONE,Poison,Flying,Kanto,2/3,NONE,NONE
+43,Oddish,NONE,Grass,Poison,Kanto,1/3,NONE,NONE
+44,Gloom,NONE,Grass,Poison,Kanto,2/3,NONE,NONE
+45,Vileplume,NONE,Grass,Poison,Kanto,3/3,NONE,NONE
+46,Paras,NONE,Bug,Grass,Kanto,1/2,NONE,NONE
+47,Parasect,NONE,Bug,Grass,Kanto,2/2,NONE,NONE
+48,Venonat,NONE,Bug,Poison,Kanto,1/2,NONE,NONE
+49,Venomoth,NONE,Bug,Poison,Kanto,2/2,NONE,NONE
+50,Diglett,NONE,Ground,NONE,Kanto,1/2,NONE,NONE
+50,Diglett,Alolan Diglett,Ground,Steel,Alola,1/2,NONE,NONE
+51,Dugtrio,NONE,Ground,NONE,Kanto,2/2,NONE,NONE
+51,Dugtrio,Alolan Dugtrio,Ground,Steel,Alola,2/2,NONE,NONE
+52,Meowth,NONE,Normal,NONE,Kanto,1/2,NONE,NONE
+52,Meowth,Alolan Meowth,Dark,NONE,Alola,1/2,NONE,NONE
+52,Meowth,Galarian Meowth,Steel,NONE,Galar,1/2,NONE,NONE
+53,Persian,NONE,Normal,NONE,Kanto,2/2,NONE,NONE
+53,Persian,Alolan Persian,Dark,NONE,Alola,2/2,NONE,NONE
+54,Psyduck,NONE,Water,NONE,Kanto,1/2,NONE,NONE
+55,Golduck,NONE,Water,NONE,Kanto,2/2,NONE,NONE
+56,Mankey,NONE,Fighting,NONE,Kanto,1/3,NONE,NONE
+57,Primeape,NONE,Fighting,NONE,Kanto,2/3,NONE,NONE
+58,Growlithe,NONE,Fire,NONE,Kanto,1/2,NONE,NONE
+58,Growlithe,Hisuian Growlithe,Fire,Rock,Galar,1/2,NONE,NONE
+59,Arcanine,NONE,Fire,NONE,Kanto,2/2,NONE,NONE
+59,Arcanine,Hisuian Arcanine,Fire,Rock,Galar,2/2,NONE,NONE
+60,Poliwag,NONE,Water,NONE,Kanto,1/3,NONE,NONE
+61,Poliwhirl,NONE,Water,NONE,Kanto,2/3,NONE,NONE
+62,Poliwrath,NONE,Water,Fighting,Kanto,3/3,NONE,NONE
+63,Abra,NONE,Psychic,NONE,Kanto,1/3,NONE,NONE
+64,Kadabra,NONE,Psychic,NONE,Kanto,2/3,NONE,NONE
+65,Alakazam,NONE,Psychic,NONE,Kanto,3/3,NONE,NONE
+65,Alakazam,Mega Alakazam,Psychic,NONE,Kanto,3/3,NONE,NONE
+66,Machop,NONE,Fighting,NONE,Kanto,1/3,NONE,NONE
+67,Machoke,NONE,Fighting,NONE,Kanto,2/3,NONE,NONE
+68,Machamp,NONE,Fighting,NONE,Kanto,3/3,NONE,NONE
+69,Bellsprout,NONE,Grass,Poison,Kanto,1/3,NONE,NONE
+70,Weepinbell,NONE,Grass,Poison,Kanto,2/3,NONE,NONE
+71,Victreebel,NONE,Grass,Poison,Kanto,3/3,NONE,NONE
+72,Tentacool,NONE,Water,Poison,Kanto,1/2,NONE,NONE
+73,Tentacruel,NONE,Water,Poison,Kanto,2/2,NONE,NONE
+74,Geodude,NONE,Rock,Ground,Kanto,1/3,NONE,NONE
+74,Geodude,Alolan Geodude,Rock,Electric,Alola,1/3,NONE,NONE
+75,Graveler,NONE,Rock,Ground,Kanto,2/3,NONE,NONE
+75,Graveler,Alolan Graveler,Rock,Electric,Alola,2/3,NONE,NONE
+76,Golem,NONE,Rock,Ground,Kanto,3/3,NONE,NONE
+76,Golem,Alolan Golem,Rock,Electric,Alola,3/3,NONE,NONE
+77,Ponyta,NONE,Fire,NONE,Kanto,1/2,NONE,NONE
+77,Ponyta,Galarian Ponyta,Psychic,NONE,Galar,1/2,NONE,NONE
+78,Rapidash,NONE,Fire,NONE,Kanto,2/2,NONE,NONE
+78,Rapidash,Galarian Rapidash,Psychic,Fairy,Galar,2/2,NONE,NONE
+79,Slowpoke,NONE,Water,Psychic,Kanto,1/2,NONE,NONE
+79,Slowpoke,Galarian Slowpoke,Psychic,NONE,Galar,1/2,NONE,NONE
+80,Slowbro,NONE,Water,Psychic,Kanto,2/2,NONE,NONE
+80,Slowbro,Mega Slowbro,Water,Psychic,Kanto,2/2,NONE,NONE
+80,Slowbro,Galarian Slowbro,Poison,Psychic,Galar,2/2,NONE,NONE
+81,Magnemite,NONE,Electric,Steel,Kanto,1/3,NONE,NONE
+82,Magneton,NONE,Electric,Steel,Kanto,2/3,NONE,NONE
+83,Farfetch'd,NONE,Normal,Flying,Kanto,1/1,NONE,NONE
+83,Farfetch'd,Galarian Farfetch'd,Fighting,NONE,Galar,1/2,NONE,NONE
+84,Doduo,NONE,Normal,Flying,Kanto,1/2,NONE,NONE
+85,Dodrio,NONE,Normal,Flying,Kanto,2/2,NONE,NONE
+86,Seel,NONE,Water,NONE,Kanto,1/2,NONE,NONE
+87,Dewgong,NONE,Water,Ice,Kanto,2/2,NONE,NONE
+88,Grimer,NONE,Poison,NONE,Kanto,1/2,NONE,NONE
+88,Grimer,Alolan Grimer,Poison,Dark,Alola,1/2,NONE,NONE
+89,Muk,NONE,Poison,NONE,Kanto,2/2,NONE,NONE
+89,Muk,Alolan Muk,Poison,Dark,Alola,2/2,NONE,NONE
+90,Shellder,NONE,Water,NONE,Kanto,1/2,NONE,NONE
+91,Cloyster,NONE,Water,Ice,Kanto,2/2,NONE,NONE
+92,Gastly,NONE,Ghost,Poison,Kanto,1/3,NONE,NONE
+93,Haunter,NONE,Ghost,Poison,Kanto,2/3,NONE,NONE
+94,Gengar,NONE,Ghost,Poison,Kanto,3/3,NONE,NONE
+94,Gengar,Mega Gengar,Ghost,Poison,Kanto,3/3,NONE,NONE
+95,Onix,NONE,Rock,Ground,Kanto,1/2,NONE,NONE
+96,Drowzee,NONE,Psychic,NONE,Kanto,1/2,NONE,NONE
+97,Hypno,NONE,Psychic,NONE,Kanto,2/2,NONE,NONE
+98,Krabby,NONE,Water,NONE,Kanto,1/2,NONE,NONE
+99,Kingler,NONE,Water,NONE,Kanto,2/2,NONE,NONE
+100,Voltorb,NONE,Electric,NONE,Kanto,1/2,NONE,NONE
+100,Voltorb,Hisuian Voltorb,Electric,Grass,Galar,1/2,NONE,NONE
+101,Electrode,NONE,Electric,NONE,Kanto,2/2,NONE,NONE
+101,Electrode,Hisuian Electrode,Electric,Grass,Galar,2/2,NONE,NONE
+102,Exeggcute,NONE,Grass,Psychic,Kanto,1/2,NONE,NONE
+103,Exeggutor,NONE,Grass,Psychic,Kanto,2/2,NONE,NONE
+103,Exeggutor,Alolan Exeggutor,Grass,Dragon,Alola,2/2,NONE,NONE
+104,Cubone,NONE,Ground,NONE,Kanto,1/2,NONE,NONE
+105,Marowak,NONE,Ground,NONE,Kanto,2/2,NONE,NONE
+105,Marowak,Alolan Marowak,Fire,Ghost,Alola,2/2,NONE,NONE
+106,Hitmonlee,NONE,Fighting,NONE,Kanto,2/2,NONE,NONE
+107,Hitmonchan,NONE,Fighting,NONE,Kanto,2/2,NONE,NONE
+108,Lickitung,NONE,Normal,NONE,Kanto,1/2,NONE,NONE
+109,Koffing,NONE,Poison,NONE,Kanto,1/2,NONE,NONE
+110,Weezing,NONE,Poison,NONE,Kanto,1/2,NONE,NONE
+110,Weezing,Galarian Weezing,Poison,Fairy,Galar,2/2,NONE,NONE
+111,Rhyhorn,NONE,Ground,Rock,Kanto,1/3,NONE,NONE
+112,Rhydon,NONE,Ground,Rock,Kanto,2/3,NONE,NONE
+113,Chansey,NONE,Normal,NONE,Kanto,2/3,NONE,NONE
+114,Tangela,NONE,Grass,NONE,Kanto,1/2,NONE,NONE
+115,Kangaskhan,NONE,Normal,NONE,Kanto,1/1,NONE,NONE
+115,Kangaskhan,Mega Kangaskhan,Normal,NONE,Kanto,1/1,NONE,NONE
+116,Horsea,NONE,Water,NONE,Kanto,1/3,NONE,NONE
+117,Seadra,NONE,Water,NONE,Kanto,2/3,NONE,NONE
+118,Goldeen,NONE,Water,NONE,Kanto,1/2,NONE,NONE
+119,Seaking,NONE,Water,NONE,Kanto,2/2,NONE,NONE
+120,Staryu,NONE,Water,NONE,Kanto,1/2,NONE,NONE
+121,Starmie,NONE,Water,Psychic,Kanto,2/2,NONE,NONE
+122,Mr. Mime,NONE,Psychic,Fairy,Kanto,2/2,NONE,NONE
+122,Mr. Mime,Galarian Mr. Mime,Ice,Psychic,Galar,2/3,NONE,NONE
+123,Scyther,NONE,Bug,Flying,Kanto,1/2,NONE,NONE
+124,Jynx,NONE,Ice,Psychic,Kanto,2/2,NONE,NONE
+125,Electabuzz,NONE,Electric,NONE,Kanto,2/3,NONE,NONE
+126,Magmar,NONE,Fire,NONE,Kanto,2/3,NONE,NONE
+127,Pinsir,NONE,Bug,NONE,Kanto,1/1,NONE,NONE
+127,Pinsir,Mega Pinsir,Bug,Flying,Kanto,1/1,NONE,NONE
+128,Tauros,NONE,Normal,NONE,Kanto,1/1,NONE,NONE
+128,Tauros,Combat Breed,Fighting,NONE,Paldea,1/1,NONE,NONE
+128,Tauros,Blaze Breed,Fighting,Fire,Paldea,1/1,NONE,NONE
+128,Tauros,Aqua Breed,Fighting,Water,Paldea,1/1,NONE,NONE
+129,Magikarp,NONE,Water,NONE,Kanto,1/2,NONE,NONE
+130,Gyarados,NONE,Water,Flying,Kanto,2/2,NONE,NONE
+130,Gyarados,Mega Gyarados,Water,Dark,Kanto,2/2,NONE,NONE
+131,Lapras,NONE,Water,Ice,Kanto,1/1,NONE,NONE
+132,Ditto,NONE,Normal,NONE,Kanto,1/1,NONE,NONE
+133,Eevee,NONE,Normal,NONE,Kanto,1/2,NONE,NONE
+133,Eevee,Partner Eevee,Normal,NONE,Alola,1/1,NONE,NONE
+134,Vaporeon,NONE,Water,NONE,Kanto,2/2,NONE,NONE
+135,Jolteon,NONE,Electric,NONE,Kanto,2/2,NONE,NONE
+136,Flareon,NONE,Fire,NONE,Kanto,2/2,NONE,NONE
+137,Porygon,NONE,Normal,NONE,Kanto,1/3,NONE,NONE
+138,Omanyte,NONE,Rock,Water,Kanto,1/2,NONE,NONE
+139,Omastar,NONE,Rock,Water,Kanto,2/2,NONE,NONE
+140,Kabuto,NONE,Rock,Water,Kanto,1/2,NONE,NONE
+141,Kabutops,NONE,Rock,Water,Kanto,2/2,NONE,NONE
+142,Aerodactyl,NONE,Rock,Flying,Kanto,1/1,NONE,NONE
+142,Aerodactyl,Mega Aerodactyl,Rock,Flying,Kanto,1/1,NONE,NONE
+143,Snorlax,NONE,Normal,NONE,Kanto,2/2,NONE,NONE
+144,Articuno,NONE,Ice,Flying,Kanto,1/1,NONE,NONE
+144,Articuno,Galarian Articuno,Psychic,Flying,Galar,1/1,NONE,NONE
+145,Zapdos,NONE,Electric,Flying,Kanto,1/1,NONE,NONE
+145,Zapdos,Galarian Zapdos,Fighting,Flying,Galar,1/1,NONE,NONE
+146,Moltres,NONE,Fire,Flying,Kanto,1/1,NONE,NONE
+146,Moltres,Galarian Moltres,Dark,Flying,Galar,1/1,NONE,NONE
+147,Dratini,NONE,Dragon,NONE,Kanto,1/3,NONE,NONE
+148,Dragonair,NONE,Dragon,NONE,Kanto,2/3,NONE,NONE
+149,Dragonite,NONE,Dragon,Flying,Kanto,3/3,NONE,NONE
+150,Mewtwo,NONE,Psychic,NONE,Kanto,1/1,NONE,NONE
+150,Mewtwo,Mega Mewtwo X,Psychic,Fighting,Kanto,1/1,NONE,NONE
+150,Mewtwo,Mega Mewtwo Y,Psychic,NONE,Kanto,1/1,NONE,NONE
+151,Mew,NONE,Psychic,NONE,Kanto,1/1,NONE,NONE
+152,Chikorita,NONE,Grass,NONE,Johto,1/3,NONE,NONE
+153,Bayleef,NONE,Grass,NONE,Johto,2/3,NONE,NONE
+154,Meganium,NONE,Grass,NONE,Johto,3/3,NONE,NONE
+155,Cyndaquil,NONE,Fire,NONE,Johto,1/3,NONE,NONE
+156,Quilava,NONE,Fire,NONE,Johto,2/3,NONE,NONE
+157,Typhlosion,NONE,Fire,NONE,Johto,3/3,NONE,NONE
+157,Typhlosion,Hisuian Typhlosion,Fire,Ghost,Galar,3/3,NONE,NONE
+158,Totodile,NONE,Water,NONE,Johto,1/3,NONE,NONE
+159,Croconaw,NONE,Water,NONE,Johto,2/3,NONE,NONE
+160,Feraligatr,NONE,Water,NONE,Johto,3/3,NONE,NONE
+161,Sentret,NONE,Normal,NONE,Johto,1/2,NONE,NONE
+162,Furret,NONE,Normal,NONE,Johto,2/2,NONE,NONE
+163,Hoothoot,NONE,Normal,Flying,Johto,1/2,NONE,NONE
+164,Noctowl,NONE,Normal,Flying,Johto,2/2,NONE,NONE
+165,Ledyba,NONE,Bug,Flying,Johto,1/2,NONE,NONE
+166,Ledian,NONE,Bug,Flying,Johto,2/2,NONE,NONE
+167,Spinarak,NONE,Bug,Poison,Johto,1/2,NONE,NONE
+168,Ariados,NONE,Bug,Poison,Johto,2/2,NONE,NONE
+169,Crobat,NONE,Poison,Flying,Johto,3/3,NONE,NONE
+170,Chinchou,NONE,Water,Electric,Johto,1/2,NONE,NONE
+171,Lanturn,NONE,Water,Electric,Johto,2/2,NONE,NONE
+172,Pichu,NONE,Electric,NONE,Johto,1/3,NONE,NONE
+173,Cleffa,NONE,Fairy,NONE,Johto,1/3,NONE,NONE
+174,Igglybuff,NONE,Normal,Fairy,Johto,1/3,NONE,NONE
+175,Togepi,NONE,Fairy,NONE,Johto,1/3,NONE,NONE
+176,Togetic,NONE,Fairy,Flying,Johto,2/3,NONE,NONE
+177,Natu,NONE,Psychic,Flying,Johto,1/2,NONE,NONE
+178,Xatu,NONE,Psychic,Flying,Johto,2/2,NONE,NONE
+179,Mareep,NONE,Electric,NONE,Johto,1/3,NONE,NONE
+180,Flaaffy,NONE,Electric,NONE,Johto,2/3,NONE,NONE
+181,Ampharos,NONE,Electric,NONE,Johto,3/3,NONE,NONE
+181,Ampharos,Mega Ampharos,Electric,Dragon,Johto,3/3,NONE,NONE
+182,Bellossom,NONE,Grass,NONE,Johto,3/3,NONE,NONE
+183,Marill,NONE,Water,Fairy,Johto,2/3,NONE,NONE
+184,Azumarill,NONE,Water,Fairy,Johto,3/3,NONE,NONE
+185,Sudowoodo,NONE,Rock,NONE,Johto,2/2,NONE,NONE
+186,Politoed,NONE,Water,NONE,Johto,3/3,NONE,NONE
+187,Hoppip,NONE,Grass,Flying,Johto,1/3,NONE,NONE
+188,Skiploom,NONE,Grass,Flying,Johto,2/3,NONE,NONE
+189,Jumpluff,NONE,Grass,Flying,Johto,3/3,NONE,NONE
+190,Aipom,NONE,Normal,NONE,Johto,1/2,NONE,NONE
+191,Sunkern,NONE,Grass,NONE,Johto,1/2,NONE,NONE
+192,Sunflora,NONE,Grass,NONE,Johto,2/2,NONE,NONE
+193,Yanma,NONE,Bug,Flying,Johto,1/2,NONE,NONE
+194,Wooper,NONE,Water,Ground,Johto,1/2,NONE,NONE
+194,Wooper,Paldean Wooper,Poison,Ground,Paldea,1/2,NONE,NONE
+195,Quagsire,NONE,Water,Ground,Johto,2/2,NONE,NONE
+196,Espeon,NONE,Psychic,NONE,Johto,2/2,NONE,NONE
+197,Umbreon,NONE,Dark,NONE,Johto,2/2,NONE,NONE
+198,Murkrow,NONE,Dark,Flying,Johto,1/2,NONE,NONE
+199,Slowking,NONE,Water,Psychic,Johto,2/2,NONE,NONE
+199,Slowking,Galarian Slowking,Poison,Psychic,Galar,2/2,NONE,NONE
+200,Misdreavus,NONE,Ghost,NONE,Johto,1/2,NONE,NONE
+201,Unown,NONE,Psychic,NONE,Johto,1/1,NONE,NONE
+202,Wobbuffet,NONE,Psychic,NONE,Johto,2/2,NONE,NONE
+203,Girafarig,NONE,Normal,Psychic,Johto,1/2,NONE,NONE
+204,Pineco,NONE,Bug,NONE,Johto,1/2,NONE,NONE
+205,Forretress,NONE,Bug,Steel,Johto,2/2,NONE,NONE
+206,Dunsparce,NONE,Normal,NONE,Johto,1/2,NONE,NONE
+207,Gligar,NONE,Ground,Flying,Johto,1/2,NONE,NONE
+208,Steelix,NONE,Steel,Ground,Johto,2/2,NONE,NONE
+208,Steelix,Mega Steelix,Steel,Ground,Johto,2/2,NONE,NONE
+209,Snubbull,NONE,Fairy,NONE,Johto,1/2,NONE,NONE
+210,Granbull,NONE,Fairy,NONE,Johto,2/2,NONE,NONE
+211,Qwilfish,NONE,Water,Poison,Johto,1/1,NONE,NONE
+211,Qwilfish,Hisuian Qwilfish,Dark,Poison,Galar,1/2,NONE,NONE
+212,Scizor,NONE,Bug,Steel,Johto,2/2,NONE,NONE
+212,Scizor,Mega Scizor,Bug,Steel,Johto,2/2,NONE,NONE
+213,Shuckle,NONE,Bug,Rock,Johto,1/1,NONE,NONE
+214,Heracross,NONE,Bug,Fighting,Johto,1/1,NONE,NONE
+214,Heracross,Mega Heracross,Bug,Fighting,Johto,1/1,NONE,NONE
+215,Sneasel,NONE,Dark,Ice,Johto,1/2,NONE,NONE
+215,Sneasel,Hisuian Sneasel,Fighting,Poison,Galar,1/2,NONE,NONE
+216,Teddiursa,NONE,Normal,NONE,Johto,1/3,NONE,NONE
+217,Ursaring,NONE,Normal,NONE,Johto,2/3,NONE,NONE
+218,Slugma,NONE,Fire,NONE,Johto,1/2,NONE,NONE
+219,Magcargo,NONE,Fire,Rock,Johto,2/2,NONE,NONE
+220,Swinub,NONE,Ice,Ground,Johto,1/3,NONE,NONE
+221,Piloswine,NONE,Ice,Ground,Johto,2/3,NONE,NONE
+222,Corsola,NONE,Water,Rock,Johto,1/1,NONE,NONE
+222,Corsola,Galarian Corsola,Ghost,NONE,Galar,1/2,NONE,NONE
+223,Remoraid,NONE,Water,NONE,Johto,1/2,NONE,NONE
+224,Octillery,NONE,Water,NONE,Johto,2/2,NONE,NONE
+225,Delibird,NONE,Ice,Flying,Johto,1/1,NONE,NONE
+226,Mantine,NONE,Water,Flying,Johto,2/2,NONE,NONE
+227,Skarmory,NONE,Steel,Flying,Johto,1/1,NONE,NONE
+228,Houndour,NONE,Dark,Fire,Johto,1/2,NONE,NONE
+229,Houndoom,NONE,Dark,Fire,Johto,2/2,NONE,NONE
+229,Houndoom,Mega Houndoom,Dark,Fire,Johto,2/2,NONE,NONE
+230,Kingdra,NONE,Water,Dragon,Johto,3/3,NONE,NONE
+231,Phanpy,NONE,Ground,NONE,Johto,1/2,NONE,NONE
+232,Donphan,NONE,Ground,NONE,Johto,2/2,NONE,NONE
+233,Porygon2,NONE,Normal,NONE,Johto,2/3,NONE,NONE
+234,Stantler,NONE,Normal,NONE,Johto,1/2,NONE,NONE
+235,Smeargle,NONE,Normal,NONE,Johto,1/1,NONE,NONE
+236,Tyrogue,NONE,Fighting,NONE,Johto,1/2,NONE,NONE
+237,Hitmontop,NONE,Fighting,NONE,Johto,2/2,NONE,NONE
+238,Smoochum,NONE,Ice,Psychic,Johto,1/2,NONE,NONE
+239,Elekid,NONE,Electric,NONE,Johto,1/3,NONE,NONE
+240,Magby,NONE,Fire,NONE,Johto,1/3,NONE,NONE
+241,Miltank,NONE,Normal,NONE,Johto,1/1,NONE,NONE
+242,Blissey,NONE,Normal,NONE,Johto,3/3,NONE,NONE
+243,Raikou,NONE,Electric,NONE,Johto,1/1,NONE,NONE
+244,Entei,NONE,Fire,NONE,Johto,1/1,NONE,NONE
+245,Suicune,NONE,Water,NONE,Johto,1/1,NONE,NONE
+246,Larvitar,NONE,Rock,Ground,Johto,1/3,NONE,NONE
+247,Pupitar,NONE,Rock,Ground,Johto,2/3,NONE,NONE
+248,Tyranitar,NONE,Rock,Dark,Johto,3/3,NONE,NONE
+248,Tyranitar,Mega Tyranitar,Rock,Dark,Johto,3/3,NONE,NONE
+249,Lugia,NONE,Psychic,Flying,Johto,1/1,NONE,NONE
+250,Ho-oh,NONE,Fire,Flying,Johto,1/1,NONE,NONE
+251,Celebi,NONE,Psychic,Grass,Johto,1/1,NONE,NONE
+252,Treecko,NONE,Grass,NONE,Hoenn,1/3,NONE,NONE
+253,Grovyle,NONE,Grass,NONE,Hoenn,2/3,NONE,NONE
+254,Sceptile,NONE,Grass,NONE,Hoenn,3/3,NONE,NONE
+254,Sceptile,Mega Sceptile,Grass,Dragon,Hoenn,3/3,NONE,NONE
+255,Torchic,NONE,Fire,NONE,Hoenn,1/3,NONE,NONE
+256,Combusken,NONE,Fire,Fighting,Hoenn,2/3,NONE,NONE
+257,Blaziken,NONE,Fire,Fighting,Hoenn,3/3,NONE,NONE
+257,Blaziken,Mega Blaziken,Fire,Fighting,Hoenn,3/3,NONE,NONE
+258,Mudkip,NONE,Water,NONE,Hoenn,1/3,NONE,NONE
+259,Marshtomp,NONE,Water,Ground,Hoenn,2/3,NONE,NONE
+260,Swampert,NONE,Water,Ground,Hoenn,3/3,NONE,NONE
+260,Swampert,Mega Swampert,Water,Ground,Hoenn,3/3,NONE,NONE
+261,Poochyena,NONE,Dark,NONE,Hoenn,1/2,NONE,NONE
+262,Mightyena,NONE,Dark,NONE,Hoenn,2/2,NONE,NONE
+263,Zigzagoon,NONE,Normal,NONE,Hoenn,1/2,NONE,NONE
+263,Zigzagoon,Galarian Zigzagoon,Dark,Normal,Galar,1/3,NONE,NONE
+264,Linoone,NONE,Normal,NONE,Hoenn,2/2,NONE,NONE
+264,Linoone,Galarian Linoone,Dark,Normal,Galar,2/3,NONE,NONE
+265,Wurmple,NONE,Bug,NONE,Hoenn,1/3,NONE,NONE
+266,Silcoon,NONE,Bug,NONE,Hoenn,2/3,NONE,NONE
+267,Beautifly,NONE,Bug,Flying,Hoenn,3/3,NONE,NONE
+268,Cascoon,NONE,Bug,NONE,Hoenn,2/3,NONE,NONE
+269,Dustox,NONE,Bug,Poison,Hoenn,3/3,NONE,NONE
+270,Lotad,NONE,Water,Grass,Hoenn,1/3,NONE,NONE
+271,Lombre,NONE,Water,Grass,Hoenn,2/3,NONE,NONE
+272,Ludicolo,NONE,Water,Grass,Hoenn,3/3,NONE,NONE
+273,Seedot,NONE,Grass,NONE,Hoenn,1/3,NONE,NONE
+274,Nuzleaf,NONE,Grass,Dark,Hoenn,2/3,NONE,NONE
+275,Shiftry,NONE,Grass,Dark,Hoenn,3/3,NONE,NONE
+276,Taillow,NONE,Normal,Flying,Hoenn,1/2,NONE,NONE
+277,Swellow,NONE,Normal,Flying,Hoenn,2/2,NONE,NONE
+278,Wingull,NONE,Water,Flying,Hoenn,1/2,NONE,NONE
+279,Pelipper,NONE,Water,Flying,Hoenn,2/2,NONE,NONE
+280,Ralts,NONE,Psychic,Fairy,Hoenn,1/3,NONE,NONE
+281,Kirlia,NONE,Psychic,Fairy,Hoenn,2/3,NONE,NONE
+282,Gardevoir,NONE,Psychic,Fairy,Hoenn,3/3,NONE,NONE
+282,Gardevoir,Mega Gardevoir,Psychic,Fairy,Hoenn,3/3,NONE,NONE
+283,Surskit,NONE,Bug,Water,Hoenn,1/2,NONE,NONE
+284,Masquerain,NONE,Bug,Flying,Hoenn,2/2,NONE,NONE
+285,Shroomish,NONE,Grass,NONE,Hoenn,1/3,NONE,NONE
+286,Breloom,NONE,Grass,Fighting,Hoenn,2/2,NONE,NONE
+287,Slakoth,NONE,Normal,NONE,Hoenn,1/3,NONE,NONE
+288,Vigoroth,NONE,Normal,NONE,Hoenn,2/3,NONE,NONE
+289,Slaking,NONE,Normal,NONE,Hoenn,3/3,NONE,NONE
+290,Nincada,NONE,Bug,Ground,Hoenn,1/2,NONE,NONE
+291,Ninjask,NONE,Bug,Flying,Hoenn,2/2,NONE,NONE
+292,Shedinja,NONE,Bug,Ghost,Hoenn,2/2,NONE,NONE
+293,Whismur,NONE,Normal,NONE,Hoenn,1/3,NONE,NONE
+294,Loudred,NONE,Normal,NONE,Hoenn,2/3,NONE,NONE
+295,Exploud,NONE,Normal,NONE,Hoenn,3/3,NONE,NONE
+296,Makuhita,NONE,Fighting,NONE,Hoenn,1/2,NONE,NONE
+297,Hariyama,NONE,Fighting,NONE,Hoenn,2/2,NONE,NONE
+298,Azurill,NONE,Normal,Fairy,Hoenn,1/3,NONE,NONE
+299,Nosepass,NONE,Rock,NONE,Hoenn,1/2,NONE,NONE
+300,Skitty,NONE,Normal,NONE,Hoenn,1/2,NONE,NONE
+301,Delcatty,NONE,Normal,NONE,Hoenn,2/2,NONE,NONE
+302,Sableye,NONE,Dark,Ghost,Hoenn,1/1,NONE,NONE
+302,Sableye,Mega Sableye,Dark,Ghost,Hoenn,1/1,NONE,NONE
+303,Mawile,NONE,Steel,Fairy,Hoenn,1/1,NONE,NONE
+303,Mawile,Mega Mawile,Steel,Fairy,Hoenn,1/1,NONE,NONE
+304,Aron,NONE,Steel,Rock,Hoenn,1/3,NONE,NONE
+305,Lairon,NONE,Steel,Rock,Hoenn,2/3,NONE,NONE
+306,Aggron,NONE,Steel,Rock,Hoenn,3/3,NONE,NONE
+306,Aggron,Mega Aggron,Steel,NONE,Hoenn,3/3,NONE,NONE
+307,Meditite,NONE,Fighting,Psychic,Hoenn,1/2,NONE,NONE
+308,Medicham,NONE,Fighting,Psychic,Hoenn,2/2,NONE,NONE
+308,Medicham,Mega Medicham,Fighting,Psychic,Hoenn,2/2,NONE,NONE
+309,Electrike,NONE,Electric,NONE,Hoenn,1/2,NONE,NONE
+310,Manectric,NONE,Electric,NONE,Hoenn,2/2,NONE,NONE
+310,Manectric,Mega Manectric,Electric,NONE,Hoenn,2/2,NONE,NONE
+311,Plusle,NONE,Electric,NONE,Hoenn,1/1,NONE,NONE
+312,Minun,NONE,Electric,NONE,Hoenn,1/1,NONE,NONE
+313,Volbeat,NONE,Bug,NONE,Hoenn,1/1,NONE,NONE
+314,Illumise,NONE,Bug,NONE,Hoenn,1/1,NONE,NONE
+315,Roselia,NONE,Grass,Poison,Hoenn,2/3,NONE,NONE
+316,Gulpin,NONE,Poison,NONE,Hoenn,1/2,NONE,NONE
+317,Swalot,NONE,Poison,NONE,Hoenn,2/2,NONE,NONE
+318,Carvanha,NONE,Water,Dark,Hoenn,1/2,NONE,NONE
+319,Sharpedo,NONE,Water,Dark,Hoenn,2/2,NONE,NONE
+319,Sharpedo,Mega Sharpedo,Water,Dark,Hoenn,2/2,NONE,NONE
+320,Wailmer,NONE,Water,NONE,Hoenn,1/3,NONE,NONE
+321,Wailord,NONE,Water,NONE,Hoenn,2/3,NONE,NONE
+322,Numel,NONE,Fire,Ground,Hoenn,1/2,NONE,NONE
+323,Camerupt,NONE,Fire,Ground,Hoenn,2/2,NONE,NONE
+323,Camerupt,Mega Camerupt,Fire,Ground,Hoenn,2/2,NONE,NONE
+324,Torkoal,NONE,Fire,NONE,Hoenn,1/1,NONE,NONE
+325,Spoink,NONE,Psychic,NONE,Hoenn,1/2,NONE,NONE
+326,Grumpig,NONE,Psychic,NONE,Hoenn,2/2,NONE,NONE
+327,Spinda,NONE,Normal,NONE,Hoenn,1/1,NONE,NONE
+328,Trapinch,NONE,Ground,NONE,Hoenn,1/3,NONE,NONE
+329,Vibrava,NONE,Ground,Dragon,Hoenn,2/3,NONE,NONE
+330,Flygon,NONE,Ground,Dragon,Hoenn,3/3,NONE,NONE
+331,Cacnea,NONE,Grass,NONE,Hoenn,1/2,NONE,NONE
+332,Cacturne,NONE,Grass,Dark,Hoenn,2/2,NONE,NONE
+333,Swablu,NONE,Normal,Flying,Hoenn,1/2,NONE,NONE
+334,Altaria,NONE,Dragon,Flying,Hoenn,2/2,NONE,NONE
+334,Altaria,Mega Altaria,Dragon,Fairy,Hoenn,2/2,NONE,NONE
+335,Zangoose,NONE,Normal,NONE,Hoenn,1/1,NONE,NONE
+336,Seviper,NONE,Poison,NONE,Hoenn,1/1,NONE,NONE
+337,Lunatone,NONE,Rock,Psychic,Hoenn,1/1,NONE,NONE
+338,Solrock,NONE,Rock,Psychic,Hoenn,1/1,NONE,NONE
+339,Barboach,NONE,Water,Ground,Hoenn,1/2,NONE,NONE
+340,Whiscash,NONE,Water,Ground,Hoenn,2/2,NONE,NONE
+341,Corphish,NONE,Water,NONE,Hoenn,1/2,NONE,NONE
+342,Crawdaunt,NONE,Water,Dark,Hoenn,2/2,NONE,NONE
+343,Baltoy,NONE,Ground,Psychic,Hoenn,1/2,NONE,NONE
+344,Claydol,NONE,Ground,Psychic,Hoenn,2/2,NONE,NONE
+345,Lileep,NONE,Rock,Grass,Hoenn,1/2,NONE,NONE
+346,Cradily,NONE,Rock,Grass,Hoenn,2/2,NONE,NONE
+347,Anorith,NONE,Rock,Bug,Hoenn,1/2,NONE,NONE
+348,Armaldo,NONE,Rock,Bug,Hoenn,2/2,NONE,NONE
+349,Feebas,NONE,Water,NONE,Hoenn,1/2,NONE,NONE
+350,Milotic,NONE,Water,NONE,Hoenn,2/2,NONE,NONE
+351,Castform,NONE,Normal,NONE,Hoenn,1/1,NONE,NONE
+351,Castform,Sunny Form,Fire,NONE,Hoenn,1/1,NONE,NONE
+351,Castform,Rainy Form,Water,NONE,Hoenn,1/1,NONE,NONE
+351,Castform,Snowy Form,Ice,NONE,Hoenn,1/1,NONE,NONE
+352,Kecleon,NONE,Normal,NONE,Hoenn,1/1,NONE,NONE
+353,Shuppet,NONE,Ghost,NONE,Hoenn,1/2,NONE,NONE
+354,Banette,NONE,Ghost,NONE,Hoenn,2/2,NONE,NONE
+354,Banette,Mega Banette,Ghost,NONE,Hoenn,2/2,NONE,NONE
+355,Duskull,NONE,Ghost,NONE,Hoenn,1/3,NONE,NONE
+356,Dusclops,NONE,Ghost,NONE,Hoenn,2/3,NONE,NONE
+357,Tropius,NONE,Grass,Flying,Hoenn,1/1,NONE,NONE
+358,Chimecho,NONE,Psychic,NONE,Hoenn,2/2,NONE,NONE
+359,Absol,NONE,Dark,NONE,Hoenn,1/1,NONE,NONE
+359,Absol,Mega Absol,Dark,NONE,Hoenn,1/1,NONE,NONE
+360,Wynaut,NONE,Psychic,NONE,Hoenn,1/2,NONE,NONE
+361,Snorunt,NONE,Ice,NONE,Hoenn,1/2,NONE,NONE
+362,Glalie,NONE,Ice,NONE,Hoenn,2/2,NONE,NONE
+362,Glalie,Mega Glalie,Ice,NONE,Hoenn,2/2,NONE,NONE
+363,Spheal,NONE,Ice,Water,Hoenn,1/3,NONE,NONE
+364,Sealeo,NONE,Ice,Water,Hoenn,2/3,NONE,NONE
+365,Walrein,NONE,Ice,Water,Hoenn,3/3,NONE,NONE
+366,Clamperl,NONE,Water,NONE,Hoenn,1/2,NONE,NONE
+367,Huntail,NONE,Water,NONE,Hoenn,2/2,NONE,NONE
+368,Gorebyss,NONE,Water,NONE,Hoenn,2/2,NONE,NONE
+369,Relicanth,NONE,Water,Rock,Hoenn,1/1,NONE,NONE
+370,Luvdisc,NONE,Water,NONE,Hoenn,1/1,NONE,NONE
+371,Bagon,NONE,Dragon,NONE,Hoenn,1/3,NONE,NONE
+372,Shelgon,NONE,Dragon,NONE,Hoenn,2/3,NONE,NONE
+373,Salamence,NONE,Dragon,Flying,Hoenn,3/3,NONE,NONE
+373,Salamence,Mega Salamence,Dragon,Flying,Hoenn,3/3,NONE,NONE
+374,Beldum,NONE,Steel,Psychic,Hoenn,1/3,NONE,NONE
+375,Metang,NONE,Steel,Psychic,Hoenn,2/3,NONE,NONE
+376,Metagross,NONE,Steel,Psychic,Hoenn,3/3,NONE,NONE
+376,Metagross,Mega Metagross,Steel,Psychic,Hoenn,3/3,NONE,NONE
+377,Regirock,NONE,Rock,NONE,Hoenn,1/1,NONE,NONE
+378,Regice,NONE,Ice,NONE,Hoenn,1/1,NONE,NONE
+379,Registeel,NONE,Steel,NONE,Hoenn,1/1,NONE,NONE
+380,Latias,NONE,Dragon,Psychic,Hoenn,1/1,NONE,NONE
+380,Latias,Mega Latias,Dragon,Psychic,Hoenn,1/1,NONE,NONE
+381,Latios,NONE,Dragon,Psychic,Hoenn,1/1,NONE,NONE
+381,Latios,Mega Latios,Dragon,Psychic,Hoenn,1/1,NONE,NONE
+382,Kyogre,NONE,Water,NONE,Hoenn,1/1,NONE,NONE
+382,Kyogre,Primal Kyogre,Water,NONE,Hoenn,1/1,NONE,NONE
+383,Groudon,NONE,Ground,NONE,Hoenn,1/1,NONE,NONE
+383,Groudon,Primal Groudon,Ground,Fire,Hoenn,1/1,NONE,NONE
+384,Rayquaza,NONE,Dragon,Flying,Hoenn,1/1,NONE,NONE
+384,Rayquaza,Mega Rayquaza,Dragon,Flying,Hoenn,1/1,NONE,NONE
+385,Jirachi,NONE,Steel,Psychic,Hoenn,1/1,NONE,NONE
+386,Deoxys,Normal Forme,Psychic,NONE,Hoenn,1/1,NONE,NONE
+386,Deoxys,Attack Forme,Psychic,NONE,Hoenn,1/1,NONE,NONE
+386,Deoxys,Defense Forme,Psychic,NONE,Hoenn,1/1,NONE,NONE
+386,Deoxys,Speed Forme,Psychic,NONE,Hoenn,1/1,NONE,NONE
+387,Turtwig,NONE,Grass,NONE,Sinnoh,1/3,NONE,NONE
+388,Grotle,NONE,Grass,NONE,Sinnoh,2/3,NONE,NONE
+389,Torterra,NONE,Grass,Ground,Sinnoh,3/3,NONE,NONE
+390,Chimchar,NONE,Fire,NONE,Sinnoh,1/3,NONE,NONE
+391,Monferno,NONE,Fire,Fighting,Sinnoh,2/3,NONE,NONE
+392,Infernape,NONE,Fire,Fighting,Sinnoh,3/3,NONE,NONE
+393,Piplup,NONE,Water,NONE,Sinnoh,1/3,NONE,NONE
+394,Prinplup,NONE,Water,NONE,Sinnoh,2/3,NONE,NONE
+395,Empoleon,NONE,Water,Steel,Sinnoh,3/3,NONE,NONE
+396,Starly,NONE,Normal,Flying,Sinnoh,1/3,NONE,NONE
+397,Staravia,NONE,Normal,Flying,Sinnoh,2/3,NONE,NONE
+398,Staraptor,NONE,Normal,Flying,Sinnoh,3/3,NONE,NONE
+399,Bidoof,NONE,Normal,NONE,Sinnoh,1/2,NONE,NONE
+400,Bibarel,NONE,Normal,Water,Sinnoh,2/2,NONE,NONE
+401,Kricketot,NONE,Bug,NONE,Sinnoh,1/2,NONE,NONE
+402,Kricketune,NONE,Bug,NONE,Sinnoh,2/2,NONE,NONE
+403,Shinx,NONE,Electric,NONE,Sinnoh,1/3,NONE,NONE
+404,Luxio,NONE,Electric,NONE,Sinnoh,2/3,NONE,NONE
+405,Luxray,NONE,Electric,NONE,Sinnoh,3/3,NONE,NONE
+406,Budew,NONE,Grass,Poison,Sinnoh,1/3,NONE,NONE
+407,Roserade,NONE,Grass,Poison,Sinnoh,3/3,NONE,NONE
+408,Cranidos,NONE,Rock,NONE,Sinnoh,1/2,NONE,NONE
+409,Rampardos,NONE,Rock,NONE,Sinnoh,2/2,NONE,NONE
+410,Shieldon,NONE,Rock,Steel,Sinnoh,1/2,NONE,NONE
+411,Bastiodon,NONE,Rock,Steel,Sinnoh,2/2,NONE,NONE
+412,Burmy,Plant Cloak,Bug,NONE,Sinnoh,1/2,NONE,NONE
+412,Burmy,Sandy Cloak,Bug,NONE,Sinnoh,1/2,NONE,NONE
+412,Burmy,Trash Cloak,Bug,NONE,Sinnoh,1/2,NONE,NONE
+413,Wormadam,Plant Cloak,Bug,Grass,Sinnoh,2/2,NONE,NONE
+413,Wormadam,Sandy Cloak,Bug,Ground,Sinnoh,2/2,NONE,NONE
+413,Wormadam,Trash Cloak,Bug,Steel,Sinnoh,2/2,NONE,NONE
+414,Mothim,NONE,Bug,Flying,Sinnoh,2/2,NONE,NONE
+415,Combee,NONE,Bug,Flying,Sinnoh,1/2,NONE,NONE
+416,Vespiquen,NONE,Bug,Flying,Sinnoh,2/2,NONE,NONE
+417,Pachirisu,NONE,Electric,NONE,Sinnoh,1/1,NONE,NONE
+418,Buizel,NONE,Water,NONE,Sinnoh,1/2,NONE,NONE
+419,Floatzel,NONE,Water,NONE,Sinnoh,2/2,NONE,NONE
+420,Cherubi,NONE,Grass,NONE,Sinnoh,1/2,NONE,NONE
+421,Cherrim,NONE,Grass,NONE,Sinnoh,2/2,NONE,NONE
+422,Shellos,NONE,Water,NONE,Sinnoh,1/2,NONE,NONE
+423,Gastrodon,NONE,Water,Ground,Sinnoh,2/2,NONE,NONE
+424,Ambipom,NONE,Normal,NONE,Sinnoh,2/2,NONE,NONE
+425,Drifloon,NONE,Ghost,Flying,Sinnoh,1/2,NONE,NONE
+426,Drifblim,NONE,Ghost,Flying,Sinnoh,2/2,NONE,NONE
+427,Buneary,NONE,Normal,NONE,Sinnoh,1/2,NONE,NONE
+428,Lopunny,NONE,Normal,NONE,Sinnoh,2/2,NONE,NONE
+428,Lopunny,Mega Lopunny,Normal,Fighting,Sinnoh,2/2,NONE,NONE
+429,Mismagius,NONE,Ghost,NONE,Sinnoh,2/2,NONE,NONE
+430,Honchkrow,NONE,Dark,Flying,Sinnoh,2/2,NONE,NONE
+431,Glameow,NONE,Normal,NONE,Sinnoh,1/2,NONE,NONE
+432,Purugly,NONE,Normal,NONE,Sinnoh,2/2,NONE,NONE
+433,Chingling,NONE,Psychic,NONE,Sinnoh,1/2,NONE,NONE
+434,Stunky,NONE,Poison,Dark,Sinnoh,1/2,NONE,NONE
+435,Skuntank,NONE,Poison,Dark,Sinnoh,2/2,NONE,NONE
+436,Bronzor,NONE,Steel,Psychic,Sinnoh,1/2,NONE,NONE
+437,Bronzong,NONE,Steel,Psychic,Sinnoh,2/2,NONE,NONE
+438,Bonsly,NONE,Rock,NONE,Sinnoh,1/2,NONE,NONE
+439,Mime Jr.,NONE,Psychic,Fairy,Sinnoh,1/2,NONE,NONE
+440,Happiny,NONE,Normal,NONE,Sinnoh,1/3,NONE,NONE
+441,Chatot,NONE,Normal,Flying,Sinnoh,1/1,NONE,NONE
+442,Spiritomb,NONE,Ghost,Dark,Sinnoh,1/1,NONE,NONE
+443,Gible,NONE,Dragon,Ground,Sinnoh,1/3,NONE,NONE
+444,Gabite,NONE,Dragon,Ground,Sinnoh,2/3,NONE,NONE
+445,Garchomp,NONE,Dragon,Ground,Sinnoh,3/3,NONE,NONE
+445,Garchomp,Mega Garchomp,Dragon,Ground,Sinnoh,3/3,NONE,NONE
+446,Munchlax,NONE,Normal,NONE,Sinnoh,1/2,NONE,NONE
+447,Riolu,NONE,Fighting,NONE,Sinnoh,1/2,NONE,NONE
+448,Lucario,NONE,Fighting,Steel,Sinnoh,2/2,NONE,NONE
+448,Lucario,Mega Lucario,Fighting,Steel,Sinnoh,2/2,NONE,NONE
+449,Hippopotas,NONE,Ground,NONE,Sinnoh,1/2,NONE,NONE
+450,Hippowdon,NONE,Ground,NONE,Sinnoh,2/2,NONE,NONE
+451,Skorupi,NONE,Poison,Bug,Sinnoh,1/2,NONE,NONE
+452,Drapion,NONE,Poison,Dark,Sinnoh,2/2,NONE,NONE
+453,Croagunk,NONE,Poison,Fighting,Sinnoh,1/2,NONE,NONE
+454,Toxicroak,NONE,Poison,Fighting,Sinnoh,2/2,NONE,NONE
+455,Carnivine,NONE,Grass,NONE,Sinnoh,1/1,NONE,NONE
+456,Finneon,NONE,Water,NONE,Sinnoh,1/2,NONE,NONE
+457,Lumineon,NONE,Water,NONE,Sinnoh,2/2,NONE,NONE
+458,Mantyke,NONE,Water,Flying,Sinnoh,1/2,NONE,NONE
+459,Snover,NONE,Grass,Ice,Sinnoh,1/2,NONE,NONE
+460,Abomasnow,NONE,Grass,Ice,Sinnoh,2/2,NONE,NONE
+460,Abomasnow,Mega Abomasnow,Grass,Ice,Sinnoh,2/2,NONE,NONE
+461,Weavile,NONE,Dark,Ice,Sinnoh,2/2,NONE,NONE
+462,Magnezone,NONE,Electric,Steel,Sinnoh,3/3,NONE,NONE
+463,Lickilicky,NONE,Normal,NONE,Sinnoh,2/2,NONE,NONE
+464,Rhyperior,NONE,Ground,Rock,Sinnoh,3/3,NONE,NONE
+465,Tangrowth,NONE,Grass,NONE,Sinnoh,2/2,NONE,NONE
+466,Electivire,NONE,Electric,NONE,Sinnoh,3/3,NONE,NONE
+467,Magmortar,NONE,Fire,NONE,Sinnoh,3/3,NONE,NONE
+468,Togekiss,NONE,Fairy,Flying,Sinnoh,3/3,NONE,NONE
+469,Yanmega,NONE,Bug,Flying,Sinnoh,2/2,NONE,NONE
+470,Leafeon,NONE,Grass,NONE,Sinnoh,2/2,NONE,NONE
+471,Glaceon,NONE,Ice,NONE,Sinnoh,2/2,NONE,NONE
+472,Gliscor,NONE,Ground,Flying,Sinnoh,2/2,NONE,NONE
+473,Mamoswine,NONE,Ice,Ground,Sinnoh,3/3,NONE,NONE
+474,Porygon-Z,NONE,Normal,NONE,Sinnoh,3/3,NONE,NONE
+475,Gallade,NONE,Psychic,Fighting,Sinnoh,3/3,NONE,NONE
+475,Gallade,Mega Gallade,Psychic,Fighting,Sinnoh,3/3,NONE,NONE
+476,Probopass,NONE,Rock,Steel,Sinnoh,2/2,NONE,NONE
+477,Dusknoir,NONE,Ghost,NONE,Sinnoh,3/3,NONE,NONE
+478,Froslass,NONE,Ice,Ghost,Sinnoh,2/2,NONE,NONE
+479,Rotom,NONE,Electric,Ghost,Sinnoh,1/1,NONE,NONE
+479,Rotom,Heat Rotom,Electric,Fire,Sinnoh,1/1,NONE,NONE
+479,Rotom,Wash Rotom,Electric,Water,Sinnoh,1/1,NONE,NONE
+479,Rotom,Frost Rotom,Electric,Ice,Sinnoh,1/1,NONE,NONE
+479,Rotom,Fan Rotom,Electric,Flying,Sinnoh,1/1,NONE,NONE
+479,Rotom,Mow Rotom,Electric,Grass,Sinnoh,1/1,NONE,NONE
+480,Uxie,NONE,Psychic,NONE,Sinnoh,1/1,NONE,NONE
+481,Mesprit,NONE,Psychic,NONE,Sinnoh,1/1,NONE,NONE
+482,Azelf,NONE,Psychic,NONE,Sinnoh,1/1,NONE,NONE
+483,Dialga,NONE,Steel,Dragon,Sinnoh,1/1,NONE,NONE
+483,Dialga,Origin Forme,Steel,Dragon,Sinnoh,1/1,NONE,NONE
+484,Palkia,NONE,Water,Dragon,Sinnoh,1/1,NONE,NONE
+484,Palkia,Origin Forme,Water,Dragon,Sinnoh,1/1,NONE,NONE
+485,Heatran,NONE,Fire,Steel,Sinnoh,1/1,NONE,NONE
+486,Regigigas,NONE,Normal,NONE,Sinnoh,1/1,NONE,NONE
+487,Giratina,Altered Forme,Ghost,Dragon,Sinnoh,1/1,NONE,NONE
+487,Giratina,Origin Forme,Ghost,Dragon,Sinnoh,1/1,NONE,NONE
+488,Cresselia,NONE,Psychic,NONE,Sinnoh,1/1,NONE,NONE
+489,Phione,NONE,Water,NONE,Sinnoh,1/1,NONE,NONE
+490,Manaphy,NONE,Water,NONE,Sinnoh,1/1,NONE,NONE
+491,Darkrai,NONE,Dark,NONE,Sinnoh,1/1,NONE,NONE
+492,Shaymin,Land Forme,Grass,NONE,Sinnoh,1/1,NONE,NONE
+492,Shaymin,Sky Forme,Grass,Flying,Sinnoh,1/1,NONE,NONE
+493,Arceus,NONE,Normal,NONE,Sinnoh,1/1,NONE,NONE
+494,Victini,NONE,Psychic,Fire,Unova,1/1,NONE,NONE
+495,Snivy,NONE,Grass,NONE,Unova,1/3,NONE,NONE
+496,Servine,NONE,Grass,NONE,Unova,2/3,NONE,NONE
+497,Serperior,NONE,Grass,NONE,Unova,3/3,NONE,NONE
+498,Tepig,NONE,Fire,NONE,Unova,1/3,NONE,NONE
+499,Pignite,NONE,Fire,Fighting,Unova,2/3,NONE,NONE
+500,Emboar,NONE,Fire,Fighting,Unova,3/3,NONE,NONE
+501,Oshawott,NONE,Water,NONE,Unova,1/3,NONE,NONE
+502,Dewott,NONE,Water,NONE,Unova,2/3,NONE,NONE
+503,Samurott,NONE,Water,NONE,Unova,3/3,NONE,NONE
+503,Samurott,Hisuian Samurott,Water,Dark,Galar,3/3,NONE,NONE
+504,Patrat,NONE,Normal,NONE,Unova,1/2,NONE,NONE
+505,Watchog,NONE,Normal,NONE,Unova,2/2,NONE,NONE
+506,Lillipup,NONE,Normal,NONE,Unova,1/3,NONE,NONE
+507,Herdier,NONE,Normal,NONE,Unova,2/3,NONE,NONE
+508,Stoutland,NONE,Normal,NONE,Unova,3/3,NONE,NONE
+509,Purrloin,NONE,Dark,NONE,Unova,1/2,NONE,NONE
+510,Liepard,NONE,Dark,NONE,Unova,2/2,NONE,NONE
+511,Pansage,NONE,Grass,NONE,Unova,1/2,NONE,NONE
+512,Simisage,NONE,Grass,NONE,Unova,2/2,NONE,NONE
+513,Pansear,NONE,Fire,NONE,Unova,1/2,NONE,NONE
+514,Simisear,NONE,Fire,NONE,Unova,2/2,NONE,NONE
+515,Panpour,NONE,Water,NONE,Unova,1/2,NONE,NONE
+516,Simipour,NONE,Water,NONE,Unova,2/2,NONE,NONE
+517,Munna,NONE,Psychic,NONE,Unova,1/2,NONE,NONE
+518,Musharna,NONE,Psychic,NONE,Unova,2/2,NONE,NONE
+519,Pidove,NONE,Normal,Flying,Unova,1/3,NONE,NONE
+520,Tranquill,NONE,Normal,Flying,Unova,2/3,NONE,NONE
+521,Unfezant,NONE,Normal,Flying,Unova,3/3,NONE,NONE
+522,Blitzle,NONE,Electric,NONE,Unova,1/2,NONE,NONE
+523,Zebstrika,NONE,Electric,NONE,Unova,2/2,NONE,NONE
+524,Roggenrola,NONE,Rock,NONE,Unova,1/3,NONE,NONE
+525,Boldore,NONE,Rock,NONE,Unova,2/3,NONE,NONE
+526,Gigalith,NONE,Rock,NONE,Unova,3/3,NONE,NONE
+527,Woobat,NONE,Psychic,Flying,Unova,1/2,NONE,NONE
+528,Swoobat,NONE,Psychic,Flying,Unova,2/2,NONE,NONE
+529,Drilbur,NONE,Ground,NONE,Unova,1/2,NONE,NONE
+530,Excadrill,NONE,Ground,Steel,Unova,2/2,NONE,NONE
+531,Audino,NONE,Normal,NONE,Unova,1/1,NONE,NONE
+531,Audino,Mega Audino,Normal,Fairy,Unova,1/1,NONE,NONE
+532,Timburr,NONE,Fighting,NONE,Unova,1/3,NONE,NONE
+533,Gurdurr,NONE,Fighting,NONE,Unova,2/3,NONE,NONE
+534,Conkeldurr,NONE,Fighting,NONE,Unova,3/3,NONE,NONE
+535,Tympole,NONE,Water,NONE,Unova,1/3,NONE,NONE
+536,Palpitoad,NONE,Water,Ground,Unova,2/3,NONE,NONE
+537,Seismitoad,NONE,Water,Ground,Unova,3/3,NONE,NONE
+538,Throh,NONE,Fighting,NONE,Unova,1/1,NONE,NONE
+539,Sawk,NONE,Fighting,NONE,Unova,1/1,NONE,NONE
+540,Sewaddle,NONE,Bug,Grass,Unova,1/3,NONE,NONE
+541,Swadloon,NONE,Bug,Grass,Unova,2/3,NONE,NONE
+542,Leavanny,NONE,Bug,Grass,Unova,3/3,NONE,NONE
+543,Venipede,NONE,Bug,Poison,Unova,1/3,NONE,NONE
+544,Whirlipede,NONE,Bug,Poison,Unova,2/3,NONE,NONE
+545,Scolipede,NONE,Bug,Poison,Unova,3/3,NONE,NONE
+546,Cottonee,NONE,Grass,Fairy,Unova,1/2,NONE,NONE
+547,Whimsicott,NONE,Grass,Fairy,Unova,2/2,NONE,NONE
+548,Petilil,NONE,Grass,NONE,Unova,1/2,NONE,NONE
+549,Lilligant,NONE,Grass,NONE,Unova,2/2,NONE,NONE
+549,Lilligant,Hisuian Lilligant,Grass,Fighting,Galar,2/2,NONE,NONE
+550,Basculin,Red-Striped Form,Water,NONE,Unova,1/1,NONE,NONE
+550,Basculin,Blue-Striped Form,Water,NONE,Unova,1/1,NONE,NONE
+550,Basculin,White-Striped Form,Water,NONE,Galar,1/2,NONE,NONE
+551,Sandile,NONE,Ground,Dark,Unova,1/3,NONE,NONE
+552,Krokorok,NONE,Ground,Dark,Unova,2/3,NONE,NONE
+553,Krookodile,NONE,Ground,Dark,Unova,3/3,NONE,NONE
+554,Darumaka,NONE,Fire,NONE,Unova,1/2,NONE,NONE
+554,Darumaka,Galarian Darumaka,Ice,NONE,Galar,1/2,NONE,NONE
+555,Darmanitan,Standard Mode,Fire,NONE,Unova,2/2,NONE,NONE
+555,Darmanitan,Zen Mode,Fire,Psychic,Unova,2/2,NONE,NONE
+555,Darmanitan,Galarian Standard Mode,Ice,NONE,Galar,2/2,NONE,NONE
+555,Darmanitan,Galarian Zen Mode,Ice,Fire,Galar,2/2,NONE,NONE
+556,Maractus,NONE,Grass,NONE,Unova,1/1,NONE,NONE
+557,Dwebble,NONE,Bug,Rock,Unova,1/2,NONE,NONE
+558,Crustle,NONE,Bug,Rock,Unova,2/2,NONE,NONE
+559,Scraggy,NONE,Dark,Fighting,Unova,1/2,NONE,NONE
+560,Scrafty,NONE,Dark,Fighting,Unova,2/2,NONE,NONE
+561,Sigilyph,NONE,Psychic,Flying,Unova,1/1,NONE,NONE
+562,Yamask,NONE,Ghost,NONE,Unova,1/2,NONE,NONE
+562,Yamask,Galarian Yamask,Ground,Ghost,Galar,1/2,NONE,NONE
+563,Cofagrigus,NONE,Ghost,NONE,Unova,2/2,NONE,NONE
+564,Tirtouga,NONE,Water,Rock,Unova,1/2,NONE,NONE
+565,Carracosta,NONE,Water,Rock,Unova,2/2,NONE,NONE
+566,Archen,NONE,Rock,Flying,Unova,1/2,NONE,NONE
+567,Archeops,NONE,Rock,Flying,Unova,2/2,NONE,NONE
+568,Trubbish,NONE,Poison,NONE,Unova,1/2,NONE,NONE
+569,Garbodor,NONE,Poison,NONE,Unova,2/2,NONE,NONE
+570,Zorua,NONE,Dark,NONE,Unova,1/2,NONE,NONE
+570,Zorua,Hisuian Zorua,Normal,Ghost,Galar,1/2,NONE,NONE
+571,Zoroark,NONE,Dark,NONE,Unova,2/2,NONE,NONE
+571,Zoroark,Hisuian Zoroark,Normal,Ghost,Galar,2/2,NONE,NONE
+572,Minccino,NONE,Normal,NONE,Unova,1/2,NONE,NONE
+573,Cinccino,NONE,Normal,NONE,Unova,2/2,NONE,NONE
+574,Gothita,NONE,Psychic,NONE,Unova,1/3,NONE,NONE
+575,Gothorita,NONE,Psychic,NONE,Unova,2/3,NONE,NONE
+576,Gothitelle,NONE,Psychic,NONE,Unova,3/3,NONE,NONE
+577,Solosis,NONE,Psychic,NONE,Unova,1/3,NONE,NONE
+578,Duosion,NONE,Psychic,NONE,Unova,2/3,NONE,NONE
+579,Reuniclus,NONE,Psychic,NONE,Unova,3/3,NONE,NONE
+580,Ducklett,NONE,Water,Flying,Unova,1/2,NONE,NONE
+581,Swanna,NONE,Water,Flying,Unova,2/2,NONE,NONE
+582,Vanillite,NONE,Ice,NONE,Unova,1/3,NONE,NONE
+583,Vanillish,NONE,Ice,NONE,Unova,2/3,NONE,NONE
+584,Vanilluxe,NONE,Ice,NONE,Unova,3/3,NONE,NONE
+585,Deerling,NONE,Normal,Grass,Unova,1/2,NONE,NONE
+586,Sawsbuck,NONE,Normal,Grass,Unova,2/2,NONE,NONE
+587,Emolga,NONE,Electric,Flying,Unova,1/1,NONE,NONE
+588,Karrablast,NONE,Bug,NONE,Unova,1/2,NONE,NONE
+589,Escavalier,NONE,Bug,Steel,Unova,2/2,NONE,NONE
+590,Foongus,NONE,Grass,Poison,Unova,1/2,NONE,NONE
+591,Amoonguss,NONE,Grass,Poison,Unova,2/2,NONE,NONE
+592,Frillish,NONE,Water,Ghost,Unova,1/2,NONE,NONE
+593,Jellicent,NONE,Water,Ghost,Unova,2/2,NONE,NONE
+594,Alomomola,NONE,Water,NONE,Unova,1/1,NONE,NONE
+595,Joltik,NONE,Bug,Electric,Unova,1/2,NONE,NONE
+596,Galvantula,NONE,Bug,Electric,Unova,2/2,NONE,NONE
+597,Ferroseed,NONE,Grass,Steel,Unova,1/2,NONE,NONE
+598,Ferrothorn,NONE,Grass,Steel,Unova,2/2,NONE,NONE
+599,Klink,NONE,Steel,NONE,Unova,1/3,NONE,NONE
+600,Klang,NONE,Steel,NONE,Unova,2/3,NONE,NONE
+601,Klinklang,NONE,Steel,NONE,Unova,3/3,NONE,NONE
+602,Tynamo,NONE,Electric,NONE,Unova,1/3,NONE,NONE
+603,Eelektrik,NONE,Electric,NONE,Unova,2/3,NONE,NONE
+604,Eelektross,NONE,Electric,NONE,Unova,3/3,NONE,NONE
+605,Elgyem,NONE,Psychic,NONE,Unova,1/2,NONE,NONE
+606,Beheeyem,NONE,Psychic,NONE,Unova,2/2,NONE,NONE
+607,Litwick,NONE,Ghost,Fire,Unova,1/3,NONE,NONE
+608,Lampent,NONE,Ghost,Fire,Unova,2/3,NONE,NONE
+609,Chandelure,NONE,Ghost,Fire,Unova,3/3,NONE,NONE
+610,Axew,NONE,Dragon,NONE,Unova,1/3,NONE,NONE
+611,Fraxure,NONE,Dragon,NONE,Unova,2/3,NONE,NONE
+612,Haxorus,NONE,Dragon,NONE,Unova,3/3,NONE,NONE
+613,Cubchoo,NONE,Ice,NONE,Unova,1/2,NONE,NONE
+614,Beartic,NONE,Ice,NONE,Unova,2/2,NONE,NONE
+615,Cryogonal,NONE,Ice,NONE,Unova,1/1,NONE,NONE
+616,Shelmet,NONE,Bug,NONE,Unova,1/2,NONE,NONE
+617,Accelgor,NONE,Bug,NONE,Unova,2/2,NONE,NONE
+618,Stunfisk,NONE,Ground,Electric,Unova,1/1,NONE,NONE
+618,Stunfisk,Galarian Stunfisk,Ground,Steel,Galar,1/1,NONE,NONE
+619,Mienfoo,NONE,Fighting,NONE,Unova,1/2,NONE,NONE
+620,Mienshao,NONE,Fighting,NONE,Unova,2/2,NONE,NONE
+621,Druddigon,NONE,Dragon,NONE,Unova,1/1,NONE,NONE
+622,Golett,NONE,Ground,Ghost,Unova,1/2,NONE,NONE
+623,Golurk,NONE,Ground,Ghost,Unova,2/2,NONE,NONE
+624,Pawniard,NONE,Dark,Steel,Unova,1/3,NONE,NONE
+625,Bisharp,NONE,Dark,Steel,Unova,2/3,NONE,NONE
+626,Bouffalant,NONE,Normal,NONE,Unova,1/1,NONE,NONE
+627,Rufflet,NONE,Normal,Flying,Unova,1/2,NONE,NONE
+628,Braviary,NONE,Normal,Flying,Unova,2/2,NONE,NONE
+628,Braviary,Hisuian Braviary,Psychic,Flying,Galar,2/2,NONE,NONE
+629,Vullaby,NONE,Dark,Flying,Unova,1/2,NONE,NONE
+630,Mandibuzz,NONE,Dark,Flying,Unova,2/2,NONE,NONE
+631,Heatmor,NONE,Fire,NONE,Unova,1/1,NONE,NONE
+632,Durant,NONE,Bug,Steel,Unova,1/1,NONE,NONE
+633,Deino,NONE,Dark,Dragon,Unova,1/3,NONE,NONE
+634,Zweilous,NONE,Dark,Dragon,Unova,2/3,NONE,NONE
+635,Hydreigon,NONE,Dark,Dragon,Unova,3/3,NONE,NONE
+636,Larvesta,NONE,Bug,Fire,Unova,1/2,NONE,NONE
+637,Volcarona,NONE,Bug,Fire,Unova,2/2,NONE,NONE
+638,Cobalion,NONE,Steel,Fighting,Unova,1/1,NONE,NONE
+639,Terrakion,NONE,Rock,Fighting,Unova,1/1,NONE,NONE
+640,Virizion,NONE,Grass,Fighting,Unova,1/1,NONE,NONE
+641,Tornadus,Incarnate Forme,Flying,NONE,Unova,1/1,NONE,NONE
+641,Tornadus,Therian Forme,Flying,NONE,Unova,1/1,NONE,NONE
+642,Thundurus,Incarnate Forme,Electric,Flying,Unova,1/1,NONE,NONE
+642,Thundurus,Therian Forme,Electric,Flying,Unova,1/1,NONE,NONE
+643,Reshiram,NONE,Dragon,Fire,Unova,1/1,NONE,NONE
+644,Zekrom,NONE,Dragon,Electric,Unova,1/1,NONE,NONE
+645,Landorus,Incarnate Forme,Ground,Flying,Unova,1/1,NONE,NONE
+645,Landorus,Therian Forme,Ground,Flying,Unova,1/1,NONE,NONE
+646,Kyurem,NONE,Dragon,Ice,Unova,1/1,NONE,NONE
+646,Kyurem,White Kyurem,Dragon,Ice,Unova,1/1,NONE,NONE
+646,Kyurem,Black Kyurem,Dragon,Ice,Unova,1/1,NONE,NONE
+647,Keldeo,Ordinary Form,Water,Fighting,Unova,1/1,NONE,NONE
+647,Keldeo,Resolute Form,Water,Fighting,Unova,1/1,NONE,NONE
+648,Meloetta,Aria Forme,Normal,Psychic,Unova,1/1,NONE,NONE
+648,Meloetta,Pirouette Forme,Normal,Fighting,Unova,1/1,NONE,NONE
+649,Genesect,NONE,Bug,Steel,Unova,1/1,NONE,NONE
+650,Chespin,NONE,Grass,NONE,Kalos,1/3,NONE,NONE
+651,Quilladin,NONE,Grass,NONE,Kalos,2/3,NONE,NONE
+652,Chesnaught,NONE,Grass,Fighting,Kalos,3/3,NONE,NONE
+653,Fennekin,NONE,Fire,NONE,Kalos,1/3,NONE,NONE
+654,Braixen,NONE,Fire,NONE,Kalos,2/3,NONE,NONE
+655,Delphox,NONE,Fire,Psychic,Kalos,3/3,NONE,NONE
+656,Froakie,NONE,Water,NONE,Kalos,1/3,NONE,NONE
+657,Frogadier,NONE,Water,NONE,Kalos,2/3,NONE,NONE
+658,Greninja,NONE,Water,Dark,Kalos,3/3,NONE,NONE
+658,Greninja,Ash-Greninja,Water,Dark,Kalos,3/3,NONE,NONE
+659,Bunnelby,NONE,Normal,NONE,Kalos,1/2,NONE,NONE
+660,Diggersby,NONE,Normal,Ground,Kalos,2/2,NONE,NONE
+661,Fletchling,NONE,Normal,Flying,Kalos,1/3,NONE,NONE
+662,Fletchinder,NONE,Fire,Flying,Kalos,2/3,NONE,NONE
+663,Talonflame,NONE,Fire,Flying,Kalos,3/3,NONE,NONE
+664,Scatterbug,NONE,Bug,NONE,Kalos,1/3,NONE,NONE
+665,Spewpa,NONE,Bug,NONE,Kalos,2/3,NONE,NONE
+666,Vivillon,NONE,Bug,Flying,Kalos,3/3,NONE,NONE
+667,Litleo,NONE,Fire,Normal,Kalos,1/2,NONE,NONE
+668,Pyroar,NONE,Fire,Normal,Kalos,2/2,NONE,NONE
+669,Flabebe,NONE,Fairy,NONE,Kalos,1/3,NONE,NONE
+670,Floette,NONE,Fairy,NONE,Kalos,2/3,NONE,NONE
+671,Florges,NONE,Fairy,NONE,Kalos,3/3,NONE,NONE
+672,Skiddo,NONE,Grass,NONE,Kalos,1/2,NONE,NONE
+673,Gogoat,NONE,Grass,NONE,Kalos,2/2,NONE,NONE
+674,Pancham,NONE,Fighting,NONE,Kalos,1/2,NONE,NONE
+675,Pangoro,NONE,Fighting,Dark,Kalos,2/2,NONE,NONE
+676,Furfrou,NONE,Normal,NONE,Kalos,1/1,NONE,NONE
+677,Espurr,NONE,Psychic,NONE,Kalos,1/2,NONE,NONE
+678,Meowstic,Male,Psychic,NONE,Kalos,2/2,NONE,NONE
+678,Meowstic,Female,Psychic,NONE,Kalos,2/2,NONE,NONE
+679,Honedge,NONE,Steel,Ghost,Kalos,1/3,NONE,NONE
+680,Doublade,NONE,Steel,Ghost,Kalos,2/3,NONE,NONE
+681,Aegislash,Shield Forme,Steel,Ghost,Kalos,3/3,NONE,NONE
+681,Aegislash,Blade Forme,Steel,Ghost,Kalos,3/3,NONE,NONE
+682,Spritzee,NONE,Fairy,NONE,Kalos,1/2,NONE,NONE
+683,Aromatisse,NONE,Fairy,NONE,Kalos,2/2,NONE,NONE
+684,Swirlix,NONE,Fairy,NONE,Kalos,1/2,NONE,NONE
+685,Slurpuff,NONE,Fairy,NONE,Kalos,2/2,NONE,NONE
+686,Inkay,NONE,Dark,Psychic,Kalos,1/2,NONE,NONE
+687,Malamar,NONE,Dark,Psychic,Kalos,2/2,NONE,NONE
+688,Binacle,NONE,Rock,Water,Kalos,1/2,NONE,NONE
+689,Barbaracle,NONE,Rock,Water,Kalos,2/2,NONE,NONE
+690,Skrelp,NONE,Poison,Water,Kalos,1/2,NONE,NONE
+691,Dragalge,NONE,Poison,Dragon,Kalos,2/2,NONE,NONE
+692,Clauncher,NONE,Water,NONE,Kalos,1/2,NONE,NONE
+693,Clawitzer,NONE,Water,NONE,Kalos,2/2,NONE,NONE
+694,Helioptile,NONE,Electric,Normal,Kalos,1/2,NONE,NONE
+695,Heliolisk,NONE,Electric,Normal,Kalos,2/2,NONE,NONE
+696,Tyrunt,NONE,Rock,Dragon,Kalos,1/2,NONE,NONE
+697,Tyrantrum,NONE,Rock,Dragon,Kalos,2/2,NONE,NONE
+698,Amaura,NONE,Rock,Ice,Kalos,1/2,NONE,NONE
+699,Aurorus,NONE,Rock,Ice,Kalos,2/2,NONE,NONE
+700,Sylveon,NONE,Fairy,NONE,Kalos,2/2,NONE,NONE
+701,Hawlucha,NONE,Fighting,Flying,Kalos,1/1,NONE,NONE
+702,Dedenne,NONE,Electric,Fairy,Kalos,1/1,NONE,NONE
+703,Carbink,NONE,Rock,Fairy,Kalos,1/1,NONE,NONE
+704,Goomy,NONE,Dragon,NONE,Kalos,1/3,NONE,NONE
+705,Sliggoo,NONE,Dragon,NONE,Kalos,2/3,NONE,NONE
+705,Sliggoo,Hisuian Sliggoo,Steel,Dragon,Galar,2/3,NONE,NONE
+706,Goodra,NONE,Dragon,NONE,Kalos,3/3,NONE,NONE
+706,Goodra,Hisuian Goodra,Steel,Dragon,Galar,3/3,NONE,NONE
+707,Klefki,NONE,Steel,Fairy,Kalos,1/1,NONE,NONE
+708,Phantump,NONE,Ghost,Grass,Kalos,1/2,NONE,NONE
+709,Trevenant,NONE,Ghost,Grass,Kalos,2/2,NONE,NONE
+710,Pumpkaboo,Average Size,Ghost,Grass,Kalos,1/2,NONE,NONE
+710,Pumpkaboo,Small Size,Ghost,Grass,Kalos,1/2,NONE,NONE
+710,Pumpkaboo,Large Size,Ghost,Grass,Kalos,1/2,NONE,NONE
+710,Pumpkaboo,Super Size,Ghost,Grass,Kalos,1/2,NONE,NONE
+711,Gourgeist,Average Size,Ghost,Grass,Kalos,2/2,NONE,NONE
+711,Gourgeist,Small Size,Ghost,Grass,Kalos,2/2,NONE,NONE
+711,Gourgeist,Large Size,Ghost,Grass,Kalos,2/2,NONE,NONE
+711,Gourgeist,Super Size,Ghost,Grass,Kalos,2/2,NONE,NONE
+712,Bergmite,NONE,Ice,NONE,Kalos,1/2,NONE,NONE
+713,Avalugg,NONE,Ice,NONE,Kalos,2/2,NONE,NONE
+713,Avalugg,Hisuian Avalugg,Ice,Rock,Galar,2/2,NONE,NONE
+714,Noibat,NONE,Flying,Dragon,Kalos,1/2,NONE,NONE
+715,Noivern,NONE,Flying,Dragon,Kalos,2/2,NONE,NONE
+716,Xerneas,NONE,Fairy,NONE,Kalos,1/1,NONE,NONE
+717,Yveltal,NONE,Dark,Flying,Kalos,1/1,NONE,NONE
+718,Zygarde,10% Forme,Dragon,Ground,Kalos,1/1,NONE,NONE
+718,Zygarde,50% Forme,Dragon,Ground,Kalos,1/1,NONE,NONE
+718,Zygarde,Complete Forme,Dragon,Ground,Kalos,1/1,NONE,NONE
+719,Diancie,NONE,Rock,Fairy,Kalos,1/1,NONE,NONE
+719,Diancie,Mega Diancie,Rock,Fairy,Kalos,1/1,NONE,NONE
+720,Hoopa,Hoopa Confined,Psychic,Ghost,Kalos,1/1,NONE,NONE
+720,Hoopa,Hoopa Unbound,Psychic,Dark,Kalos,1/1,NONE,NONE
+721,Volcanion,NONE,Fire,Water,Kalos,1/1,NONE,NONE
+722,Rowlet,NONE,Grass,Flying,Alola,1/3,NONE,NONE
+723,Dartrix,NONE,Grass,Flying,Alola,2/3,NONE,NONE
+724,Decidueye,NONE,Grass,Ghost,Alola,3/3,NONE,NONE
+724,Decidueye,Hisuian Decidueye,Grass,Fighting,Galar,3/3,NONE,NONE
+725,Litten,NONE,Fire,NONE,Alola,1/3,NONE,NONE
+726,Torracat,NONE,Fire,NONE,Alola,2/3,NONE,NONE
+727,Incineroar,NONE,Fire,Dark,Alola,3/3,NONE,NONE
+728,Popplio,NONE,Water,NONE,Alola,1/3,NONE,NONE
+729,Brionne,NONE,Water,NONE,Alola,2/3,NONE,NONE
+730,Primarina,NONE,Water,Fairy,Alola,3/3,NONE,NONE
+731,Pikipek,NONE,Normal,Flying,Alola,1/3,NONE,NONE
+732,Trumbeak,NONE,Normal,Flying,Alola,2/3,NONE,NONE
+733,Toucannon,NONE,Normal,Flying,Alola,3/3,NONE,NONE
+734,Yungoos,NONE,Normal,NONE,Alola,1/2,NONE,NONE
+735,Gumshoos,NONE,Normal,NONE,Alola,2/2,NONE,NONE
+736,Grubbin,NONE,Bug,NONE,Alola,1/2,NONE,NONE
+737,Charjabug,NONE,Bug,Electric,Alola,2/3,NONE,NONE
+738,Vikavolt,NONE,Bug,Electric,Alola,3/3,NONE,NONE
+739,Crabrawler,NONE,Fighting,NONE,Alola,1/2,NONE,NONE
+740,Crabominable,NONE,Fighting,Ice,Alola,2/2,NONE,NONE
+741,Oricorio,Baile Style,Fire,Flying,Alola,1/1,NONE,NONE
+741,Oricorio,Pom-Pom Style,Electric,Flying,Alola,1/1,NONE,NONE
+741,Oricorio,Pa'u Style,Psychic,Flying,Alola,1/1,NONE,NONE
+741,Oricorio,Sensu Style,Ghost,Flying,Alola,1/1,NONE,NONE
+742,Cutiefly,NONE,Bug,Fairy,Alola,1/2,NONE,NONE
+743,Ribombee,NONE,Bug,Fairy,Alola,2/2,NONE,NONE
+744,Rockruff,NONE,Rock,NONE,Alola,1/2,NONE,NONE
+744,Rockruff,Own Tempo Rockruff,Rock,NONE,Alola,1/2,NONE,NONE
+745,Lycanroc,Midday Form,Rock,NONE,Alola,2/2,NONE,NONE
+745,Lycanroc,Midnight Form,Rock,NONE,Alola,2/2,NONE,NONE
+745,Lycanroc,Dusk Form,Rock,NONE,Alola,2/2,NONE,NONE
+746,Wishiwashi,Solo Form,Water,NONE,Alola,1/1,NONE,NONE
+746,Wishiwashi,School Form,Water,NONE,Alola,1/1,NONE,NONE
+747,Mareanie,NONE,Poison,Water,Alola,1/2,NONE,NONE
+748,Toxapex,NONE,Poison,Water,Alola,2/2,NONE,NONE
+749,Mudbray,NONE,Ground,NONE,Alola,1/2,NONE,NONE
+750,Mudsdale,NONE,Ground,NONE,Alola,2/2,NONE,NONE
+751,Dewpider,NONE,Water,Bug,Alola,1/2,NONE,NONE
+752,Araquanid,NONE,Water,Bug,Alola,2/2,NONE,NONE
+753,Fomantis,NONE,Grass,NONE,Alola,1/2,NONE,NONE
+754,Lurantis,NONE,Grass,NONE,Alola,2/2,NONE,NONE
+755,Morelull,NONE,Grass,Fairy,Alola,1/2,NONE,NONE
+756,Shiinotic,NONE,Grass,Fairy,Alola,2/2,NONE,NONE
+757,Salandit,NONE,Poison,Fire,Alola,1/2,NONE,NONE
+758,Salazzle,NONE,Poison,Fire,Alola,2/2,NONE,NONE
+759,Stufful,NONE,Normal,Fighting,Alola,1/2,NONE,NONE
+760,Bewear,NONE,Normal,Fighting,Alola,2/2,NONE,NONE
+761,Bounsweet,NONE,Grass,NONE,Alola,1/3,NONE,NONE
+762,Steenee,NONE,Grass,NONE,Alola,2/3,NONE,NONE
+763,Tsareena,NONE,Grass,NONE,Alola,3/3,NONE,NONE
+764,Comfey,NONE,Fairy,NONE,Alola,1/1,NONE,NONE
+765,Oranguru,NONE,Normal,Psychic,Alola,1/1,NONE,NONE
+766,Passimian,NONE,Fighting,NONE,Alola,1/1,NONE,NONE
+767,Wimpod,NONE,Bug,Water,Alola,1/2,NONE,NONE
+768,Golisopod,NONE,Bug,Water,Alola,2/2,NONE,NONE
+769,Sandygast,NONE,Ghost,Ground,Alola,1/2,NONE,NONE
+770,Palossand,NONE,Ghost,Ground,Alola,2/2,NONE,NONE
+771,Pyukumuku,NONE,Water,NONE,Alola,1/1,NONE,NONE
+772,Type: Null,NONE,Normal,NONE,Alola,1/2,NONE,NONE
+773,Silvally,NONE,Normal,NONE,Alola,2/2,NONE,NONE
+774,Minior,Meteor Form,Rock,Flying,Alola,1/1,NONE,NONE
+774,Minior,Core Form,Rock,Flying,Alola,1/1,NONE,NONE
+775,Komala,NONE,Normal,NONE,Alola,1/1,NONE,NONE
+776,Turtonator,NONE,Fire,Dragon,Alola,1/1,NONE,NONE
+777,Togedemaru,NONE,Electric,Steel,Alola,1/1,NONE,NONE
+778,Mimikyu,NONE,Ghost,Fairy,Alola,1/1,NONE,NONE
+779,Bruxish,NONE,Water,Psychic,Alola,1/1,NONE,NONE
+780,Drampa,NONE,Normal,Dragon,Alola,1/1,NONE,NONE
+781,Dhelmise,NONE,Ghost,Grass,Alola,1/1,NONE,NONE
+782,Jangmo-o,NONE,Dragon,NONE,Alola,1/3,NONE,NONE
+783,Hakamo-o,NONE,Dragon,Fighting,Alola,2/3,NONE,NONE
+784,Kommo-o,NONE,Dragon,Fighting,Alola,3/3,NONE,NONE
+785,Tapu Koko,NONE,Electric,Fairy,Alola,1/1,NONE,NONE
+786,Tapu Lele,NONE,Psychic,Fairy,Alola,1/1,NONE,NONE
+787,Tapu Bulu,NONE,Grass,Fairy,Alola,1/1,NONE,NONE
+788,Tapu Fini,NONE,Water,Fairy,Alola,1/1,NONE,NONE
+789,Cosmog,NONE,Psychic,NONE,Alola,1/3,NONE,NONE
+790,Cosmoem,NONE,Psychic,NONE,Alola,2/3,NONE,NONE
+791,Solgaleo,NONE,Psychic,Steel,Alola,3/3,NONE,NONE
+792,Lunala,NONE,Psychic,Ghost,Alola,3/3,NONE,NONE
+793,Nihilego,NONE,Rock,Poison,Alola,1/1,NONE,NONE
+794,Buzzwole,NONE,Bug,Fighting,Alola,1/1,NONE,NONE
+795,Pheromosa,NONE,Bug,Fighting,Alola,1/1,NONE,NONE
+796,Xurkitree,NONE,Electric,NONE,Alola,1/1,NONE,NONE
+797,Celesteela,NONE,Steel,Flying,Alola,1/1,NONE,NONE
+798,Kartana,NONE,Grass,Steel,Alola,1/1,NONE,NONE
+799,Guzzlord,NONE,Dark,Dragon,Alola,1/1,NONE,NONE
+800,Necrozma,NONE,Psychic,NONE,Alola,1/1,NONE,NONE
+800,Necrozma,Dusk Mane Necrozma,Psychic,Steel,Alola,1/1,NONE,NONE
+800,Necrozma,Dawn Wings Necrozma,Psychic,Ghost,Alola,1/1,NONE,NONE
+800,Necrozma,Ultra Necrozma,Psychic,Dragon,Alola,1/1,NONE,NONE
+801,Magearna,NONE,Steel,Fairy,Alola,1/1,NONE,NONE
+802,Marshadow,NONE,Fighting,Ghost,Alola,1/1,NONE,NONE
+803,Poipole,NONE,Poison,NONE,Alola,1/2,NONE,NONE
+804,Naganadel,NONE,Poison,Dragon,Alola,2/2,NONE,NONE
+805,Stakataka,NONE,Rock,Steel,Alola,1/1,NONE,NONE
+806,Blacephalon,NONE,Fire,Ghost,Alola,1/1,NONE,NONE
+807,Zeraora,NONE,Electric,NONE,Alola,1/1,NONE,NONE
+808,Meltan,NONE,Steel,NONE,Alola,1/2,NONE,NONE
+809,Melmetal,NONE,Steel,NONE,Alola,2/2,NONE,NONE
+810,Grookey,NONE,Grass,NONE,Galar,1/3,NONE,NONE
+811,Thwackey,NONE,Grass,NONE,Galar,2/3,NONE,NONE
+812,Rillaboom,NONE,Grass,NONE,Galar,3/3,NONE,NONE
+813,Scorbunny,NONE,Fire,NONE,Galar,1/3,NONE,NONE
+814,Raboot,NONE,Fire,NONE,Galar,2/3,NONE,NONE
+815,Cinderace,NONE,Fire,NONE,Galar,3/3,NONE,NONE
+816,Sobble,NONE,Water,NONE,Galar,1/3,NONE,NONE
+817,Drizzile,NONE,Water,NONE,Galar,2/3,NONE,NONE
+818,Inteleon,NONE,Water,NONE,Galar,3/3,NONE,NONE
+819,Skwovet,NONE,Normal,NONE,Galar,1/2,NONE,NONE
+820,Greedent,NONE,Normal,NONE,Galar,2/2,NONE,NONE
+821,Rookidee,NONE,Flying,NONE,Galar,1/3,NONE,NONE
+822,Corvisquire,NONE,Flying,NONE,Galar,2/3,NONE,NONE
+823,Corviknight,NONE,Flying,Steel,Galar,3/3,NONE,NONE
+824,Blipbug,NONE,Bug,NONE,Galar,1/3,NONE,NONE
+825,Dottler,NONE,Bug,Psychic,Galar,2/3,NONE,NONE
+826,Orbeetle,NONE,Bug,Psychic,Galar,3/3,NONE,NONE
+827,Nickit,NONE,Dark,NONE,Galar,1/2,NONE,NONE
+828,Thievul,NONE,Dark,NONE,Galar,2/2,NONE,NONE
+829,Gossifleur,NONE,Grass,NONE,Galar,1/2,NONE,NONE
+830,Eldegoss,NONE,Grass,NONE,Galar,2/2,NONE,NONE
+831,Wooloo,NONE,Normal,NONE,Galar,1/2,NONE,NONE
+832,Dubwool,NONE,Normal,NONE,Galar,2/2,NONE,NONE
+833,Chewtle,NONE,Water,NONE,Galar,1/2,NONE,NONE
+834,Drednaw,NONE,Water,Rock,Galar,2/2,NONE,NONE
+835,Yamper,NONE,Electric,NONE,Galar,1/2,NONE,NONE
+836,Boltund,NONE,Electric,NONE,Galar,2/2,NONE,NONE
+837,Rolycoly,NONE,Rock,NONE,Galar,1/3,NONE,NONE
+838,Carkol,NONE,Rock,Fire,Galar,2/3,NONE,NONE
+839,Coalossal,NONE,Rock,Fire,Galar,3/3,NONE,NONE
+840,Applin,NONE,Grass,Dragon,Galar,1/2,NONE,NONE
+841,Flapple,NONE,Grass,Dragon,Galar,2/2,NONE,NONE
+842,Appletun,NONE,Grass,Dragon,Galar,2/2,NONE,NONE
+843,Silicobra,NONE,Ground,NONE,Galar,1/2,NONE,NONE
+844,Sandaconda,NONE,Ground,NONE,Galar,2/2,NONE,NONE
+845,Cramorant,NONE,Flying,Water,Galar,1/1,NONE,NONE
+846,Arrokuda,NONE,Water,NONE,Galar,1/2,NONE,NONE
+847,Barraskewda,NONE,Water,NONE,Galar,2/2,NONE,NONE
+848,Toxel,NONE,Electric,Poison,Galar,1/2,NONE,NONE
+849,Toxtricity,Amped Form,Electric,Poison,Galar,2/2,NONE,NONE
+849,Toxtricity,Low Key Form,Electric,Poison,Galar,2/2,NONE,NONE
+850,Sizzlipede,NONE,Fire,Bug,Galar,1/2,NONE,NONE
+851,Centiskorch,NONE,Fire,Bug,Galar,2/2,NONE,NONE
+852,Clobbopus,NONE,Fighting,NONE,Galar,1/2,NONE,NONE
+853,Grapploct,NONE,Fighting,NONE,Galar,2/2,NONE,NONE
+854,Sinistea,NONE,Ghost,NONE,Galar,1/2,NONE,NONE
+855,Polteageist,NONE,Ghost,NONE,Galar,2/2,NONE,NONE
+856,Hatenna,NONE,Psychic,NONE,Galar,1/3,NONE,NONE
+857,Hattrem,NONE,Psychic,NONE,Galar,2/3,NONE,NONE
+858,Hatterene,NONE,Psychic,Fairy,Galar,3/3,NONE,NONE
+859,Impidimp,NONE,Dark,Fairy,Galar,1/3,NONE,NONE
+860,Morgrem,NONE,Dark,Fairy,Galar,2/3,NONE,NONE
+861,Grimmsnarl,NONE,Dark,Fairy,Galar,3/3,NONE,NONE
+862,Obstagoon,NONE,Dark,Normal,Galar,3/3,NONE,NONE
+863,Perrserker,NONE,Steel,NONE,Galar,2/2,NONE,NONE
+864,Cursola,NONE,Ghost,NONE,Galar,2/2,NONE,NONE
+865,Sirfetch'd,NONE,Fighting,NONE,Galar,2/2,NONE,NONE
+866,Mr. Rime,NONE,Ice,Psychic,Galar,3/3,NONE,NONE
+867,Runerigus,NONE,Ground,Ghost,Galar,2/2,NONE,NONE
+868,Milcery,NONE,Fairy,NONE,Galar,1/2,NONE,NONE
+869,Alcremie,NONE,Fairy,NONE,Galar,2/2,NONE,NONE
+870,Falinks,NONE,Fighting,NONE,Galar,1/1,NONE,NONE
+871,Pincurchin,NONE,Electric,NONE,Galar,1/1,NONE,NONE
+872,Snom,NONE,Ice,Bug,Galar,1/2,NONE,NONE
+873,Frosmoth,NONE,Ice,Bug,Galar,2/2,NONE,NONE
+874,Stonjourner,NONE,Rock,NONE,Galar,1/1,NONE,NONE
+875,Eiscue,Ice Face,Ice,NONE,Galar,1/1,NONE,NONE
+875,Eiscue,Noice Face,Ice,NONE,Galar,1/1,NONE,NONE
+876,Indeedee,Male,Psychic,Normal,Galar,1/1,NONE,NONE
+876,Indeedee,Female,Psychic,Normal,Galar,1/1,NONE,NONE
+877,Morpeko,Full Belly Mode,Electric,Dark,Galar,1/1,NONE,NONE
+877,Morpeko,Hangry Mode,Electric,Dark,Galar,1/1,NONE,NONE
+878,Cufant,NONE,Steel,NONE,Galar,1/2,NONE,NONE
+879,Copperajah,NONE,Steel,NONE,Galar,2/2,NONE,NONE
+880,Dracozolt,NONE,Electric,Dragon,Galar,1/1,NONE,NONE
+881,Arctozolt,NONE,Electric,Ice,Galar,1/1,NONE,NONE
+882,Dracovish,NONE,Water,Dragon,Galar,1/1,NONE,NONE
+883,Arctovish,NONE,Water,Ice,Galar,1/1,NONE,NONE
+884,Duraludon,NONE,Steel,Dragon,Galar,1/2,NONE,NONE
+885,Dreepy,NONE,Dragon,Ghost,Galar,1/3,NONE,NONE
+886,Drakloak,NONE,Dragon,Ghost,Galar,2/3,NONE,NONE
+887,Dragapult,NONE,Dragon,Ghost,Galar,3/3,NONE,NONE
+888,Zacian,Hero of Many Battles,Fairy,NONE,Galar,1/1,NONE,NONE
+888,Zacian,Crowned Sword,Fairy,Steel,Galar,1/1,NONE,NONE
+889,Zamazenta,Hero of Many Battles,Fighting,NONE,Galar,1/1,NONE,NONE
+889,Zamazenta,Crowned Shield,Fighting,Steel,Galar,1/1,NONE,NONE
+890,Eternatus,NONE,Poison,Dragon,Galar,1/1,NONE,NONE
+890,Eternatus,Eternamax,Poison,Dragon,Galar,1/1,NONE,NONE
+891,Kubfu,NONE,Fighting,NONE,Galar,1/2,NONE,NONE
+892,Urshifu,Single Strike Style,Fighting,Dark,Galar,2/2,NONE,NONE
+892,Urshifu,Rapid Strike Style,Fighting,Water,Galar,2/2,NONE,NONE
+893,Zarude,NONE,Dark,Grass,Galar,1/1,NONE,NONE
+894,Regieleki,NONE,Electric,NONE,Galar,1/1,NONE,NONE
+895,Regidrago,NONE,Dragon,NONE,Galar,1/1,NONE,NONE
+896,Glastrier,NONE,Ice,NONE,Galar,1/1,NONE,NONE
+897,Spectrier,NONE,Ghost,NONE,Galar,1/1,NONE,NONE
+898,Calyrex,NONE,Psychic,Grass,Galar,1/1,NONE,NONE
+898,Calyrex,Ice Rider,Psychic,Ice,Galar,1/1,NONE,NONE
+898,Calyrex,Shadow Rider,Psychic,Ghost,Galar,1/1,NONE,NONE
+899,Wyrdeer,NONE,Normal,Psychic,Galar,2/2,NONE,NONE
+900,Kleavor,NONE,Bug,Rock,Galar,2/2,NONE,NONE
+901,Ursaluna,NONE,Ground,Normal,Galar,3/3,NONE,NONE
+902,Basculegion,Male,Water,Ghost,Galar,2/2,NONE,NONE
+902,Basculegion,Female,Water,Ghost,Galar,2/2,NONE,NONE
+903,Sneasler,NONE,Fighting,Poison,Galar,2/2,NONE,NONE
+904,Overqwil,NONE,Dark,Poison,Galar,2/2,NONE,NONE
+905,Enamorus,Incarnate Forme,Fairy,Flying,Galar,1/1,NONE,NONE
+905,Enamorus,Therian Forme,Fairy,Flying,Galar,1/1,NONE,NONE
+906,Sprigatito,NONE,Grass,NONE,Paldea,1/3,NONE,NONE
+907,Floragato,NONE,Grass,NONE,Paldea,2/3,NONE,NONE
+908,Meowscarada,NONE,Grass,Dark,Paldea,3/3,NONE,NONE
+909,Fuecoco,NONE,Fire,NONE,Paldea,1/3,NONE,NONE
+910,Crocalor,NONE,Fire,NONE,Paldea,2/3,NONE,NONE
+911,Skeledirge,NONE,Fire,Ghost,Paldea,3/3,NONE,NONE
+912,Quaxly,NONE,Water,NONE,Paldea,1/3,NONE,NONE
+913,Quaxwell,NONE,Water,NONE,Paldea,2/3,NONE,NONE
+914,Quaquaval,NONE,Water,Fighting,Paldea,3/3,NONE,NONE
+915,Lechonk,NONE,Normal,NONE,Paldea,1/2,NONE,NONE
+916,Oinkologne,Male,Normal,NONE,Paldea,2/2,NONE,NONE
+916,Oinkologne,Female,Normal,NONE,Paldea,2/2,NONE,NONE
+917,Tarountula,NONE,Bug,NONE,Paldea,1/2,NONE,NONE
+918,Spidops,NONE,Bug,NONE,Paldea,2/2,NONE,NONE
+919,Nymble,NONE,Bug,NONE,Paldea,1/2,NONE,NONE
+920,Lokix,NONE,Bug,Dark,Paldea,2/2,NONE,NONE
+921,Pawmi,NONE,Electric,NONE,Paldea,1/3,NONE,NONE
+922,Pawmo,NONE,Electric,Fighting,Paldea,2/3,NONE,NONE
+923,Pawmot,NONE,Electric,Fighting,Paldea,3/3,NONE,NONE
+924,Tandemaus,NONE,Normal,NONE,Paldea,1/2,NONE,NONE
+925,Maushold,Family of Four,Normal,NONE,Paldea,2/2,NONE,NONE
+925,Maushold,Family of Three,Normal,NONE,Paldea,2/2,NONE,NONE
+926,Fidough,NONE,Fairy,NONE,Paldea,1/2,NONE,NONE
+927,Dachsbun,NONE,Fairy,NONE,Paldea,2/2,NONE,NONE
+928,Smoliv,NONE,Grass,Normal,Paldea,1/3,NONE,NONE
+929,Dolliv,NONE,Grass,Normal,Paldea,2/3,NONE,NONE
+930,Arboliva,NONE,Grass,Normal,Paldea,3/3,NONE,NONE
+931,Squawkabilly,Green Plumage,Normal,Flying,Paldea,1/1,NONE,NONE
+931,Squawkabilly,Blue Plumage,Normal,Flying,Paldea,1/1,NONE,NONE
+931,Squawkabilly,Yellow Plumage,Normal,Flying,Paldea,1/1,NONE,NONE
+931,Squawkabilly,White Plumage,Normal,Flying,Paldea,1/1,NONE,NONE
+932,Nacli,NONE,Rock,NONE,Paldea,1/3,NONE,NONE
+933,Naclstack,NONE,Rock,NONE,Paldea,2/3,NONE,NONE
+934,Garganacl,NONE,Rock,NONE,Paldea,3/3,NONE,NONE
+935,Charcadet,NONE,Fire,NONE,Paldea,1/2,NONE,NONE
+936,Armarouge,NONE,Fire,Psychic,Paldea,2/2,NONE,NONE
+937,Ceruledge,NONE,Fire,Ghost,Paldea,2/2,NONE,NONE
+938,Tadbulb,NONE,Electric,NONE,Paldea,1/2,NONE,NONE
+939,Bellibolt,NONE,Electric,NONE,Paldea,2/2,NONE,NONE
+940,Wattrel,NONE,Electric,Flying,Paldea,1/2,NONE,NONE
+941,Kilowattrel,NONE,Electric,Flying,Paldea,2/2,NONE,NONE
+942,Maschiff,NONE,Dark,NONE,Paldea,1/2,NONE,NONE
+943,Mabosstiff,NONE,Dark,NONE,Paldea,2/2,NONE,NONE
+944,Shroodle,NONE,Poison,Normal,Paldea,1/2,NONE,NONE
+945,Grafaiai,NONE,Poison,Normal,Paldea,2/2,NONE,NONE
+946,Bramblin,NONE,Grass,Ghost,Paldea,1/2,NONE,NONE
+947,Brambleghast,NONE,Grass,Ghost,Paldea,2/2,NONE,NONE
+948,Toedscool,NONE,Ground,Grass,Paldea,1/2,NONE,NONE
+949,Toedscruel,NONE,Ground,Grass,Paldea,2/2,NONE,NONE
+950,Klawf,NONE,Rock,NONE,Paldea,1/1,NONE,NONE
+951,Capsakid,NONE,Grass,NONE,Paldea,1/2,NONE,NONE
+952,Scovillain,NONE,Grass,Fire,Paldea,2/2,NONE,NONE
+953,Rellor,NONE,Bug,NONE,Paldea,1/2,NONE,NONE
+954,Rabsca,NONE,Bug,Psychic,Paldea,2/2,NONE,NONE
+955,Flittle,NONE,Psychic,NONE,Paldea,1/2,NONE,NONE
+956,Espathra,NONE,Psychic,NONE,Paldea,2/2,NONE,NONE
+957,Tinkatink,NONE,Fairy,Steel,Paldea,1/3,NONE,NONE
+958,Tinkatuff,NONE,Fairy,Steel,Paldea,2/3,NONE,NONE
+959,Tinkaton,NONE,Fairy,Steel,Paldea,3/3,NONE,NONE
+960,Wiglett,NONE,Water,NONE,Paldea,1/2,NONE,NONE
+961,Wugtrio,NONE,Water,NONE,Paldea,2/2,NONE,NONE
+962,Bombirdier,NONE,Flying,Dark,Paldea,1/1,NONE,NONE
+963,Finizen,NONE,Water,NONE,Paldea,1/2,NONE,NONE
+964,Palafin,Zero Form,Water,NONE,Paldea,2/2,NONE,NONE
+964,Palafin,Hero Form,Water,NONE,Paldea,2/2,NONE,NONE
+965,Varoom,NONE,Steel,Poison,Paldea,1/2,NONE,NONE
+966,Revavroom,NONE,Steel,Poison,Paldea,2/2,NONE,NONE
+967,Cyclizar,NONE,Dragon,Normal,Paldea,1/1,NONE,NONE
+968,Orthworm,NONE,Steel,NONE,Paldea,1/1,NONE,NONE
+969,Glimmet,NONE,Rock,Poison,Paldea,1/2,NONE,NONE
+970,Glimmora,NONE,Rock,Poison,Paldea,2/2,NONE,NONE
+971,Greavard,NONE,Ghost,NONE,Paldea,1/2,NONE,NONE
+972,Houndstone,NONE,Ghost,NONE,Paldea,2/2,NONE,NONE
+973,Flamigo,NONE,Flying,Fighting,Paldea,1/1,NONE,NONE
+974,Cetoddle,NONE,Ice,NONE,Paldea,1/2,NONE,NONE
+975,Cetitan,NONE,Ice,NONE,Paldea,2/2,NONE,NONE
+976,Veluza,NONE,Water,Psychic,Paldea,1/1,NONE,NONE
+977,Dondozo,NONE,Water,NONE,Paldea,1/1,NONE,NONE
+978,Tatsugiri,Curly Form,Dragon,Water,Paldea,1/1,NONE,NONE
+978,Tatsugiri,Droopy Form,Dragon,Water,Paldea,1/1,NONE,NONE
+978,Tatsugiri,Stretchy Form,Dragon,Water,Paldea,1/1,NONE,NONE
+979,Annihilape,NONE,Fighting,Ghost,Paldea,3/3,NONE,NONE
+980,Clodsire,NONE,Poison,Ground,Paldea,2/2,NONE,NONE
+981,Farigiraf,NONE,Normal,Psychic,Paldea,2/2,NONE,NONE
+982,Dudunsparce,Two-Segment Form,Normal,NONE,Paldea,2/2,NONE,NONE
+982,Dudunsparce,Three-Segment Form,Normal,NONE,Paldea,2/2,NONE,NONE
+983,Kingambit,NONE,Dark,Steel,Paldea,3/3,NONE,NONE
+984,Great Tusk,NONE,Ground,Fighting,Paldea,1/1,NONE,NONE
+985,Scream Tail,NONE,Fairy,Psychic,Paldea,1/1,NONE,NONE
+986,Brute Bonnet,NONE,Grass,Dark,Paldea,1/1,NONE,NONE
+987,Flutter Mane,NONE,Ghost,Fairy,Paldea,1/1,NONE,NONE
+988,Slither Wing,NONE,Bug,Fighting,Paldea,1/1,NONE,NONE
+989,Sandy Shocks,NONE,Electric,Ground,Paldea,1/1,NONE,NONE
+990,Iron Treads,NONE,Ground,Steel,Paldea,1/1,NONE,NONE
+991,Iron Bundle,NONE,Ice,Water,Paldea,1/1,NONE,NONE
+992,Iron Hands,NONE,Fighting,Electric,Paldea,1/1,NONE,NONE
+993,Iron Jugulis,NONE,Dark,Flying,Paldea,1/1,NONE,NONE
+994,Iron Moth,NONE,Fire,Poison,Paldea,1/1,NONE,NONE
+995,Iron Thorns,NONE,Rock,Electric,Paldea,1/1,NONE,NONE
+996,Frigibax,NONE,Dragon,Ice,Paldea,1/3,NONE,NONE
+997,Arctibax,NONE,Dragon,Ice,Paldea,2/3,NONE,NONE
+998,Baxcalibur,NONE,Dragon,Ice,Paldea,3/3,NONE,NONE
+999,Gimmighoul,Chest Form,Ghost,NONE,Paldea,1/2,NONE,NONE
+999,Gimmighoul,Roaming Form,Ghost,NONE,Paldea,1/2,NONE,NONE
+1000,Gholdengo,NONE,Steel,Ghost,Paldea,2/2,NONE,NONE
+1001,Wo-Chien,NONE,Dark,Grass,Paldea,1/1,NONE,NONE
+1002,Chien-Pao,NONE,Dark,Ice,Paldea,1/1,NONE,NONE
+1003,Ting-Lu,NONE,Dark,Ground,Paldea,1/1,NONE,NONE
+1004,Chi-Yu,NONE,Dark,Fire,Paldea,1/1,NONE,NONE
+1005,Roaring Moon,NONE,Dragon,Dark,Paldea,1/1,NONE,NONE
+1006,Iron Valiant,NONE,Fairy,Fighting,Paldea,1/1,NONE,NONE
+1007,Koraidon,NONE,Fighting,Dragon,Paldea,1/1,NONE,NONE
+1008,Miraidon,NONE,Electric,Dragon,Paldea,1/1,NONE,NONE
+1009,Walking Wake,NONE,Water,Dragon,Paldea,1/1,NONE,NONE
+1010,Iron Leaves,NONE,Grass,Psychic,Paldea,1/1,NONE,NONE
+1011,Dipplin,NONE,Grass,Dragon,Paldea,2/3,NONE,NONE
+1012,Poltchageist,NONE,Grass,Ghost,Paldea,1/2,NONE,NONE
+1013,Sinistcha,NONE,Grass,Ghost,Paldea,2/2,NONE,NONE
+1014,Okidogi,NONE,Poison,Fighting,Paldea,1/1,NONE,NONE
+1015,Munkidori,NONE,Poison,Psychic,Paldea,1/1,NONE,NONE
+1016,Fezandipiti,NONE,Poison,Fairy,Paldea,1/1,NONE,NONE
+1017,Ogerpon,Teal Mask,Grass,NONE,Paldea,1/1,NONE,NONE
+1017,Ogerpon,Wellspring Mask,Grass,Water,Paldea,1/1,NONE,NONE
+1017,Ogerpon,Hearthflame Mask,Grass,Fire,Paldea,1/1,NONE,NONE
+1017,Ogerpon,Cornerstone Mask,Grass,Rock,Paldea,1/1,NONE,NONE
+1018,Archaludon,NONE,Steel,Dragon,Paldea,2/2,NONE,NONE
+1019,Hydrapple,NONE,Grass,Dragon,Paldea,3/3,NONE,NONE
+1020,Gouging Fire,NONE,Fire,Dragon,Paldea,1/1,NONE,NONE
+1021,Ragin Bolt,NONE,Electric,Dragon,Paldea,1/1,NONE,NONE
+1022,Iron Boulder,NONE,Rock,Psychic,Paldea,1/1,NONE,NONE
+1023,Iron Crown,NONE,Steel,Psychic,Paldea,1/1,NONE,NONE
+1024,Terapagos,Normal Form,Normal,NONE,Paldea,1/1,NONE,NONE
+1024,Terapagos,Terastal Form,Normal,NONE,Paldea,1/1,NONE,NONE
+1025,Pecharunt,NONE,Poison,Ghost,Paldea,1/1,NONE,NONE

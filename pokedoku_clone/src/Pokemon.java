@@ -1,20 +1,24 @@
 public class Pokemon {
     private int dexNum;
     private String name;
+    private String form;
     private String type1;
     private String type2;
-    private String evolution;
     private String region;
-    private String tag;
+    private String evolution_stage;
+    private String evo_tag;
+    private String category;
 
     Pokemon() {
         this.dexNum = 0;
         this.name = "Unnamed";
+        this.form = "NONE";
         this.type1 = "NONE";
         this.type2 = "NONE";
-        this.evolution = "N/A";
         this.region = "Unnamed";
-        this.tag = "NONE";
+        this.evolution_stage = "N/A";
+        this.evo_tag = "NONE";
+        this.category = "NONE";
     }
 
     public int getDexNum() {
@@ -29,6 +33,12 @@ public class Pokemon {
     public void setName(String name) {
         this.name = name;
     }
+    public String getForm() {
+        return form;
+    }
+    public void setForm(String form) {
+        this.form = form;
+    }
     public String getType1() {
         return this.type1;
     }
@@ -42,10 +52,10 @@ public class Pokemon {
         this.type2 = type2;
     }
     public String getEvolution() {
-        return this.evolution;
+        return this.evolution_stage;
     }
     public void setEvolution(String evolution) {
-        this.evolution = evolution;
+        this.evolution_stage = evolution;
     }
     public String getRegion() {
         return this.region;
@@ -53,10 +63,16 @@ public class Pokemon {
     public void setRegion(String region) {
         this.region = region;
     }
-    public String getTag() {
-        return this.tag;
+    public String getEvoTag() {
+        return this.evo_tag;
     }
-    public void setTag(String tag) {
-        this.tag = tag;
+    public void setEvoTag(String tag) {
+        this.evo_tag = tag;
+    }
+    public String getCategory() {
+        return category;
+    }
+    public void setCategory(String category) {
+        this.category = category;
     }
 }

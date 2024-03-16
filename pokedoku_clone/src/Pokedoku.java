@@ -11,7 +11,5 @@ public class Pokedoku {
         catch (FileNotFoundException e) {
             System.out.println("File could not be loaded.");
         }
-
-        System.out.println(list[132].getName() + " has the PokeDex number " + list[132].getDexNum() + ".");
     }
 }

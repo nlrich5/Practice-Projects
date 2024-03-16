@@ -1,0 +1,1195 @@
+Pokedex_No,Name
+1,"Bulbasaur"," ","Grass","Poison",Kanto,1/3,NONE,NONE
+2,"Ivysaur"," ","Grass","Poison",Kanto,2/3,NONE,NONE
+3,"Venusaur"," ","Grass","Poison",Kanto,3/3,NONE,NONE
+3,"Venusaur","Mega Venusaur","Grass","Poison",Kanto,3/3,NONE,NONE
+4,"Charmander"," ","Fire"," ",Kanto,1/3,NONE,NONE
+5,"Charmeleon"," ","Fire"," ",Kanto,2/3,NONE,NONE
+6,"Charizard"," ","Fire","Flying",Kanto,3/3,NONE,NONE
+6,"Charizard","Mega Charizard X","Fire","Dragon",Kanto,3/3,NONE,NONE
+6,"Charizard","Mega Charizard Y","Fire","Flying",Kanto,3/3,NONE,NONE
+7,"Squirtle"," ","Water"," ",Kanto,1/3,NONE,NONE
+8,"Wartortle"," ","Water"," ",Kanto,2/3,NONE,NONE
+9,"Blastoise"," ","Water"," ",Kanto,3/3,NONE,NONE
+9,"Blastoise","Mega Blastoise","Water"," ",Kanto,3/3,NONE,NONE
+10,"Caterpie"," ","Bug"," ",Kanto,1/3,NONE,NONE
+11,"Metapod"," ","Bug"," ",Kanto,2/3,NONE,NONE
+12,"Butterfree"," ","Bug","Flying",Kanto,3/3,NONE,NONE
+13,"Weedle"," ","Bug","Poison",Kanto,1/3,NONE,NONE
+14,"Kakuna"," ","Bug","Poison",Kanto,2/3,NONE,NONE
+15,"Beedrill"," ","Bug","Poison",Kanto,3/3,NONE,NONE
+15,"Beedrill","Mega Beedrill","Bug","Poison",Kanto,3/3,NONE,NONE
+16,"Pidgey"," ","Normal","Flying",Kanto,1/3,NONE,NONE
+17,"Pidgeotto"," ","Normal","Flying",Kanto,2/3,NONE,NONE
+18,"Pidgeot"," ","Normal","Flying",Kanto,3/3,NONE,NONE
+18,"Pidgeot","Mega Pidgeot","Normal","Flying",Kanto,3/3,NONE,NONE
+19,"Rattata"," ","Normal"," ",Kanto,1/2,NONE,NONE
+19,"Rattata","Alolan Rattata","Dark","Normal",Alola,1/2,NONE,NONE
+20,"Raticate"," ","Normal"," ",Kanto,2/2,NONE,NONE
+20,"Raticate","Alolan Raticate","Dark","Normal",Alola,2/2,NONE,NONE
+21,"Spearow"," ","Normal","Flying",Kanto,1/2,NONE,NONE
+22,"Fearow"," ","Normal","Flying",Kanto,1/2,NONE,NONE
+23,"Ekans"," ","Poison"," ",Kanto,1/2,NONE,NONE
+24,"Arbok"," ","Poison"," ",Kanto,2/2,NONE,NONE
+25,"Pikachu"," ","Electric"," ",Kanto,2/3,NONE,NONE
+25,"Pikachu","Partner Pikachu","Electric"," ",Alola,1/1,NONE,NONE
+26,"Raichu"," ","Electric"," ",Kanto,3/3,NONE,NONE
+26,"Raichu","Alolan Raichu","Electric","Psychic",Alola,3/3,NONE,NONE
+27,"Sandshrew"," ","Ground"," ",Kanto,1/2,NONE,NONE
+27,"Sandshrew","Alolan Sandshrew","Ice","Steel",Alola,1/2,NONE,NONE
+28,"Sandslash"," ","Ground"," ",Kanto,2/2,NONE,NONE
+28,"Sandslash","Alolan Sandslash","Ice","Steel",Alola,2/2,NONE,NONE
+29,"Nidoran","Female","Poison"," ",Kanto,1/3,NONE,NONE
+30,"Nidorina"," ","Poison"," ",Kanto,2/3,NONE,NONE
+31,"Nidoqueen"," ","Poison","Ground",Kanto,3/3,NONE,NONE
+32,"Nidoran","Male","Poison"," ",Kanto,1/3,NONE,NONE
+33,"Nidorino"," ","Poison"," ",Kanto,2/3,NONE,NONE
+34,"Nidoking"," ","Poison","Ground",Kanto,3/3,NONE,NONE
+35,"Clefairy"," ","Fairy"," ",Kanto,2/3,NONE,NONE
+36,"Clefable"," ","Fairy"," ",Kanto,3/3,NONE,NONE
+37,"Vulpix"," ","Fire"," ",Kanto,1/2,NONE,NONE
+37,"Vulpix","Alolan Vulpix","Ice"," ",Alola,1/2,NONE,NONE
+38,"Ninetales"," ","Fire"," ",Kanto,2/2,NONE,NONE
+38,"Ninetales","Alolan Ninetales","Ice","Fairy",Alola,2/2,NONE,NONE
+39,"Jigglypuff"," ","Normal","Fairy",Kanto,2/3,NONE,NONE
+40,"Wigglytuff"," ","Normal","Fairy",Kanto,3/3,NONE,NONE
+41,"Zubat"," ","Poison","Flying",Kanto,1/3,NONE,NONE
+42,"Golbat"," ","Poison","Flying",Kanto,2/3,NONE,NONE
+43,"Oddish"," ","Grass","Poison",Kanto,1/3,NONE,NONE
+44,"Gloom"," ","Grass","Poison",Kanto,2/3,NONE,NONE
+45,"Vileplume"," ","Grass","Poison",Kanto,3/3,NONE,NONE
+46,"Paras"," ","Bug","Grass",Kanto,1/2,NONE,NONE
+47,"Parasect"," ","Bug","Grass",Kanto,2/2,NONE,NONE
+48,"Venonat"," ","Bug","Poison",Kanto,1/2,NONE,NONE
+49,"Venomoth"," ","Bug","Poison",Kanto,2/2,NONE,NONE
+50,"Diglett"," ","Ground"," ",Kanto,1/2,NONE,NONE
+50,"Diglett","Alolan Diglett","Ground","Steel",Alola,1/2,NONE,NONE
+51,"Dugtrio"," ","Ground"," ",Kanto,2/2,NONE,NONE
+51,"Dugtrio","Alolan Dugtrio","Ground","Steel",Alola,2/2,NONE,NONE
+52,"Meowth"," ","Normal"," ",Kanto,1/2,NONE,NONE
+52,"Meowth","Alolan Meowth","Dark"," ",Alola,1/2,NONE,NONE
+52,"Meowth","Galarian Meowth","Steel"," ",Galar,1/2,NONE,NONE
+53,"Persian"," ","Normal"," ",Kanto,2/2,NONE,NONE
+53,"Persian","Alolan Persian","Dark"," ",Alola,2/2,NONE,NONE
+54,"Psyduck"," ","Water"," ",Kanto,1/2,NONE,NONE
+55,"Golduck"," ","Water"," ",Kanto,2/2,NONE,NONE
+56,"Mankey"," ","Fighting"," ",Kanto,1/3,NONE,NONE
+57,"Primeape"," ","Fighting"," ",Kanto,2/3,NONE,NONE
+58,"Growlithe"," ","Fire"," ",Kanto,1/2,NONE,NONE
+58,"Growlithe","Hisuian Growlithe","Fire","Rock",Galar,1/2,NONE,NONE
+59,"Arcanine"," ","Fire"," ",Kanto,2/2,NONE,NONE
+59,"Arcanine","Hisuian Arcanine","Fire","Rock",Galar,2/2,NONE,NONE
+60,"Poliwag"," ","Water"," ",Kanto,1/3,NONE,NONE
+61,"Poliwhirl"," ","Water"," ",Kanto,2/3,NONE,NONE
+62,"Poliwrath"," ","Water","Fighting",Kanto,3/3,NONE,NONE
+63,"Abra"," ","Psychic"," ",Kanto,1/3,NONE,NONE
+64,"Kadabra"," ","Psychic"," ",Kanto,2/3,NONE,NONE
+65,"Alakazam"," ","Psychic"," ",Kanto,3/3,NONE,NONE
+65,"Alakazam","Mega Alakazam","Psychic"," ",Kanto,3/3,NONE,NONE
+66,"Machop"," ","Fighting"," ",Kanto,1/3,NONE,NONE
+67,"Machoke"," ","Fighting"," ",Kanto,2/3,NONE,NONE
+68,"Machamp"," ","Fighting"," ",Kanto,3/3,NONE,NONE
+69,"Bellsprout"," ","Grass","Poison",Kanto,1/3,NONE,NONE
+70,"Weepinbell"," ","Grass","Poison",Kanto,2/3,NONE,NONE
+71,"Victreebel"," ","Grass","Poison",Kanto,3/3,NONE,NONE
+72,"Tentacool"," ","Water","Poison",Kanto,1/2,NONE,NONE
+73,"Tentacruel"," ","Water","Poison",Kanto,2/2,NONE,NONE
+74,"Geodude"," ","Rock","Ground",Kanto,1/3,NONE,NONE
+74,"Geodude","Alolan Geodude","Rock","Electric",Alola,1/3,NONE,NONE
+75,"Graveler"," ","Rock","Ground",Kanto,2/3,NONE,NONE
+75,"Graveler","Alolan Graveler","Rock","Electric",Alola,2/3,NONE,NONE
+76,"Golem"," ","Rock","Ground",Kanto,3/3,NONE,NONE
+76,"Golem","Alolan Golem","Rock","Electric",Alola,3/3,NONE,NONE
+77,"Ponyta"," ","Fire"," ",Kanto,1/2,NONE,NONE
+77,"Ponyta","Galarian Ponyta","Psychic"," ",Galar,1/2,NONE,NONE
+78,"Rapidash"," ","Fire"," ",Kanto,2/2,NONE,NONE
+78,"Rapidash","Galarian Rapidash","Psychic","Fairy",Galar,2/2,NONE,NONE
+79,"Slowpoke"," ","Water","Psychic",Kanto,1/2,NONE,NONE
+79,"Slowpoke","Galarian Slowpoke","Psychic"," ",Galar,1/2,NONE,NONE
+80,"Slowbro"," ","Water","Psychic",Kanto,2/2,NONE,NONE
+80,"Slowbro","Mega Slowbro","Water","Psychic",Kanto,2/2,NONE,NONE
+80,"Slowbro","Galarian Slowbro","Poison","Psychic",Galar,2/2,NONE,NONE
+81,"Magnemite"," ","Electric","Steel",Kanto,1/3,NONE,NONE
+82,"Magneton"," ","Electric","Steel",Kanto,2/3,NONE,NONE
+83,"Farfetch'd"," ","Normal","Flying",Kanto,1/1,NONE,NONE
+83,"Farfetch'd","Galarian Farfetch'd","Fighting"," ",Galar,1/2,NONE,NONE
+84,"Doduo"," ","Normal","Flying",Kanto,1/2,NONE,NONE
+85,"Dodrio"," ","Normal","Flying",Kanto,2/2,NONE,NONE
+86,"Seel"," ","Water"," ",Kanto,1/2,NONE,NONE
+87,"Dewgong"," ","Water","Ice",Kanto,2/2,NONE,NONE
+88,"Grimer"," ","Poison"," ",Kanto,1/2,NONE,NONE
+88,"Grimer","Alolan Grimer","Poison","Dark",Alola,1/2,NONE,NONE
+89,"Muk"," ","Poison"," ",Kanto,2/2,NONE,NONE
+89,"Muk","Alolan Muk","Poison","Dark",Alola,2/2,NONE,NONE
+90,"Shellder"," ","Water"," ",Kanto,1/2,NONE,NONE
+91,"Cloyster"," ","Water","Ice",Kanto,2/2,NONE,NONE
+92,"Gastly"," ","Ghost","Poison",Kanto,1/3,NONE,NONE
+93,"Haunter"," ","Ghost","Poison",Kanto,2/3,NONE,NONE
+94,"Gengar"," ","Ghost","Poison",Kanto,3/3,NONE,NONE
+94,"Gengar","Mega Gengar","Ghost","Poison",Kanto,3/3,NONE,NONE
+95,"Onix"," ","Rock","Ground",Kanto,1/2,NONE,NONE
+96,"Drowzee"," ","Psychic"," ",Kanto,1/2,NONE,NONE
+97,"Hypno"," ","Psychic"," ",Kanto,2/2,NONE,NONE
+98,"Krabby"," ","Water"," ",Kanto,1/2,NONE,NONE
+99,"Kingler"," ","Water"," ",Kanto,2/2,NONE,NONE
+100,"Voltorb"," ","Electric"," ",Kanto,1/2,NONE,NONE
+100,"Voltorb","Hisuian Voltorb","Electric","Grass",Galar,1/2,NONE,NONE
+101,"Electrode"," ","Electric"," ",Kanto,2/2,NONE,NONE
+101,"Electrode","Hisuian Electrode","Electric","Grass",Galar,2/2,NONE,NONE
+102,"Exeggcute"," ","Grass","Psychic",Kanto,1/2,NONE,NONE
+103,"Exeggutor"," ","Grass","Psychic",Kanto,2/2,NONE,NONE
+103,"Exeggutor","Alolan Exeggutor","Grass","Dragon",Alola,2/2,NONE,NONE
+104,"Cubone"," ","Ground"," ",Kanto,1/2,NONE,NONE
+105,"Marowak"," ","Ground"," ",Kanto,2/2,NONE,NONE
+105,"Marowak","Alolan Marowak","Fire","Ghost",Alola,2/2,NONE,NONE
+106,"Hitmonlee"," ","Fighting"," ",Kanto,2/2,NONE,NONE
+107,"Hitmonchan"," ","Fighting"," ",Kanto,2/2,NONE,NONE
+108,"Lickitung"," ","Normal"," ",Kanto,1/2,NONE,NONE
+109,"Koffing"," ","Poison"," ",Kanto,1/2,NONE,NONE
+110,"Weezing"," ","Poison"," ",Kanto,1/2,NONE,NONE
+110,"Weezing","Galarian Weezing","Poison","Fairy",Galar,2/2,NONE,NONE
+111,"Rhyhorn"," ","Ground","Rock",Kanto,1/3,NONE,NONE
+112,"Rhydon"," ","Ground","Rock",Kanto,2/3,NONE,NONE
+113,"Chansey"," ","Normal"," ",Kanto,2/3,NONE,NONE
+114,"Tangela"," ","Grass"," ",Kanto,1/2,NONE,NONE
+115,"Kangaskhan"," ","Normal"," ",Kanto,1/1,NONE,NONE
+115,"Kangaskhan","Mega Kangaskhan","Normal"," ",Kanto,1/1,NONE,NONE
+116,"Horsea"," ","Water"," ",Kanto,1/3,NONE,NONE
+117,"Seadra"," ","Water"," ",Kanto,2/3,NONE,NONE
+118,"Goldeen"," ","Water"," ",Kanto,1/2,NONE,NONE
+119,"Seaking"," ","Water"," ",Kanto,2/2,NONE,NONE
+120,"Staryu"," ","Water"," ",Kanto,1/2,NONE,NONE
+121,"Starmie"," ","Water","Psychic",Kanto,2/2,NONE,NONE
+122,"Mr. Mime"," ","Psychic","Fairy",Kanto,2/3,NONE,NONE
+122,"Mr. Mime","Galarian Mr. Mime","Ice","Psychic",Galar,2/3,NONE,NONE
+123,"Scyther"," ","Bug","Flying",Kanto,1/2,NONE,NONE
+124,"Jynx"," ","Ice","Psychic",Kanto,2/2,NONE,NONE
+125,"Electabuzz"," ","Electric"," ",Kanto,2/3,NONE,NONE
+126,"Magmar"," ","Fire"," ",Kanto,2/3,NONE,NONE
+127,"Pinsir"," ","Bug"," ",Kanto,1/1,NONE,NONE
+127,"Pinsir","Mega Pinsir","Bug","Flying",Kanto,1/1,NONE,NONE
+128,"Tauros"," ","Normal"," ",Kanto,1,NONE,NONE
+129,"Magikarp"," ","Water"," ",Kanto,1/2,NONE,NONE
+130,"Gyarados"," ","Water","Flying",Kanto,2/2,NONE,NONE
+130,"Gyarados","Mega Gyarados","Water","Dark",Kanto,2/2,NONE,NONE
+131,"Lapras"," ","Water","Ice",Kanto,1/1,NONE,NONE
+132,"Ditto"," ","Normal"," ",Kanto,1/1,NONE,NONE
+133,"Eevee"," ","Normal"," ",Kanto,1/2,NONE,NONE
+133,"Eevee","Partner Eevee","Normal"," ",Alola,1/1,NONE,NONE
+134,"Vaporeon"," ","Water"," ",Kanto,2/2,NONE,NONE
+135,"Jolteon"," ","Electric"," ",Kanto,2/2,NONE,NONE
+136,"Flareon"," ","Fire"," ",Kanto,2/2,NONE,NONE
+137,"Porygon"," ","Normal"," ",Kanto,1/3,NONE,NONE
+138,"Omanyte"," ","Rock","Water",Kanto,1/2,NONE,NONE
+139,"Omastar"," ","Rock","Water",Kanto,2/2,NONE,NONE
+140,"Kabuto"," ","Rock","Water",Kanto,1/2,NONE,NONE
+141,"Kabutops"," ","Rock","Water",Kanto,2/2,NONE,NONE
+142,"Aerodactyl"," ","Rock","Flying",Kanto,1/1,NONE,NONE
+142,"Aerodactyl","Mega Aerodactyl","Rock","Flying",Kanto,1/1,NONE,NONE
+143,"Snorlax"," ","Normal"," ",Kanto,2/2,NONE,NONE
+144,"Articuno"," ","Ice","Flying",Kanto,1/1,NONE,NONE
+144,"Articuno","Galarian Articuno","Psychic","Flying",Galar,1/1,NONE,NONE
+145,"Zapdos"," ","Electric","Flying",Kanto,1/1,NONE,NONE
+145,"Zapdos","Galarian Zapdos","Fighting","Flying",Galar,1/1,NONE,NONE
+146,"Moltres"," ","Fire","Flying",Kanto,1/1,NONE,NONE
+146,"Moltres","Galarian Moltres","Dark","Flying",Galar,1/1,NONE,NONE
+147,"Dratini"," ","Dragon"," ",Kanto,1/3,NONE,NONE
+148,"Dragonair"," ","Dragon"," ",Kanto,2/3,NONE,NONE
+149,"Dragonite"," ","Dragon","Flying",Kanto,3/3,NONE,NONE
+150,"Mewtwo"," ","Psychic"," ",Kanto,1/1,NONE,NONE
+150,"Mewtwo","Mega Mewtwo X","Psychic","Fighting",Kanto,1/1,NONE,NONE
+150,"Mewtwo","Mega Mewtwo Y","Psychic"," ",Kanto,1/1,NONE,NONE
+151,"Mew"," ","Psychic"," ",Kanto,1/1,NONE,NONE
+152,"Chikorita"," ","Grass"," ",Johto,1/3,NONE,NONE
+153,"Bayleef"," ","Grass"," ",Johto,2/3,NONE,NONE
+154,"Meganium"," ","Grass"," ",Johto,3/3,NONE,NONE
+155,"Cyndaquil"," ","Fire"," ",Johto,1/3,NONE,NONE
+156,"Quilava"," ","Fire"," ",Johto,2/3,NONE,NONE
+157,"Typhlosion"," ","Fire"," ",Johto,3/3,NONE,NONE
+157,"Typhlosion","Hisuian Typhlosion","Fire","Ghost",Galar,3/3,NONE,NONE
+158,"Totodile"," ","Water"," ",Johto,1/3,NONE,NONE
+159,"Croconaw"," ","Water"," ",Johto,2/3,NONE,NONE
+160,"Feraligatr"," ","Water"," ",Johto,3/3,NONE,NONE
+161,"Sentret"," ","Normal"," ",Johto,1/2,NONE,NONE
+162,"Furret"," ","Normal"," ",Johto,2/2,NONE,NONE
+163,"Hoothoot"," ","Normal","Flying",Johto,1/2,NONE,NONE
+164,"Noctowl"," ","Normal","Flying",Johto,2/2,NONE,NONE
+165,"Ledyba"," ","Bug","Flying",Johto,1/2,NONE,NONE
+166,"Ledian"," ","Bug","Flying",Johto,2/2,NONE,NONE
+167,"Spinarak"," ","Bug","Poison",Johto,1/2,NONE,NONE
+168,"Ariados"," ","Bug","Poison",Johto,2/2,NONE,NONE
+169,"Crobat"," ","Poison","Flying",Johto,3/3,NONE,NONE
+170,"Chinchou"," ","Water","Electric",Johto,1/2,NONE,NONE
+171,"Lanturn"," ","Water","Electric",Johto,2/2,NONE,NONE
+172,"Pichu"," ","Electric"," ",Johto,1/3,NONE,NONE
+173,"Cleffa"," ","Fairy"," ",Johto,1/3,NONE,NONE
+174,"Igglybuff"," ","Normal","Fairy",Johto,1/3,NONE,NONE
+175,"Togepi"," ","Fairy"," ",Johto,1/3,NONE,NONE
+176,"Togetic"," ","Fairy","Flying",Johto,2/3,NONE,NONE
+177,"Natu"," ","Psychic","Flying",Johto,1/2,NONE,NONE
+178,"Xatu"," ","Psychic","Flying",Johto,2/2,NONE,NONE
+179,"Mareep"," ","Electric"," ",Johto,1/3,NONE,NONE
+180,"Flaaffy"," ","Electric"," ",Johto,2/3,NONE,NONE
+181,"Ampharos"," ","Electric"," ",Johto,3/3,NONE,NONE
+181,"Ampharos","Mega Ampharos","Electric","Dragon",Johto,3/3,NONE,NONE
+182,"Bellossom"," ","Grass"," ",Johto,3/3,NONE,NONE
+183,"Marill"," ","Water","Fairy",Johto,2/3,NONE,NONE
+184,"Azumarill"," ","Water","Fairy",Johto,3/3,NONE,NONE
+185,"Sudowoodo"," ","Rock"," ",Johto,2/2,NONE,NONE
+186,"Politoed"," ","Water"," ",Johto,3/3,NONE,NONE
+187,"Hoppip"," ","Grass","Flying",Johto,1/3,NONE,NONE
+188,"Skiploom"," ","Grass","Flying",Johto,2/3,NONE,NONE
+189,"Jumpluff"," ","Grass","Flying",Johto,3/3,NONE,NONE
+190,"Aipom"," ","Normal"," ",Johto,1/2,NONE,NONE
+191,"Sunkern"," ","Grass"," ",Johto,1/2,NONE,NONE
+192,"Sunflora"," ","Grass"," ",Johto,2/2,NONE,NONE
+193,"Yanma"," ","Bug","Flying",Johto,1/2,NONE,NONE
+194,"Wooper"," ","Water","Ground",Johto,1/2,NONE,NONE
+195,"Quagsire"," ","Water","Ground",Johto,2/2,NONE,NONE
+196,"Espeon"," ","Psychic"," ",Johto,2/2,NONE,NONE
+197,"Umbreon"," ","Dark"," ",Johto,2/2,NONE,NONE
+198,"Murkrow"," ","Dark","Flying",Johto,1/2,NONE,NONE
+199,"Slowking"," ","Water","Psychic",Johto,2/2,NONE,NONE
+199,"Slowking","Galarian Slowking","Poison","Psychic",Galar,2/2,NONE,NONE
+200,"Misdreavus"," ","Ghost"," ",Johto,1/2,NONE,NONE
+201,"Unown"," ","Psychic"," ",Johto,1/1,NONE,NONE
+202,"Wobbuffet"," ","Psychic"," ",Johto,2/2,NONE,NONE
+203,"Girafarig"," ","Normal","Psychic",Johto,1/2,NONE,NONE
+204,"Pineco"," ","Bug"," ",Johto,1/2,NONE,NONE
+205,"Forretress"," ","Bug","Steel",Johto,2/2,NONE,NONE
+206,"Dunsparce"," ","Normal"," ",Johto,1/2,NONE,NONE
+207,"Gligar"," ","Ground","Flying",Johto,1/2,NONE,NONE
+208,"Steelix"," ","Steel","Ground",Johto,2/2,NONE,NONE
+208,"Steelix","Mega Steelix","Steel","Ground",Johto,2/2,NONE,NONE
+209,"Snubbull"," ","Fairy"," ",Johto,1/2,NONE,NONE
+210,"Granbull"," ","Fairy"," ",Johto,2/2,NONE,NONE
+211,"Qwilfish"," ","Water","Poison",Johto,1/1,NONE,NONE
+211,"Qwilfish","Hisuian Qwilfish","Dark","Poison",Galar,1/2,NONE,NONE
+212,"Scizor"," ","Bug","Steel",Johto,2/2,NONE,NONE
+212,"Scizor","Mega Scizor","Bug","Steel",Johto,2/2,NONE,NONE
+213,"Shuckle"," ","Bug","Rock",Johto,1/1,NONE,NONE
+214,"Heracross"," ","Bug","Fighting",Johto,1/1,NONE,NONE
+214,"Heracross","Mega Heracross","Bug","Fighting",Johto,1/1,NONE,NONE
+215,"Sneasel"," ","Dark","Ice",Johto,1/2,NONE,NONE
+215,"Sneasel","Hisuian Sneasel","Fighting","Poison",Galar,1/2,NONE,NONE
+216,"Teddiursa"," ","Normal"," ",Johto,1/3,NONE,NONE
+217,"Ursaring"," ","Normal"," ",Johto,2/3,NONE,NONE
+218,"Slugma"," ","Fire"," ",Johto,1/2,NONE,NONE
+219,"Magcargo"," ","Fire","Rock",Johto,2/2,NONE,NONE
+220,"Swinub"," ","Ice","Ground",Johto,1/3,NONE,NONE
+221,"Piloswine"," ","Ice","Ground",Johto,2/3,NONE,NONE
+222,"Corsola"," ","Water","Rock",Johto,1/1,NONE,NONE
+222,"Corsola","Galarian Corsola","Ghost"," ",Galar,1/2,NONE,NONE
+223,"Remoraid"," ","Water"," ",Johto,1/2,NONE,NONE
+224,"Octillery"," ","Water"," ",Johto,2/2,NONE,NONE
+225,"Delibird"," ","Ice","Flying",Johto,1/1,NONE,NONE
+226,"Mantine"," ","Water","Flying",Johto,2/2,NONE,NONE
+227,"Skarmory"," ","Steel","Flying",Johto,1/1,NONE,NONE
+228,"Houndour"," ","Dark","Fire",Johto,1/2,NONE,NONE
+229,"Houndoom"," ","Dark","Fire",Johto,2/2,NONE,NONE
+229,"Houndoom","Mega Houndoom","Dark","Fire",Johto,2/2,NONE,NONE
+230,"Kingdra"," ","Water","Dragon",Johto,3/3,NONE,NONE
+231,"Phanpy"," ","Ground"," ",Johto,1/2,NONE,NONE
+232,"Donphan"," ","Ground"," ",Johto,2/2,NONE,NONE
+233,"Porygon2"," ","Normal"," ",Johto,2/3,NONE,NONE
+234,"Stantler"," ","Normal"," ",Johto,1/2,NONE,NONE
+235,"Smeargle"," ","Normal"," ",Johto,1/1,NONE,NONE
+236,"Tyrogue"," ","Fighting"," ",Johto,1/2,NONE,NONE
+237,"Hitmontop"," ","Fighting"," ",Johto,2/2,NONE,NONE
+238,"Smoochum"," ","Ice","Psychic",Johto,1/2,NONE,NONE
+239,"Elekid"," ","Electric"," ",Johto,1/3,NONE,NONE
+240,"Magby"," ","Fire"," ",Johto,1/3,NONE,NONE
+241,"Miltank"," ","Normal"," ",Johto,1/1,NONE,NONE
+242,"Blissey"," ","Normal"," ",Johto,3/3,NONE,NONE
+243,"Raikou"," ","Electric"," ",Johto,1/1,NONE,NONE
+244,"Entei"," ","Fire"," ",Johto,1/1,NONE,NONE
+245,"Suicune"," ","Water"," ",Johto,1/1,NONE,NONE
+246,"Larvitar"," ","Rock","Ground",Johto,1/3,NONE,NONE
+247,"Pupitar"," ","Rock","Ground",Johto,2/3,NONE,NONE
+248,"Tyranitar"," ","Rock","Dark",Johto,3/3,NONE,NONE
+248,"Tyranitar","Mega Tyranitar","Rock","Dark",Johto,3/3,NONE,NONE
+249,"Lugia"," ","Psychic","Flying",Johto,1/1,NONE,NONE
+250,"Ho-oh"," ","Fire","Flying",Johto,1/1,NONE,NONE
+251,"Celebi"," ","Psychic","Grass",Johto,1/1,NONE,NONE
+252,"Treecko"," ","Grass"," ",Hoenn,1/3,NONE,NONE
+253,"Grovyle"," ","Grass"," ",Hoenn,2/3,NONE,NONE
+254,"Sceptile"," ","Grass"," ",Hoenn,3/3,NONE,NONE
+254,"Sceptile","Mega Sceptile","Grass","Dragon",Hoenn,3/3,NONE,NONE
+255,"Torchic"," ","Fire"," ",Hoenn,1/3,NONE,NONE
+256,"Combusken"," ","Fire","Fighting",Hoenn,2/3,NONE,NONE
+257,"Blaziken"," ","Fire","Fighting",Hoenn,3/3,NONE,NONE
+257,"Blaziken","Mega Blaziken","Fire","Fighting",Hoenn,3/3,NONE,NONE
+258,"Mudkip"," ","Water"," ",Hoenn,1/3,NONE,NONE
+259,"Marshtomp"," ","Water","Ground",Hoenn,2/3,NONE,NONE
+260,"Swampert"," ","Water","Ground",Hoenn,3/3,NONE,NONE
+260,"Swampert","Mega Swampert","Water","Ground",Hoenn,3/3,NONE,NONE
+261,"Poochyena"," ","Dark"," ",Hoenn,1/2,NONE,NONE
+262,"Mightyena"," ","Dark"," ",Hoenn,2/2,NONE,NONE
+263,"Zigzagoon"," ","Normal"," ",Hoenn,1/2,NONE,NONE
+263,"Zigzagoon","Galarian Zigzagoon","Dark","Normal",Galar,1/3,NONE,NONE
+264,"Linoone"," ","Normal"," ",Hoenn,2/2,NONE,NONE
+264,"Linoone","Galarian Linoone","Dark","Normal",Galar,2/3,NONE,NONE
+265,"Wurmple"," ","Bug"," ",Hoenn,1/2,NONE,NONE
+266,"Silcoon"," ","Bug"," ",Hoenn,2/3,NONE,NONE
+267,"Beautifly"," ","Bug","Flying",Hoenn,3/3,NONE,NONE
+268,"Cascoon"," ","Bug"," ",Hoenn,2/3,NONE,NONE
+269,"Dustox"," ","Bug","Poison",Hoenn,3/3,NONE,NONE
+270,"Lotad"," ","Water","Grass",Hoenn,1/3,NONE,NONE
+271,"Lombre"," ","Water","Grass",Hoenn,2/3,NONE,NONE
+272,"Ludicolo"," ","Water","Grass",Hoenn,3/3,NONE,NONE
+273,"Seedot"," ","Grass"," ",Hoenn,1/3,NONE,NONE
+274,"Nuzleaf"," ","Grass","Dark",Hoenn,2/3,NONE,NONE
+275,"Shiftry"," ","Grass","Dark",Hoenn,3/3,NONE,NONE
+276,"Taillow"," ","Normal","Flying",Hoenn,1/2,NONE,NONE
+277,"Swellow"," ","Normal","Flying",Hoenn,2/2,NONE,NONE
+278,"Wingull"," ","Water","Flying",Hoenn,1/2,NONE,NONE
+279,"Pelipper"," ","Water","Flying",Hoenn,2/2,NONE,NONE
+280,"Ralts"," ","Psychic","Fairy",Hoenn,1/3,NONE,NONE
+281,"Kirlia"," ","Psychic","Fairy",Hoenn,2/3,NONE,NONE
+282,"Gardevoir"," ","Psychic","Fairy",Hoenn,3/3,NONE,NONE
+282,"Gardevoir","Mega Gardevoir","Psychic","Fairy",Hoenn,3/3,NONE,NONE
+283,"Surskit"," ","Bug","Water",Hoenn,1/2,NONE,NONE
+284,"Masquerain"," ","Bug","Flying",Hoenn,2/2,NONE,NONE
+285,"Shroomish"," ","Grass"," ",Hoenn,1/3,NONE,NONE
+286,"Breloom"," ","Grass","Fighting",Hoenn,2/2,NONE,NONE
+287,"Slakoth"," ","Normal"," ",Hoenn,1/3,NONE,NONE
+288,"Vigoroth"," ","Normal"," ",Hoenn,2/3,NONE,NONE
+289,"Slaking"," ","Normal"," ",Hoenn,3/3,NONE,NONE
+290,"Nincada"," ","Bug","Ground",Hoenn,1/2,NONE,NONE
+291,"Ninjask"," ","Bug","Flying",Hoenn,2/2,NONE,NONE
+292,"Shedinja"," ","Bug","Ghost",Hoenn,2/2,NONE,NONE
+293,"Whismur"," ","Normal"," ",Hoenn,1/3,NONE,NONE
+294,"Loudred"," ","Normal"," ",Hoenn,2/3,NONE,NONE
+295,"Exploud"," ","Normal"," ",Hoenn,3/3,NONE,NONE
+296,"Makuhita"," ","Fighting"," ",Hoenn,1/2,NONE,NONE
+297,"Hariyama"," ","Fighting"," ",Hoenn,2/2,NONE,NONE
+298,"Azurill"," ","Normal","Fairy",Hoenn,1/3,NONE,NONE
+299,"Nosepass"," ","Rock"," ",Hoenn,1/2,NONE,NONE
+300,"Skitty"," ","Normal"," ",Hoenn,1/2,NONE,NONE
+301,"Delcatty"," ","Normal"," ",Hoenn,1/2,NONE,NONE
+302,"Sableye"," ","Dark","Ghost",Hoenn,1/1,NONE,NONE
+302,"Sableye","Mega Sableye","Dark","Ghost",Hoenn,1/1,NONE,NONE
+303,"Mawile"," ","Steel","Fairy",Hoenn,1/1,NONE,NONE
+303,"Mawile","Mega Mawile","Steel","Fairy",Hoenn,1/1,NONE,NONE
+304,"Aron"," ","Steel","Rock",Hoenn,1/3,NONE,NONE
+305,"Lairon"," ","Steel","Rock",Hoenn,2/3,NONE,NONE
+306,"Aggron"," ","Steel","Rock",Hoenn,3/3,NONE,NONE
+306,"Aggron","Mega Aggron","Steel"," ",Hoenn,3/3,NONE,NONE
+307,"Meditite"," ","Fighting","Psychic",Hoenn,1/2,NONE,NONE
+308,"Medicham"," ","Fighting","Psychic",Hoenn,2/2,NONE,NONE
+308,"Medicham","Mega Medicham","Fighting","Psychic",Hoenn,2/2,NONE,NONE
+309,"Electrike"," ","Electric"," ",Hoenn,1/2,NONE,NONE
+310,"Manectric"," ","Electric"," ",Hoenn,2/2,NONE,NONE
+310,"Manectric","Mega Manectric","Electric"," ",Hoenn,2/2,NONE,NONE
+311,"Plusle"," ","Electric"," ",Hoenn,1/1,NONE,NONE
+312,"Minun"," ","Electric"," ",Hoenn,1/1,NONE,NONE
+313,"Volbeat"," ","Bug"," ",Hoenn,1/1,NONE,NONE
+314,"Illumise"," ","Bug"," ",Hoenn,1/1,NONE,NONE
+315,"Roselia"," ","Grass","Poison",Hoenn,2/3,NONE,NONE
+316,"Gulpin"," ","Poison"," ",Hoenn,1/2,NONE,NONE
+317,"Swalot"," ","Poison"," ",Hoenn,2/2,NONE,NONE
+318,"Carvanha"," ","Water","Dark",Hoenn,1/2,NONE,NONE
+319,"Sharpedo"," ","Water","Dark",Hoenn,2/2,NONE,NONE
+319,"Sharpedo","Mega Sharpedo","Water","Dark",Hoenn,2/2,NONE,NONE
+320,"Wailmer"," ","Water"," ",Hoenn,1/3,NONE,NONE
+321,"Wailord"," ","Water"," ",Hoenn,2/3,NONE,NONE
+322,"Numel"," ","Fire","Ground",Hoenn,1/2,NONE,NONE
+323,"Camerupt"," ","Fire","Ground",Hoenn,2/2,NONE,NONE
+323,"Camerupt","Mega Camerupt","Fire","Ground",Hoenn,2/2,NONE,NONE
+324,"Torkoal"," ","Fire"," ",Hoenn,1/1,NONE,NONE
+325,"Spoink"," ","Psychic"," ",Hoenn,1/2,NONE,NONE
+326,"Grumpig"," ","Psychic"," ",Hoenn,2/2,NONE,NONE
+327,"Spinda"," ","Normal"," ",Hoenn,1/1,NONE,NONE
+328,"Trapinch"," ","Ground"," ",Hoenn,1/3,NONE,NONE
+329,"Vibrava"," ","Ground","Dragon",Hoenn,2/3,NONE,NONE
+330,"Flygon"," ","Ground","Dragon",Hoenn,3/3,NONE,NONE
+331,"Cacnea"," ","Grass"," ",Hoenn,1/2,NONE,NONE
+332,"Cacturne"," ","Grass","Dark",Hoenn,2/2,NONE,NONE
+333,"Swablu"," ","Normal","Flying",Hoenn,1/2,NONE,NONE
+334,"Altaria"," ","Dragon","Flying",Hoenn,2/2,NONE,NONE
+334,"Altaria","Mega Altaria","Dragon","Fairy",Hoenn,2/2,NONE,NONE
+335,"Zangoose"," ","Normal"," ",Hoenn,1/1,NONE,NONE
+336,"Seviper"," ","Poison"," ",Hoenn,1/1,NONE,NONE
+337,"Lunatone"," ","Rock","Psychic",Hoenn,1/1,NONE,NONE
+338,"Solrock"," ","Rock","Psychic",Hoenn,1/1,NONE,NONE
+339,"Barboach"," ","Water","Ground",Hoenn,1/2,NONE,NONE
+340,"Whiscash"," ","Water","Ground",Hoenn,2/2,NONE,NONE
+341,"Corphish"," ","Water"," ",Hoenn,1/2,NONE,NONE
+342,"Crawdaunt"," ","Water","Dark",Hoenn,2/2,NONE,NONE
+343,"Baltoy"," ","Ground","Psychic",Hoenn,1/2,NONE,NONE
+344,"Claydol"," ","Ground","Psychic",Hoenn,2/2,NONE,NONE
+345,"Lileep"," ","Rock","Grass",Hoenn,1/2,NONE,NONE
+346,"Cradily"," ","Rock","Grass",Hoenn,2/2,NONE,NONE
+347,"Anorith"," ","Rock","Bug",Hoenn,1/2,NONE,NONE
+348,"Armaldo"," ","Rock","Bug",Hoenn,2/2,NONE,NONE
+349,"Feebas"," ","Water"," ",Hoenn,1/2,NONE,NONE
+350,"Milotic"," ","Water"," ",Hoenn,2/2,NONE,NONE
+351,"Castform"," ","Normal"," ",Hoenn,1/1,NONE,NONE
+351,"Castform","Sunny Form","Fire"," ",Hoenn,1/1,NONE,NONE
+351,"Castform","Rainy Form","Water"," ",Hoenn,1/1,NONE,NONE
+351,"Castform","Snowy Form","Ice"," ",Hoenn,1/1,NONE,NONE
+352,"Kecleon"," ","Normal"," ",Hoenn,1/1,NONE,NONE
+353,"Shuppet"," ","Ghost"," ",Hoenn,1/2,NONE,NONE
+354,"Banette"," ","Ghost"," ",Hoenn,2/2,NONE,NONE
+354,"Banette","Mega Banette","Ghost"," ",Hoenn,2/2,NONE,NONE
+355,"Duskull"," ","Ghost"," ",Hoenn,1/3,NONE,NONE
+356,"Dusclops"," ","Ghost"," ",Hoenn,2/3,NONE,NONE
+357,"Tropius"," ","Grass","Flying",Hoenn,1/1,NONE,NONE
+358,"Chimecho"," ","Psychic"," ",Hoenn,2/2,NONE,NONE
+359,"Absol"," ","Dark"," ",Hoenn,1/1,NONE,NONE
+359,"Absol","Mega Absol","Dark"," ",Hoenn,1/1,NONE,NONE
+360,"Wynaut"," ","Psychic"," ",Hoenn,1/2,NONE,NONE
+361,"Snorunt"," ","Ice"," ",Hoenn,1/2,NONE,NONE
+362,"Glalie"," ","Ice"," ",Hoenn,2/2,NONE,NONE
+362,"Glalie","Mega Glalie","Ice"," ",Hoenn,2/2,NONE,NONE
+363,"Spheal"," ","Ice","Water",Hoenn,1/3,NONE,NONE
+364,"Sealeo"," ","Ice","Water",Hoenn,2/3,NONE,NONE
+365,"Walrein"," ","Ice","Water",Hoenn,3/3,NONE,NONE
+366,"Clamperl"," ","Water"," ",Hoenn,1/2,NONE,NONE
+367,"Huntail"," ","Water"," ",Hoenn,2/2,NONE,NONE
+368,"Gorebyss"," ","Water"," ",Hoenn,2/2,NONE,NONE
+369,"Relicanth"," ","Water","Rock",Hoenn,1/1,NONE,NONE
+370,"Luvdisc"," ","Water"," ",Hoenn,1/1,NONE,NONE
+371,"Bagon"," ","Dragon"," ",Hoenn,1/3,NONE,NONE
+372,"Shelgon"," ","Dragon"," ",Hoenn,2/3,NONE,NONE
+373,"Salamence"," ","Dragon","Flying",Hoenn,3/3,NONE,NONE
+373,"Salamence","Mega Salamence","Dragon","Flying",Hoenn,3/3,NONE,NONE
+374,"Beldum"," ","Steel","Psychic",Hoenn,1/3,NONE,NONE
+375,"Metang"," ","Steel","Psychic",Hoenn,2/3,NONE,NONE
+376,"Metagross"," ","Steel","Psychic",Hoenn,3/3,NONE,NONE
+376,"Metagross","Mega Metagross","Steel","Psychic",Hoenn,3/3,NONE,NONE
+377,"Regirock"," ","Rock"," ",Hoenn,1/1,NONE,NONE
+378,"Regice"," ","Ice"," ",Hoenn,1/1,NONE,NONE
+379,"Registeel"," ","Steel"," ",Hoenn,1/1,NONE,NONE
+380,"Latias"," ","Dragon","Psychic",Hoenn,1/1,NONE,NONE
+380,"Latias","Mega Latias","Dragon","Psychic",Hoenn,1/1,NONE,NONE
+381,"Latios"," ","Dragon","Psychic",Hoenn,1/1,NONE,NONE
+381,"Latios","Mega Latios","Dragon","Psychic",Hoenn,1/1,NONE,NONE
+382,"Kyogre"," ","Water"," ",Hoenn,1/1,NONE,NONE
+382,"Kyogre","Primal Kyogre","Water"," ",Hoenn,1/1,NONE,NONE
+383,"Groudon"," ","Ground"," ",Hoenn,1/1,NONE,NONE
+383,"Groudon","Primal Groudon","Ground","Fire",Hoenn,1/1,NONE,NONE
+384,"Rayquaza"," ","Dragon","Flying",Hoenn,1/1,NONE,NONE
+384,"Rayquaza","Mega Rayquaza","Dragon","Flying",Hoenn,1/1,NONE,NONE
+385,"Jirachi"," ","Steel","Psychic",Hoenn,1/1,NONE,NONE
+386,"Deoxys","Normal Forme","Psychic"," ",Hoenn,1/1,NONE,NONE
+386,"Deoxys","Attack Forme","Psychic"," ",Hoenn,1/1,NONE,NONE
+386,"Deoxys","Defense Forme","Psychic"," ",Hoenn,1/1,NONE,NONE
+386,"Deoxys","Speed Forme","Psychic"," ",Hoenn,1/1,NONE,NONE
+387,"Turtwig"," ","Grass"," ",Sinnoh,1/3,NONE,NONE
+388,"Grotle"," ","Grass"," ",Sinnoh,2/3,NONE,NONE
+389,"Torterra"," ","Grass","Ground",Sinnoh,3/3,NONE,NONE
+390,"Chimchar"," ","Fire"," ",Sinnoh,1/3,NONE,NONE
+391,"Monferno"," ","Fire","Fighting",Sinnoh,2/3,NONE,NONE
+392,"Infernape"," ","Fire","Fighting",Sinnoh,3/3,NONE,NONE
+393,"Piplup"," ","Water"," ",Sinnoh,1/3,NONE,NONE
+394,"Prinplup"," ","Water"," ",Sinnoh,2/3,NONE,NONE
+395,"Empoleon"," ","Water","Steel",Sinnoh,3/3,NONE,NONE
+396,"Starly"," ","Normal","Flying",Sinnoh,1/3,NONE,NONE
+397,"Staravia"," ","Normal","Flying",Sinnoh,2/3,NONE,NONE
+398,"Staraptor"," ","Normal","Flying",Sinnoh,3/3,NONE,NONE
+399,"Bidoof"," ","Normal"," ",Sinnoh,1/2,NONE,NONE
+400,"Bibarel"," ","Normal","Water",Sinnoh,2/2,NONE,NONE
+401,"Kricketot"," ","Bug"," ",Sinnoh,1/2,NONE,NONE
+402,"Kricketune"," ","Bug"," ",Sinnoh,2/2,NONE,NONE
+403,"Shinx"," ","Electric"," ",Sinnoh,1/3,NONE,NONE
+404,"Luxio"," ","Electric"," ",Sinnoh,2/3,NONE,NONE
+405,"Luxray"," ","Electric"," ",Sinnoh,3/3,NONE,NONE
+406,"Budew"," ","Grass","Poison",Sinnoh,1/3,NONE,NONE
+407,"Roserade"," ","Grass","Poison",Sinnoh,3/3,NONE,NONE
+408,"Cranidos"," ","Rock"," ",Sinnoh,1/2,NONE,NONE
+409,"Rampardos"," ","Rock"," ",Sinnoh,2/2,NONE,NONE
+410,"Shieldon"," ","Rock","Steel",Sinnoh,1/2,NONE,NONE
+411,"Bastiodon"," ","Rock","Steel",Sinnoh,2/2,NONE,NONE
+412,"Burmy","Plant Cloak","Bug"," ",Sinnoh,1/2,NONE,NONE
+412,"Burmy","Sandy Cloak","Bug"," ",Sinnoh,1/2,NONE,NONE
+412,"Burmy","Trash Cloak","Bug"," ",Sinnoh,1/2,NONE,NONE
+413,"Wormadam","Plant Cloak","Bug","Grass",Sinnoh,2/2,NONE,NONE
+413,"Wormadam","Sandy Cloak","Bug","Ground",Sinnoh,2/2,NONE,NONE
+413,"Wormadam","Trash Cloak","Bug","Steel",Sinnoh,2/2,NONE,NONE
+414,"Mothim"," ","Bug","Flying",Sinnoh,2/2,NONE,NONE
+415,"Combee"," ","Bug","Flying",Sinnoh,1/2,NONE,NONE
+416,"Vespiquen"," ","Bug","Flying",Sinnoh,2/2,NONE,NONE
+417,"Pachirisu"," ","Electric"," ",Sinnoh,1/1,NONE,NONE
+418,"Buizel"," ","Water"," ",Sinnoh,1/2,NONE,NONE
+419,"Floatzel"," ","Water"," ",Sinnoh,2/2,NONE,NONE
+420,"Cherubi"," ","Grass"," ",Sinnoh,1/2,NONE,NONE
+421,"Cherrim"," ","Grass"," ",Sinnoh,2/2,NONE,NONE
+422,"Shellos"," ","Water"," ",Sinnoh,1/2,NONE,NONE
+423,"Gastrodon"," ","Water","Ground",Sinnoh,2/2,NONE,NONE
+424,"Ambipom"," ","Normal"," ",Sinnoh,2/2,NONE,NONE
+425,"Drifloon"," ","Ghost","Flying",Sinnoh,1/2,NONE,NONE
+426,"Drifblim"," ","Ghost","Flying",Sinnoh,2/2,NONE,NONE
+427,"Buneary"," ","Normal"," ",Sinnoh,1/2,NONE,NONE
+428,"Lopunny"," ","Normal"," ",Sinnoh,2/2,NONE,NONE
+428,"Lopunny","Mega Lopunny","Normal","Fighting",Sinnoh,2/2,NONE,NONE
+429,"Mismagius"," ","Ghost"," ",Sinnoh,2/2,NONE,NONE
+430,"Honchkrow"," ","Dark","Flying",Sinnoh,2/2,NONE,NONE
+431,"Glameow"," ","Normal"," ",Sinnoh,1/2,NONE,NONE
+432,"Purugly"," ","Normal"," ",Sinnoh,2/2,NONE,NONE
+433,"Chingling"," ","Psychic"," ",Sinnoh,1/2,NONE,NONE
+434,"Stunky"," ","Poison","Dark",Sinnoh,1/2,NONE,NONE
+435,"Skuntank"," ","Poison","Dark",Sinnoh,2/2,NONE,NONE
+436,"Bronzor"," ","Steel","Psychic",Sinnoh,1/2,NONE,NONE
+437,"Bronzong"," ","Steel","Psychic",Sinnoh,2/2,NONE,NONE
+438,"Bonsly"," ","Rock"," ",Sinnoh,1/2,NONE,NONE
+439,"Mime Jr."," ","Psychic","Fairy",Sinnoh,1/2,NONE,NONE
+440,"Happiny"," ","Normal"," ",Sinnoh,13,NONE,NONE
+441,"Chatot"," ","Normal","Flying",Sinnoh,1/1,NONE,NONE
+442,"Spiritomb"," ","Ghost","Dark",Sinnoh,1/1,NONE,NONE
+443,"Gible"," ","Dragon","Ground",Sinnoh,1/3,NONE,NONE
+444,"Gabite"," ","Dragon","Ground",Sinnoh,2/3,NONE,NONE
+445,"Garchomp"," ","Dragon","Ground",Sinnoh,3/3,NONE,NONE
+445,"Garchomp","Mega Garchomp","Dragon","Ground",Sinnoh,3/3,NONE,NONE
+446,"Munchlax"," ","Normal"," ",Sinnoh,1/2,NONE,NONE
+447,"Riolu"," ","Fighting"," ",Sinnoh,1/2,NONE,NONE
+448,"Lucario"," ","Fighting","Steel",Sinnoh,2/2,NONE,NONE
+448,"Lucario","Mega Lucario","Fighting","Steel",Sinnoh,2/2,NONE,NONE
+449,"Hippopotas"," ","Ground"," ",Sinnoh,1/2,NONE,NONE
+450,"Hippowdon"," ","Ground"," ",Sinnoh,2/2,NONE,NONE
+451,"Skorupi"," ","Poison","Bug",Sinnoh,1/2,NONE,NONE
+452,"Drapion"," ","Poison","Dark",Sinnoh,2/2,NONE,NONE
+453,"Croagunk"," ","Poison","Fighting",Sinnoh,1/2,NONE,NONE
+454,"Toxicroak"," ","Poison","Fighting",Sinnoh,2/2,NONE,NONE
+455,"Carnivine"," ","Grass"," ",Sinnoh,1/1,NONE,NONE
+456,"Finneon"," ","Water"," ",Sinnoh,1/2,NONE,NONE
+457,"Lumineon"," ","Water"," ",Sinnoh,2/2,NONE,NONE
+458,"Mantyke"," ","Water","Flying",Sinnoh,1/2,NONE,NONE
+459,"Snover"," ","Grass","Ice",Sinnoh,1/2,NONE,NONE
+460,"Abomasnow"," ","Grass","Ice",Sinnoh,2/2,NONE,NONE
+460,"Abomasnow","Mega Abomasnow","Grass","Ice",Sinnoh,2/2,NONE,NONE
+461,"Weavile"," ","Dark","Ice",Sinnoh,2/2,NONE,NONE
+462,"Magnezone"," ","Electric","Steel",Sinnoh,3/3,NONE,NONE
+463,"Lickilicky"," ","Normal"," ",Sinnoh,2/2,NONE,NONE
+464,"Rhyperior"," ","Ground","Rock",Sinnoh,3/3,NONE,NONE
+465,"Tangrowth"," ","Grass"," ",Sinnoh,2/2,NONE,NONE
+466,"Electivire"," ","Electric"," ",Sinnoh,3/3,NONE,NONE
+467,"Magmortar"," ","Fire"," ",Sinnoh,3/3,NONE,NONE
+468,"Togekiss"," ","Fairy","Flying",Sinnoh,3/3,NONE,NONE
+469,"Yanmega"," ","Bug","Flying",Sinnoh,2/2,NONE,NONE
+470,"Leafeon"," ","Grass"," ",Sinnoh,2/2,NONE,NONE
+471,"Glaceon"," ","Ice"," ",Sinnoh,2/2,NONE,NONE
+472,"Gliscor"," ","Ground","Flying",Sinnoh,2/2,NONE,NONE
+473,"Mamoswine"," ","Ice","Ground",Sinnoh,3/3,NONE,NONE
+474,"Porygon-Z"," ","Normal"," ",Sinnoh,3/3,NONE,NONE
+475,"Gallade"," ","Psychic","Fighting",Sinnoh,3/3,NONE,NONE
+475,"Gallade","Mega Gallade","Psychic","Fighting",Sinnoh,3/3,NONE,NONE
+476,"Probopass"," ","Rock","Steel",Sinnoh,2/2,NONE,NONE
+477,"Dusknoir"," ","Ghost"," ",Sinnoh,3/3,NONE,NONE
+478,"Froslass"," ","Ice","Ghost",Sinnoh,2/2,NONE,NONE
+479,"Rotom"," ","Electric","Ghost",Sinnoh,1/1,NONE,NONE
+479,"Rotom","Heat Rotom","Electric","Fire",Sinnoh,1/1,NONE,NONE
+479,"Rotom","Wash Rotom","Electric","Water",Sinnoh,1/1,NONE,NONE
+479,"Rotom","Frost Rotom","Electric","Ice",Sinnoh,1/1,NONE,NONE
+479,"Rotom","Fan Rotom","Electric","Flying",Sinnoh,1/1,NONE,NONE
+479,"Rotom","Mow Rotom","Electric","Grass",Sinnoh,1/1,NONE,NONE
+480,"Uxie"," ","Psychic"," ",Sinnoh,1/1,NONE,NONE
+481,"Mesprit"," ","Psychic"," ",Sinnoh,1/1,NONE,NONE
+482,"Azelf"," ","Psychic"," ",Sinnoh,1/1,NONE,NONE
+483,"Dialga"," ","Steel","Dragon",Sinnoh,1/1,NONE,NONE
+483,"Dialga","Origin Forme","Steel","Dragon",Sinnoh,1/1,NONE,NONE
+484,"Palkia"," ","Water","Dragon",Sinnoh,1/1,NONE,NONE
+484,"Palkia","Origin Forme","Water","Dragon",Sinnoh,1/1,NONE,NONE
+485,"Heatran"," ","Fire","Steel",Sinnoh,1/1,NONE,NONE
+486,"Regigigas"," ","Normal"," ",Sinnoh,1/1,NONE,NONE
+487,"Giratina","Altered Forme","Ghost","Dragon",Sinnoh,1/1,NONE,NONE
+487,"Giratina","Origin Forme","Ghost","Dragon",Sinnoh,1/1,NONE,NONE
+488,"Cresselia"," ","Psychic"," ",Sinnoh,1/1,NONE,NONE
+489,"Phione"," ","Water"," ",Sinnoh,1/1,NONE,NONE
+490,"Manaphy"," ","Water"," ",Sinnoh,1/1,NONE,NONE
+491,"Darkrai"," ","Dark"," ",Sinnoh,1/1,NONE,NONE
+492,"Shaymin","Land Forme","Grass"," ",Sinnoh,1/1,NONE,NONE
+492,"Shaymin","Sky Forme","Grass","Flying",Sinnoh,1/1,NONE,NONE
+493,"Arceus"," ","Normal"," ",Sinnoh,1/1,NONE,NONE
+494,"Victini"," ","Psychic","Fire",Unova,1/1,NONE,NONE
+495,"Snivy"," ","Grass"," ",Unova,1/3,NONE,NONE
+496,"Servine"," ","Grass"," ",Unova,2/3,NONE,NONE
+497,"Serperior"," ","Grass"," ",Unova,3/3,NONE,NONE
+498,"Tepig"," ","Fire"," ",Unova,1/3,NONE,NONE
+499,"Pignite"," ","Fire","Fighting",Unova,2/3,NONE,NONE
+500,"Emboar"," ","Fire","Fighting",Unova,3/3,NONE,NONE
+501,"Oshawott"," ","Water"," ",Unova,1/3,NONE,NONE
+502,"Dewott"," ","Water"," ",Unova,2/3,NONE,NONE
+503,"Samurott"," ","Water"," ",Unova,3/3,NONE,NONE
+503,"Samurott","Hisuian Samurott","Water","Dark",Galar,3/3,NONE,NONE
+504,"Patrat"," ","Normal"," ",Unova,1/2,NONE,NONE
+505,"Watchog"," ","Normal"," ",Unova,2/2,NONE,NONE
+506,"Lillipup"," ","Normal"," ",Unova,1/2,NONE,NONE
+507,"Herdier"," ","Normal"," ",Unova,2/3,NONE,NONE
+508,"Stoutland"," ","Normal"," ",Unova,3/3,NONE,NONE
+509,"Purrloin"," ","Dark"," ",Unova,1/2,NONE,NONE
+510,"Liepard"," ","Dark"," ",Unova,2/2,NONE,NONE
+511,"Pansage"," ","Grass"," ",Unova,1/2,NONE,NONE
+512,"Simisage"," ","Grass"," ",Unova,2/2,NONE,NONE
+513,"Pansear"," ","Fire"," ",Unova,1/2,NONE,NONE
+514,"Simisear"," ","Fire"," ",Unova,2/2,NONE,NONE
+515,"Panpour"," ","Water"," ",Unova,1/2,NONE,NONE
+516,"Simipour"," ","Water"," ",Unova,2/2,NONE,NONE
+517,"Munna"," ","Psychic"," ",Unova,1/2,NONE,NONE
+518,"Musharna"," ","Psychic"," ",Unova,2/2,NONE,NONE
+519,"Pidove"," ","Normal","Flying",Unova,1/3,NONE,NONE
+520,"Tranquill"," ","Normal","Flying",Unova,2/3,NONE,NONE
+521,"Unfezant"," ","Normal","Flying",Unova,3/3,NONE,NONE
+522,"Blitzle"," ","Electric"," ",Unova,1/2,NONE,NONE
+523,"Zebstrika"," ","Electric"," ",Unova,2/2,NONE,NONE
+524,"Roggenrola"," ","Rock"," ",Unova,1/3,NONE,NONE
+525,"Boldore"," ","Rock"," ",Unova,2/3,NONE,NONE
+526,"Gigalith"," ","Rock"," ",Unova,3/3,NONE,NONE
+527,"Woobat"," ","Psychic","Flying",Unova,1/2,NONE,NONE
+528,"Swoobat"," ","Psychic","Flying",Unova,2/2,NONE,NONE
+529,"Drilbur"," ","Ground"," ",Unova,1/2,NONE,NONE
+530,"Excadrill"," ","Ground","Steel",Unova,2/2,NONE,NONE
+531,"Audino"," ","Normal"," ",Unova,1/1,NONE,NONE
+531,"Audino","Mega Audino","Normal","Fairy",Unova,1/1,NONE,NONE
+532,"Timburr"," ","Fighting"," ",Unova,1/3,NONE,NONE
+533,"Gurdurr"," ","Fighting"," ",Unova,2/3,NONE,NONE
+534,"Conkeldurr"," ","Fighting"," ",Unova,3/3,NONE,NONE
+535,"Tympole"," ","Water"," ",Unova,1/3,NONE,NONE
+536,"Palpitoad"," ","Water","Ground",Unova,2/3,NONE,NONE
+537,"Seismitoad"," ","Water","Ground",Unova,3/3,NONE,NONE
+538,"Throh"," ","Fighting"," ",Unova,1/1,NONE,NONE
+539,"Sawk"," ","Fighting"," ",Unova,1/1,NONE,NONE
+540,"Sewaddle"," ","Bug","Grass",Unova,1/3,NONE,NONE
+541,"Swadloon"," ","Bug","Grass",Unova,2/3,NONE,NONE
+542,"Leavanny"," ","Bug","Grass",Unova,3/3,NONE,NONE
+543,"Venipede"," ","Bug","Poison",Unova,1/3,NONE,NONE
+544,"Whirlipede"," ","Bug","Poison",Unova,2/3,NONE,NONE
+545,"Scolipede"," ","Bug","Poison",Unova,3/3,NONE,NONE
+546,"Cottonee"," ","Grass","Fairy",Unova,1/2,NONE,NONE
+547,"Whimsicott"," ","Grass","Fairy",Unova,2/2,NONE,NONE
+548,"Petilil"," ","Grass"," ",Unova,1/2,NONE,NONE
+549,"Lilligant"," ","Grass"," ",Unova,2/2,NONE,NONE
+549,"Lilligant","Hisuian Lilligant","Grass","Fighting",Galar,2/2,NONE,NONE
+550,"Basculin","Red-Striped Form","Water"," ",Unova,1/1,NONE,NONE
+550,"Basculin","Blue-Striped Form","Water"," ",Unova,1/1,NONE,NONE
+550,"Basculin","White-Striped Form","Water"," ",Galar,1/2,NONE,NONE
+551,"Sandile"," ","Ground","Dark",Unova,1/3,NONE,NONE
+552,"Krokorok"," ","Ground","Dark",Unova,2/3,NONE,NONE
+553,"Krookodile"," ","Ground","Dark",Unova,3/3,NONE,NONE
+554,"Darumaka"," ","Fire"," ",Unova,1/2,NONE,NONE
+554,"Darumaka","Galarian Darumaka","Ice"," ",Galar,1/2,NONE,NONE
+555,"Darmanitan","Standard Mode","Fire"," ",Unova,2/2,NONE,NONE
+555,"Darmanitan","Zen Mode","Fire","Psychic",Unova,2/2,NONE,NONE
+555,"Darmanitan","Galarian Standard Mode","Ice"," ",Galar,2/2,NONE,NONE
+555,"Darmanitan","Galarian Zen Mode","Ice","Fire",Galar,2/2,NONE,NONE
+556,"Maractus"," ","Grass"," ",Unova,1/1,NONE,NONE
+557,"Dwebble"," ","Bug","Rock",Unova,1/2,NONE,NONE
+558,"Crustle"," ","Bug","Rock",Unova,2/2,NONE,NONE
+559,"Scraggy"," ","Dark","Fighting",Unova,1/2,NONE,NONE
+560,"Scrafty"," ","Dark","Fighting",Unova,2/2,NONE,NONE
+561,"Sigilyph"," ","Psychic","Flying",Unova,1/1,NONE,NONE
+562,"Yamask"," ","Ghost"," ",Unova,1/2,NONE,NONE
+562,"Yamask","Galarian Yamask","Ground","Ghost",Galar,1,NONE,NONE
+563,"Cofagrigus"," ","Ghost"," ",Unova,2/2,NONE,NONE
+564,"Tirtouga"," ","Water","Rock",Unova,1/2,NONE,NONE
+565,"Carracosta"," ","Water","Rock",Unova,2/2,NONE,NONE
+566,"Archen"," ","Rock","Flying",Unova,1/2,NONE,NONE
+567,"Archeops"," ","Rock","Flying",Unova,2/2,NONE,NONE
+568,"Trubbish"," ","Poison"," ",Unova,1/2,NONE,NONE
+569,"Garbodor"," ","Poison"," ",Unova,2/2,NONE,NONE
+570,"Zorua"," ","Dark"," ",Unova,1/2,NONE,NONE
+570,"Zorua","Hisuian Zorua","Normal","Ghost",Galar,1/2,NONE,NONE
+571,"Zoroark"," ","Dark"," ",Unova,2/2,NONE,NONE
+571,"Zoroark","Hisuian Zoroark","Normal","Ghost",Galar,2/2,NONE,NONE
+572,"Minccino"," ","Normal"," ",Unova,1/2,NONE,NONE
+573,"Cinccino"," ","Normal"," ",Unova,2/2,NONE,NONE
+574,"Gothita"," ","Psychic"," ",Unova,1/3,NONE,NONE
+575,"Gothorita"," ","Psychic"," ",Unova,2/3,NONE,NONE
+576,"Gothitelle"," ","Psychic"," ",Unova,3/3,NONE,NONE
+577,"Solosis"," ","Psychic"," ",Unova,1/3,NONE,NONE
+578,"Duosion"," ","Psychic"," ",Unova,2/3,NONE,NONE
+579,"Reuniclus"," ","Psychic"," ",Unova,3/3,NONE,NONE
+580,"Ducklett"," ","Water","Flying",Unova,1/2,NONE,NONE
+581,"Swanna"," ","Water","Flying",Unova,2/2,NONE,NONE
+582,"Vanillite"," ","Ice"," ",Unova,1/3,NONE,NONE
+583,"Vanillish"," ","Ice"," ",Unova,2/3,NONE,NONE
+584,"Vanilluxe"," ","Ice"," ",Unova,3/3,NONE,NONE
+585,"Deerling"," ","Normal","Grass",Unova,1/2,NONE,NONE
+586,"Sawsbuck"," ","Normal","Grass",Unova,2/2,NONE,NONE
+587,"Emolga"," ","Electric","Flying",Unova,1/1,NONE,NONE
+588,"Karrablast"," ","Bug"," ",Unova,1/2,NONE,NONE
+589,"Escavalier"," ","Bug","Steel",Unova,2/2,NONE,NONE
+590,"Foongus"," ","Grass","Poison",Unova,1/2,NONE,NONE
+591,"Amoonguss"," ","Grass","Poison",Unova,2/2,NONE,NONE
+592,"Frillish"," ","Water","Ghost",Unova,1/2,NONE,NONE
+593,"Jellicent"," ","Water","Ghost",Unova,2/2,NONE,NONE
+594,"Alomomola"," ","Water"," ",Unova,1/1,NONE,NONE
+595,"Joltik"," ","Bug","Electric",Unova,1/2,NONE,NONE
+596,"Galvantula"," ","Bug","Electric",Unova,2/2,NONE,NONE
+597,"Ferroseed"," ","Grass","Steel",Unova,1/2,NONE,NONE
+598,"Ferrothorn"," ","Grass","Steel",Unova,2/2,NONE,NONE
+599,"Klink"," ","Steel"," ",Unova,1/3,NONE,NONE
+600,"Klang"," ","Steel"," ",Unova,2/3,NONE,NONE
+601,"Klinklang"," ","Steel"," ",Unova,3/3,NONE,NONE
+602,"Tynamo"," ","Electric"," ",Unova,1/3,NONE,NONE
+603,"Eelektrik"," ","Electric"," ",Unova,2/3,NONE,NONE
+604,"Eelektross"," ","Electric"," ",Unova,3/3,NONE,NONE
+605,"Elgyem"," ","Psychic"," ",Unova,1/2,NONE,NONE
+606,"Beheeyem"," ","Psychic"," ",Unova,2/2,NONE,NONE
+607,"Litwick"," ","Ghost","Fire",Unova,1/3,NONE,NONE
+608,"Lampent"," ","Ghost","Fire",Unova,2/3,NONE,NONE
+609,"Chandelure"," ","Ghost","Fire",Unova,3/3,NONE,NONE
+610,"Axew"," ","Dragon"," ",Unova,1/3,NONE,NONE
+611,"Fraxure"," ","Dragon"," ",Unova,2/3,NONE,NONE
+612,"Haxorus"," ","Dragon"," ",Unova,3/3,NONE,NONE
+613,"Cubchoo"," ","Ice"," ",Unova,1/2,NONE,NONE
+614,"Beartic"," ","Ice"," ",Unova,2/2,NONE,NONE
+615,"Cryogonal"," ","Ice"," ",Unova,1/1,NONE,NONE
+616,"Shelmet"," ","Bug"," ",Unova,1/2,NONE,NONE
+617,"Accelgor"," ","Bug"," ",Unova,2/2,NONE,NONE
+618,"Stunfisk"," ","Ground","Electric",Unova,1/1,NONE,NONE
+618,"Stunfisk","Galarian Stunfisk","Ground","Steel",Galar,1/1,NONE,NONE
+619,"Mienfoo"," ","Fighting"," ",Unova,1/2,NONE,NONE
+620,"Mienshao"," ","Fighting"," ",Unova,2/2,NONE,NONE
+621,"Druddigon"," ","Dragon"," ",Unova,1/1,NONE,NONE
+622,"Golett"," ","Ground","Ghost",Unova,1/2,NONE,NONE
+623,"Golurk"," ","Ground","Ghost",Unova,2/2,NONE,NONE
+624,"Pawniard"," ","Dark","Steel",Unova,1/3,NONE,NONE
+625,"Bisharp"," ","Dark","Steel",Unova,2/3,NONE,NONE
+626,"Bouffalant"," ","Normal"," ",Unova,1/1,NONE,NONE
+627,"Rufflet"," ","Normal","Flying",Unova,1/2,NONE,NONE
+628,"Braviary"," ","Normal","Flying",Unova,2/2,NONE,NONE
+628,"Braviary","Hisuian Braviary","Psychic","Flying",Galar,2/2,NONE,NONE
+629,"Vullaby"," ","Dark","Flying",Unova,1/2,NONE,NONE
+630,"Mandibuzz"," ","Dark","Flying",Unova,2/2,NONE,NONE
+631,"Heatmor"," ","Fire"," ",Unova,1/1,NONE,NONE
+632,"Durant"," ","Bug","Steel",Unova,1/1,NONE,NONE
+633,"Deino"," ","Dark","Dragon",Unova,1/3,NONE,NONE
+634,"Zweilous"," ","Dark","Dragon",Unova,2/3,NONE,NONE
+635,"Hydreigon"," ","Dark","Dragon",Unova,3/3,NONE,NONE
+636,"Larvesta"," ","Bug","Fire",Unova,1/2,NONE,NONE
+637,"Volcarona"," ","Bug","Fire",Unova,2/2,NONE,NONE
+638,"Cobalion"," ","Steel","Fighting",Unova,1/1,NONE,NONE
+639,"Terrakion"," ","Rock","Fighting",Unova,1/1,NONE,NONE
+640,"Virizion"," ","Grass","Fighting",Unova,1/1,NONE,NONE
+641,"Tornadus","Incarnate Forme","Flying"," ",Unova,1/1,NONE,NONE
+641,"Tornadus","Therian Forme","Flying"," ",Unova,1/1,NONE,NONE
+642,"Thundurus","Incarnate Forme","Electric","Flying",Unova,1/1,NONE,NONE
+642,"Thundurus","Therian Forme","Electric","Flying",Unova,1/1,NONE,NONE
+643,"Reshiram"," ","Dragon","Fire",Unova,1/1,NONE,NONE
+644,"Zekrom"," ","Dragon","Electric",Unova,1/1,NONE,NONE
+645,"Landorus","Incarnate Forme","Ground","Flying",Unova,1/1,NONE,NONE
+645,"Landorus","Therian Forme","Ground","Flying",Unova,1/1,NONE,NONE
+646,"Kyurem"," ","Dragon","Ice",Unova,1/1,NONE,NONE
+646,"Kyurem","White Kyurem","Dragon","Ice",Unova,1/1,NONE,NONE
+646,"Kyurem","Black Kyurem","Dragon","Ice",Unova,1/1,NONE,NONE
+647,"Keldeo","Ordinary Form","Water","Fighting",Unova,1/1,NONE,NONE
+647,"Keldeo","Resolute Form","Water","Fighting",Unova,1/1,NONE,NONE
+648,"Meloetta","Aria Forme","Normal","Psychic",Unova,1/1,NONE,NONE
+648,"Meloetta","Pirouette Forme","Normal","Fighting",Unova,1/1,NONE,NONE
+649,"Genesect"," ","Bug","Steel",Unova,1/1,NONE,NONE
+650,"Chespin"," ","Grass"," ",Kalos,1/3,NONE,NONE
+651,"Quilladin"," ","Grass"," ",Kalos,2/3,NONE,NONE
+652,"Chesnaught"," ","Grass","Fighting",Kalos,3/3,NONE,NONE
+653,"Fennekin"," ","Fire"," ",Kalos,1/3,NONE,NONE
+654,"Braixen"," ","Fire"," ",Kalos,2/3,NONE,NONE
+655,"Delphox"," ","Fire","Psychic",Kalos,3/3,NONE,NONE
+656,"Froakie"," ","Water"," ",Kalos,1/3,NONE,NONE
+657,"Frogadier"," ","Water"," ",Kalos,2/3,NONE,NONE
+658,"Greninja"," ","Water","Dark",Kalos,3/3,NONE,NONE
+658,"Greninja","Ash-Greninja","Water","Dark",Kalos,3/3,NONE,NONE
+659,"Bunnelby"," ","Normal"," ",Kalos,1/2,NONE,NONE
+660,"Diggersby"," ","Normal","Ground",Kalos,2/2,NONE,NONE
+661,"Fletchling"," ","Normal","Flying",Kalos,1/3,NONE,NONE
+662,"Fletchinder"," ","Fire","Flying",Kalos,2/3,NONE,NONE
+663,"Talonflame"," ","Fire","Flying",Kalos,3/3,NONE,NONE
+664,"Scatterbug"," ","Bug"," ",Kalos,1/3,NONE,NONE
+665,"Spewpa"," ","Bug"," ",Kalos,2/3,NONE,NONE
+666,"Vivillon"," ","Bug","Flying",Kalos,3/3,NONE,NONE
+667,"Litleo"," ","Fire","Normal",Kalos,1/2,NONE,NONE
+668,"Pyroar"," ","Fire","Normal",Kalos,2/2,NONE,NONE
+669,"Flabébé"," ","Fairy"," ",Kalos,1/3,NONE,NONE
+670,"Floette"," ","Fairy"," ",Kalos,2/3,NONE,NONE
+671,"Florges"," ","Fairy"," ",Kalos,3/3,NONE,NONE
+672,"Skiddo"," ","Grass"," ",Kalos,1/2,NONE,NONE
+673,"Gogoat"," ","Grass"," ",Kalos,2/2,NONE,NONE
+674,"Pancham"," ","Fighting"," ",Kalos,1/2,NONE,NONE
+675,"Pangoro"," ","Fighting","Dark",Kalos,2/2,NONE,NONE
+676,"Furfrou"," ","Normal"," ",Kalos,1/1,NONE,NONE
+677,"Espurr"," ","Psychic"," ",Kalos,1/2,NONE,NONE
+678,"Meowstic","Male","Psychic"," ",Kalos,2/2,NONE,NONE
+678,"Meowstic","Female","Psychic"," ",Kalos,2/2,NONE,NONE
+679,"Honedge"," ","Steel","Ghost",Kalos,1/3,NONE,NONE
+680,"Doublade"," ","Steel","Ghost",Kalos,2/3,NONE,NONE
+681,"Aegislash","Shield Forme","Steel","Ghost",Kalos,3/3,NONE,NONE
+681,"Aegislash","Blade Forme","Steel","Ghost",Kalos,3/3,NONE,NONE
+682,"Spritzee"," ","Fairy"," ",Kalos,1/2,NONE,NONE
+683,"Aromatisse"," ","Fairy"," ",Kalos,2/2,NONE,NONE
+684,"Swirlix"," ","Fairy"," ",Kalos,1/2,NONE,NONE
+685,"Slurpuff"," ","Fairy"," ",Kalos,2/2,NONE,NONE
+686,"Inkay"," ","Dark","Psychic",Kalos,1/2,NONE,NONE
+687,"Malamar"," ","Dark","Psychic",Kalos,2/2,NONE,NONE
+688,"Binacle"," ","Rock","Water",Kalos,1/2,NONE,NONE
+689,"Barbaracle"," ","Rock","Water",Kalos,2/2,NONE,NONE
+690,"Skrelp"," ","Poison","Water",Kalos,1/2,NONE,NONE
+691,"Dragalge"," ","Poison","Dragon",Kalos,2/2,NONE,NONE
+692,"Clauncher"," ","Water"," ",Kalos,1/2,NONE,NONE
+693,"Clawitzer"," ","Water"," ",Kalos,2/2,NONE,NONE
+694,"Helioptile"," ","Electric","Normal",Kalos,1/2,NONE,NONE
+695,"Heliolisk"," ","Electric","Normal",Kalos,2/2,NONE,NONE
+696,"Tyrunt"," ","Rock","Dragon",Kalos,1/2,NONE,NONE
+697,"Tyrantrum"," ","Rock","Dragon",Kalos,2/2,NONE,NONE
+698,"Amaura"," ","Rock","Ice",Kalos,1/2,NONE,NONE
+699,"Aurorus"," ","Rock","Ice",Kalos,2/2,NONE,NONE
+700,"Sylveon"," ","Fairy"," ",Kalos,2/2,NONE,NONE
+701,"Hawlucha"," ","Fighting","Flying",Kalos,1/1,NONE,NONE
+702,"Dedenne"," ","Electric","Fairy",Kalos,1/1,NONE,NONE
+703,"Carbink"," ","Rock","Fairy",Kalos,1/1,NONE,NONE
+704,"Goomy"," ","Dragon"," ",Kalos,1/3,NONE,NONE
+705,"Sliggoo"," ","Dragon"," ",Kalos,2/3,NONE,NONE
+705,"Sliggoo","Hisuian Sliggoo","Steel","Dragon",Galar,2/3,NONE,NONE
+706,"Goodra"," ","Dragon"," ",Kalos,3/3,NONE,NONE
+706,"Goodra","Hisuian Goodra","Steel","Dragon",Galar,3/3,NONE,NONE
+707,"Klefki"," ","Steel","Fairy",Kalos,1/1,NONE,NONE
+708,"Phantump"," ","Ghost","Grass",Kalos,1/2,NONE,NONE
+709,"Trevenant"," ","Ghost","Grass",Kalos,2/2,NONE,NONE
+710,"Pumpkaboo","Average Size","Ghost","Grass",Kalos,1/2,NONE,NONE
+710,"Pumpkaboo","Small Size","Ghost","Grass",Kalos,1/2,NONE,NONE
+710,"Pumpkaboo","Large Size","Ghost","Grass",Kalos,1/2,NONE,NONE
+710,"Pumpkaboo","Super Size","Ghost","Grass",Kalos,1/2,NONE,NONE
+711,"Gourgeist","Average Size","Ghost","Grass",Kalos,2/2,NONE,NONE
+711,"Gourgeist","Small Size","Ghost","Grass",Kalos,2/2,NONE,NONE
+711,"Gourgeist","Large Size","Ghost","Grass",Kalos,2/2,NONE,NONE
+711,"Gourgeist","Super Size","Ghost","Grass",Kalos,2/2,NONE,NONE
+712,"Bergmite"," ","Ice"," ",Kalos,1/2,NONE,NONE
+713,"Avalugg"," ","Ice"," ",Kalos,2/2,NONE,NONE
+713,"Avalugg","Hisuian Avalugg","Ice","Rock",Galar,2/2,NONE,NONE
+714,"Noibat"," ","Flying","Dragon",Kalos,1/2,NONE,NONE
+715,"Noivern"," ","Flying","Dragon",Kalos,2/2,NONE,NONE
+716,"Xerneas"," ","Fairy"," ",Kalos,1/1,NONE,NONE
+717,"Yveltal"," ","Dark","Flying",Kalos,1/1,NONE,NONE
+718,"Zygarde","10% Forme","Dragon","Ground",Kalos,1/1,NONE,NONE
+718,"Zygarde","50% Forme","Dragon","Ground",Kalos,1/1,NONE,NONE
+718,"Zygarde","Complete Forme","Dragon","Ground",Kalos,1/1,NONE,NONE
+719,"Diancie"," ","Rock","Fairy",Kalos,1/1,NONE,NONE
+719,"Diancie","Mega Diancie","Rock","Fairy",Kalos,1/1,NONE,NONE
+720,"Hoopa","Hoopa Confined","Psychic","Ghost",Kalos,1/1,NONE,NONE
+720,"Hoopa","Hoopa Unbound","Psychic","Dark",Kalos,1/1,NONE,NONE
+721,"Volcanion"," ","Fire","Water",Kalos,1/1,NONE,NONE
+722,"Rowlet"," ","Grass","Flying",Alola,1/3,NONE,NONE
+723,"Dartrix"," ","Grass","Flying",Alola,2/3,NONE,NONE
+724,"Decidueye"," ","Grass","Ghost",Alola,3/3,NONE,NONE
+724,"Decidueye","Hisuian Decidueye","Grass","Fighting",Galar,3/3,NONE,NONE
+725,"Litten"," ","Fire"," ",Alola,1/3,NONE,NONE
+726,"Torracat"," ","Fire"," ",Alola,2/3,NONE,NONE
+727,"Incineroar"," ","Fire","Dark",Alola,3/3,NONE,NONE
+728,"Popplio"," ","Water"," ",Alola,1/3,NONE,NONE
+729,"Brionne"," ","Water"," ",Alola,2/3,NONE,NONE
+730,"Primarina"," ","Water","Fairy",Alola,3/3,NONE,NONE
+731,"Pikipek"," ","Normal","Flying",Alola,1/3,NONE,NONE
+732,"Trumbeak"," ","Normal","Flying",Alola,2/3,NONE,NONE
+733,"Toucannon"," ","Normal","Flying",Alola,3/3,NONE,NONE
+734,"Yungoos"," ","Normal"," ",Alola,1/2,NONE,NONE
+735,"Gumshoos"," ","Normal"," ",Alola,2/2,NONE,NONE
+736,"Grubbin"," ","Bug"," ",Alola,1/2,NONE,NONE
+737,"Charjabug"," ","Bug","Electric",Alola,2/3,NONE,NONE
+738,"Vikavolt"," ","Bug","Electric",Alola,3/3,NONE,NONE
+739,"Crabrawler"," ","Fighting"," ",Alola,1/2,NONE,NONE
+740,"Crabominable"," ","Fighting","Ice",Alola,2/2,NONE,NONE
+741,"Oricorio","Baile Style","Fire","Flying",Alola,1/1,NONE,NONE
+741,"Oricorio","Pom-Pom Style","Electric","Flying",Alola,1/1,NONE,NONE
+741,"Oricorio","Pa'u Style","Psychic","Flying",Alola,1/1,NONE,NONE
+741,"Oricorio","Sensu Style","Ghost","Flying",Alola,1/1,NONE,NONE
+742,"Cutiefly"," ","Bug","Fairy",Alola,1/2,NONE,NONE
+743,"Ribombee"," ","Bug","Fairy",Alola,2/2,NONE,NONE
+744,"Rockruff"," ","Rock"," ",Alola,1/2,NONE,NONE
+744,"Rockruff","Own Tempo Rockruff","Rock"," ",Alola,1/2,NONE,NONE
+745,"Lycanroc","Midday Form","Rock"," ",Alola,2/2,NONE,NONE
+745,"Lycanroc","Midnight Form","Rock"," ",Alola,2/2,NONE,NONE
+745,"Lycanroc","Dusk Form","Rock"," ",Alola,2/2,NONE,NONE
+746,"Wishiwashi","Solo Form","Water"," ",Alola,1/1,NONE,NONE
+746,"Wishiwashi","School Form","Water"," ",Alola,1/1,NONE,NONE
+747,"Mareanie"," ","Poison","Water",Alola,1/2,NONE,NONE
+748,"Toxapex"," ","Poison","Water",Alola,2/2,NONE,NONE
+749,"Mudbray"," ","Ground"," ",Alola,1/2,NONE,NONE
+750,"Mudsdale"," ","Ground"," ",Alola,2/2,NONE,NONE
+751,"Dewpider"," ","Water","Bug",Alola,1/2,NONE,NONE
+752,"Araquanid"," ","Water","Bug",Alola,2/2,NONE,NONE
+753,"Fomantis"," ","Grass"," ",Alola,1/2,NONE,NONE
+754,"Lurantis"," ","Grass"," ",Alola,2/2,NONE,NONE
+755,"Morelull"," ","Grass","Fairy",Alola,1/2,NONE,NONE
+756,"Shiinotic"," ","Grass","Fairy",Alola,2/2,NONE,NONE
+757,"Salandit"," ","Poison","Fire",Alola,1/2,NONE,NONE
+758,"Salazzle"," ","Poison","Fire",Alola,2/2,NONE,NONE
+759,"Stufful"," ","Normal","Fighting",Alola,1/2,NONE,NONE
+760,"Bewear"," ","Normal","Fighting",Alola,2/2,NONE,NONE
+761,"Bounsweet"," ","Grass"," ",Alola,1/3,NONE,NONE
+762,"Steenee"," ","Grass"," ",Alola,2/3,NONE,NONE
+763,"Tsareena"," ","Grass"," ",Alola,3/3,NONE,NONE
+764,"Comfey"," ","Fairy"," ",Alola,1/1,NONE,NONE
+765,"Oranguru"," ","Normal","Psychic",Alola,1/1,NONE,NONE
+766,"Passimian"," ","Fighting"," ",Alola,1/1,NONE,NONE
+767,"Wimpod"," ","Bug","Water",Alola,1/2,NONE,NONE
+768,"Golisopod"," ","Bug","Water",Alola,2/2,NONE,NONE
+769,"Sandygast"," ","Ghost","Ground",Alola,1/2,NONE,NONE
+770,"Palossand"," ","Ghost","Ground",Alola,2/2,NONE,NONE
+771,"Pyukumuku"," ","Water"," ",Alola,1/1,NONE,NONE
+772,"Type: Null"," ","Normal"," ",Alola,1/2,NONE,NONE
+773,"Silvally"," ","Normal"," ",Alola,2/2,NONE,NONE
+774,"Minior","Meteor Form","Rock","Flying",Alola,1/1,NONE,NONE
+774,"Minior","Core Form","Rock","Flying",Alola,1/1,NONE,NONE
+775,"Komala"," ","Normal"," ",Alola,1/1,NONE,NONE
+776,"Turtonator"," ","Fire","Dragon",Alola,1/1,NONE,NONE
+777,"Togedemaru"," ","Electric","Steel",Alola,1/1,NONE,NONE
+778,"Mimikyu"," ","Ghost","Fairy",Alola,1/1,NONE,NONE
+779,"Bruxish"," ","Water","Psychic",Alola,1/1,NONE,NONE
+780,"Drampa"," ","Normal","Dragon",Alola,1/1,NONE,NONE
+781,"Dhelmise"," ","Ghost","Grass",Alola,1/1,NONE,NONE
+782,"Jangmo-o"," ","Dragon"," ",Alola,1/3,NONE,NONE
+783,"Hakamo-o"," ","Dragon","Fighting",Alola,2/3,NONE,NONE
+784,"Kommo-o"," ","Dragon","Fighting",Alola,3/3,NONE,NONE
+785,"Tapu Koko"," ","Electric","Fairy",Alola,1/1,NONE,NONE
+786,"Tapu Lele"," ","Psychic","Fairy",Alola,1/1,NONE,NONE
+787,"Tapu Bulu"," ","Grass","Fairy",Alola,1/1,NONE,NONE
+788,"Tapu Fini"," ","Water","Fairy",Alola,1/1,NONE,NONE
+789,"Cosmog"," ","Psychic"," ",Alola,1/3,NONE,NONE
+790,"Cosmoem"," ","Psychic"," ",Alola,2/3,NONE,NONE
+791,"Solgaleo"," ","Psychic","Steel",Alola,3/3,NONE,NONE
+792,"Lunala"," ","Psychic","Ghost",Alola,3/3,NONE,NONE
+793,"Nihilego"," ","Rock","Poison",Alola,1/1,NONE,NONE
+794,"Buzzwole"," ","Bug","Fighting",Alola,1/1,NONE,NONE
+795,"Pheromosa"," ","Bug","Fighting",Alola,1/1,NONE,NONE
+796,"Xurkitree"," ","Electric"," ",Alola,1/1,NONE,NONE
+797,"Celesteela"," ","Steel","Flying",Alola,1/1,NONE,NONE
+798,"Kartana"," ","Grass","Steel",Alola,1/1,NONE,NONE
+799,"Guzzlord"," ","Dark","Dragon",Alola,1/1,NONE,NONE
+800,"Necrozma"," ","Psychic"," ",Alola,1/1,NONE,NONE
+800,"Necrozma","Dusk Mane Necrozma","Psychic","Steel",Alola,1/1,NONE,NONE
+800,"Necrozma","Dawn Wings Necrozma","Psychic","Ghost",Alola,1/1,NONE,NONE
+800,"Necrozma","Ultra Necrozma","Psychic","Dragon",Alola,1/1,NONE,NONE
+801,"Magearna"," ","Steel","Fairy",Alola,1/1,NONE,NONE
+802,"Marshadow"," ","Fighting","Ghost",Alola,1/1,NONE,NONE
+803,"Poipole"," ","Poison"," ",Alola,1,NONE,NONE
+804,"Naganadel"," ","Poison","Dragon",Alola,2/2,NONE,NONE
+805,"Stakataka"," ","Rock","Steel",Alola,1/1,NONE,NONE
+806,"Blacephalon"," ","Fire","Ghost",Alola,1/1,NONE,NONE
+807,"Zeraora"," ","Electric"," ",Alola,1/1,NONE,NONE
+808,"Meltan"," ","Steel"," ",Alola,1/2,NONE,NONE
+809,"Melmetal"," ","Steel"," ",Alola,2/2,NONE,NONE
+810,"Grookey"," ","Grass"," ",Galar,1/3,NONE,NONE
+811,"Thwackey"," ","Grass"," ",Galar,2/3,NONE,NONE
+812,"Rillaboom"," ","Grass"," ",Galar,3/3,NONE,NONE
+813,"Scorbunny"," ","Fire"," ",Galar,1/3,NONE,NONE
+814,"Raboot"," ","Fire"," ",Galar,2/3,NONE,NONE
+815,"Cinderace"," ","Fire"," ",Galar,3/3,NONE,NONE
+816,"Sobble"," ","Water"," ",Galar,1/3,NONE,NONE
+817,"Drizzile"," ","Water"," ",Galar,2/3,NONE,NONE
+818,"Inteleon"," ","Water"," ",Galar,3/3,NONE,NONE
+819,"Skwovet"," ","Normal"," ",Galar,1/2,NONE,NONE
+820,"Greedent"," ","Normal"," ",Galar,2/2,NONE,NONE
+821,"Rookidee"," ","Flying"," ",Galar,1/3,NONE,NONE
+822,"Corvisquire"," ","Flying"," ",Galar,2/3,NONE,NONE
+823,"Corviknight"," ","Flying","Steel",Galar,3/3,NONE,NONE
+824,"Blipbug"," ","Bug"," ",Galar,1/3,NONE,NONE
+825,"Dottler"," ","Bug","Psychic",Galar,2/3,NONE,NONE
+826,"Orbeetle"," ","Bug","Psychic",Galar,3/3,NONE,NONE
+827,"Nickit"," ","Dark"," ",Galar,1/2,NONE,NONE
+828,"Thievul"," ","Dark"," ",Galar,2/2,NONE,NONE
+829,"Gossifleur"," ","Grass"," ",Galar,1/2,NONE,NONE
+830,"Eldegoss"," ","Grass"," ",Galar,2/2,NONE,NONE
+831,"Wooloo"," ","Normal"," ",Galar,1/2,NONE,NONE
+832,"Dubwool"," ","Normal"," ",Galar,2/2,NONE,NONE
+833,"Chewtle"," ","Water"," ",Galar,1/2,NONE,NONE
+834,"Drednaw"," ","Water","Rock",Galar,2/2,NONE,NONE
+835,"Yamper"," ","Electric"," ",Galar,1/2,NONE,NONE
+836,"Boltund"," ","Electric"," ",Galar,2/2,NONE,NONE
+837,"Rolycoly"," ","Rock"," ",Galar,1/3,NONE,NONE
+838,"Carkol"," ","Rock","Fire",Galar,2/3,NONE,NONE
+839,"Coalossal"," ","Rock","Fire",Galar,3/3,NONE,NONE
+840,"Applin"," ","Grass","Dragon",Galar,1/2,NONE,NONE
+841,"Flapple"," ","Grass","Dragon",Galar,2/2,NONE,NONE
+842,"Appletun"," ","Grass","Dragon",Galar,2/2,NONE,NONE
+843,"Silicobra"," ","Ground"," ",Galar,1/2,NONE,NONE
+844,"Sandaconda"," ","Ground"," ",Galar,2/2,NONE,NONE
+845,"Cramorant"," ","Flying","Water",Galar,1/1,NONE,NONE
+846,"Arrokuda"," ","Water"," ",Galar,1/2,NONE,NONE
+847,"Barraskewda"," ","Water"," ",Galar,2/2,NONE,NONE
+848,"Toxel"," ","Electric","Poison",Galar,1/2,NONE,NONE
+849,"Toxtricity","Amped Form","Electric","Poison",Galar,2/2,NONE,NONE
+849,"Toxtricity","Low Key Form","Electric","Poison",Galar,2/2,NONE,NONE
+850,"Sizzlipede"," ","Fire","Bug",Galar,1/2,NONE,NONE
+851,"Centiskorch"," ","Fire","Bug",Galar,2/2,NONE,NONE
+852,"Clobbopus"," ","Fighting"," ",Galar,1/2,NONE,NONE
+853,"Grapploct"," ","Fighting"," ",Galar,2/2,NONE,NONE
+854,"Sinistea"," ","Ghost"," ",Galar,1/2,NONE,NONE
+855,"Polteageist"," ","Ghost"," ",Galar,2/2,NONE,NONE
+856,"Hatenna"," ","Psychic"," ",Galar,1/3,NONE,NONE
+857,"Hattrem"," ","Psychic"," ",Galar,2/3,NONE,NONE
+858,"Hatterene"," ","Psychic","Fairy",Galar,3/3,NONE,NONE
+859,"Impidimp"," ","Dark","Fairy",Galar,1/3,NONE,NONE
+860,"Morgrem"," ","Dark","Fairy",Galar,2/3,NONE,NONE
+861,"Grimmsnarl"," ","Dark","Fairy",Galar,3/3,NONE,NONE
+862,"Obstagoon"," ","Dark","Normal",Galar,3/3,NONE,NONE
+863,"Perrserker"," ","Steel"," ",Galar,2/2,NONE,NONE
+864,"Cursola"," ","Ghost"," ",Galar,2/2,NONE,NONE
+865,"Sirfetch'd"," ","Fighting"," ",Galar,2/2,NONE,NONE
+866,"Mr. Rime"," ","Ice","Psychic",Galar,3/3,NONE,NONE
+867,"Runerigus"," ","Ground","Ghost",Galar,2/2,NONE,NONE
+868,"Milcery"," ","Fairy"," ",Galar,1/2,NONE,NONE
+869,"Alcremie"," ","Fairy"," ",Galar,2/2,NONE,NONE
+870,"Falinks"," ","Fighting"," ",Galar,1/1,NONE,NONE
+871,"Pincurchin"," ","Electric"," ",Galar,1/1,NONE,NONE
+872,"Snom"," ","Ice","Bug",Galar,1/2,NONE,NONE
+873,"Frosmoth"," ","Ice","Bug",Galar,2/2,NONE,NONE
+874,"Stonjourner"," ","Rock"," ",Galar,1/1,NONE,NONE
+875,"Eiscue","Ice Face","Ice"," ",Galar,1/1,NONE,NONE
+875,"Eiscue","Noice Face","Ice"," ",Galar,1/1,NONE,NONE
+876,"Indeedee","Male","Psychic","Normal",Galar,1/1,NONE,NONE
+876,"Indeedee","Female","Psychic","Normal",Galar,1/1,NONE,NONE
+877,"Morpeko","Full Belly Mode","Electric","Dark",Galar,1/1,NONE,NONE
+877,"Morpeko","Hangry Mode","Electric","Dark",Galar,1/1,NONE,NONE
+878,"Cufant"," ","Steel"," ",Galar,1/2,NONE,NONE
+879,"Copperajah"," ","Steel"," ",Galar,2/2,NONE,NONE
+880,"Dracozolt"," ","Electric","Dragon",Galar,1/1,NONE,NONE
+881,"Arctozolt"," ","Electric","Ice",Galar,1/1,NONE,NONE
+882,"Dracovish"," ","Water","Dragon",Galar,1/1,NONE,NONE
+883,"Arctovish"," ","Water","Ice",Galar,1/1,NONE,NONE
+884,"Duraludon"," ","Steel","Dragon",Galar,1/2,NONE,NONE
+885,"Dreepy"," ","Dragon","Ghost",Galar,1/3,NONE,NONE
+886,"Drakloak"," ","Dragon","Ghost",Galar,2/3,NONE,NONE
+887,"Dragapult"," ","Dragon","Ghost",Galar,3/3,NONE,NONE
+888,"Zacian","Hero of Many Battles","Fairy"," ",Galar,1/1,NONE,NONE
+888,"Zacian","Crowned Sword","Fairy","Steel",Galar,1/1,NONE,NONE
+889,"Zamazenta","Hero of Many Battles","Fighting"," ",Galar,1/1,NONE,NONE
+889,"Zamazenta","Crowned Shield","Fighting","Steel",Galar,1/1,NONE,NONE
+890,"Eternatus"," ","Poison","Dragon",Galar,1/1,NONE,NONE
+890,"Eternatus","Eternamax","Poison","Dragon",Galar,1/1,NONE,NONE
+891,"Kubfu"," ","Fighting"," ",Galar,1/2,NONE,NONE
+892,"Urshifu","Single Strike Style","Fighting","Dark",Galar,2/2,NONE,NONE
+892,"Urshifu","Rapid Strike Style","Fighting","Water",Galar,2/2,NONE,NONE
+893,"Zarude"," ","Dark","Grass",Galar,1/1,NONE,NONE
+894,"Regieleki"," ","Electric"," ",Galar,1/1,NONE,NONE
+895,"Regidrago"," ","Dragon"," ",Galar,1/1,NONE,NONE
+896,"Glastrier"," ","Ice"," ",Galar,1/1,NONE,NONE
+897,"Spectrier"," ","Ghost"," ",Galar,1/1,NONE,NONE
+898,"Calyrex"," ","Psychic","Grass",Galar,1/1,NONE,NONE
+898,"Calyrex","Ice Rider","Psychic","Ice",Galar,1/1,NONE,NONE
+898,"Calyrex","Shadow Rider","Psychic","Ghost",Galar,1/1,NONE,NONE
+899,"Wyrdeer"," ","Normal","Psychic",Galar,2/2,NONE,NONE
+900,"Kleavor"," ","Bug","Rock",Galar,2/2,NONE,NONE
+901,"Ursaluna"," ","Ground","Normal",Galar,3/3,NONE,NONE
+902,"Basculegion","Male","Water","Ghost",Galar,2/2,NONE,NONE
+902,"Basculegion","Female","Water","Ghost",Galar,2/2,NONE,NONE
+903,"Sneasler"," ","Fighting","Poison",Galar,2/2,NONE,NONE
+904,"Overqwil"," ","Dark","Poison",Galar,2/2,NONE,NONE
+905,"Enamorus","Incarnate Forme","Fairy","Flying",Galar,1/1,NONE,NONE
+905,"Enamorus","Therian Forme","Fairy","Flying",Galar,1/1,NONE,NONE
+128,"Tauros","Combat Breed","Fighting"," ",Paldea,1/1,NONE,NONE
+128,"Tauros","Blaze Breed","Fighting","Fire",Paldea,1/1,NONE,NONE
+128,"Tauros","Aqua Breed","Fighting","Water",Paldea,1/1,NONE,NONE
+194,"Wooper","Paldean Wooper","Poison","Ground",Paldea,1/2,NONE,NONE
+906,"Sprigatito"," ","Grass"," ",Paldea,1/3,NONE,NONE
+907,"Floragato"," ","Grass"," ",Paldea,2/3,NONE,NONE
+908,"Meowscarada"," ","Grass","Dark",Paldea,3/3,NONE,NONE
+909,"Fuecoco"," ","Fire"," ",Paldea,1/3,NONE,NONE
+910,"Crocalor"," ","Fire"," ",Paldea,2/3,NONE,NONE
+911,"Skeledirge"," ","Fire","Ghost",Paldea,3/3,NONE,NONE
+912,"Quaxly"," ","Water"," ",Paldea,1/3,NONE,NONE
+913,"Quaxwell"," ","Water"," ",Paldea,2/3,NONE,NONE
+914,"Quaquaval"," ","Water","Fighting",Paldea,3/3,NONE,NONE
+915,"Lechonk"," ","Normal"," ",Paldea,1/2,NONE,NONE
+916,"Oinkologne","Male","Normal"," ",Paldea,2/2,NONE,NONE
+916,"Oinkologne","Female","Normal"," ",Paldea,2/2,NONE,NONE
+917,"Tarountula"," ","Bug"," ",Paldea,1/2,NONE,NONE
+918,"Spidops"," ","Bug"," ",Paldea,2/2,NONE,NONE
+919,"Nymble"," ","Bug"," ",Paldea,1/2,NONE,NONE
+920,"Lokix"," ","Bug","Dark",Paldea,2/2,NONE,NONE
+921,"Pawmi"," ","Electric"," ",Paldea,1/3,NONE,NONE
+922,"Pawmo"," ","Electric","Fighting",Paldea,2/3,NONE,NONE
+923,"Pawmot"," ","Electric","Fighting",Paldea,3/3,NONE,NONE
+924,"Tandemaus"," ","Normal"," ",Paldea,1/2,NONE,NONE
+925,"Maushold","Family of Four","Normal"," ",Paldea,2/2,NONE,NONE
+925,"Maushold","Family of Three","Normal"," ",Paldea,2/2,NONE,NONE
+926,"Fidough"," ","Fairy"," ",Paldea,1/2,NONE,NONE
+927,"Dachsbun"," ","Fairy"," ",Paldea,2/2,NONE,NONE
+928,"Smoliv"," ","Grass","Normal",Paldea,1/3,NONE,NONE
+929,"Dolliv"," ","Grass","Normal",Paldea,2/3,NONE,NONE
+930,"Arboliva"," ","Grass","Normal",Paldea,3/3,NONE,NONE
+931,"Squawkabilly","Green Plumage","Normal","Flying",Paldea,1/1,NONE,NONE
+931,"Squawkabilly","Blue Plumage","Normal","Flying",Paldea,1/1,NONE,NONE
+931,"Squawkabilly","Yellow Plumage","Normal","Flying",Paldea,1/1,NONE,NONE
+931,"Squawkabilly","White Plumage","Normal","Flying",Paldea,1/1,NONE,NONE
+932,"Nacli"," ","Rock"," ",Paldea,1/3,NONE,NONE
+933,"Naclstack"," ","Rock"," ",Paldea,2/3,NONE,NONE
+934,"Garganacl"," ","Rock"," ",Paldea,3/3,NONE,NONE
+935,"Charcadet"," ","Fire"," ",Paldea,1/2,NONE,NONE
+936,"Armarouge"," ","Fire","Psychic",Paldea,2/2,NONE,NONE
+937,"Ceruledge"," ","Fire","Ghost",Paldea,2/2,NONE,NONE
+938,"Tadbulb"," ","Electric"," ",Paldea,1/2,NONE,NONE
+939,"Bellibolt"," ","Electric"," ",Paldea,2/2,NONE,NONE
+940,"Wattrel"," ","Electric","Flying",Paldea,1/2,NONE,NONE
+941,"Kilowattrel"," ","Electric","Flying",Paldea,2/2,NONE,NONE
+942,"Maschiff"," ","Dark"," ",Paldea,1/2,NONE,NONE
+943,"Mabosstiff"," ","Dark"," ",Paldea,2/2,NONE,NONE
+944,"Shroodle"," ","Poison","Normal",Paldea,1/2,NONE,NONE
+945,"Grafaiai"," ","Poison","Normal",Paldea,2/2,NONE,NONE
+946,"Bramblin"," ","Grass","Ghost",Paldea,1/2,NONE,NONE
+947,"Brambleghast"," ","Grass","Ghost",Paldea,2/2,NONE,NONE
+948,"Toedscool"," ","Ground","Grass",Paldea,1/2,NONE,NONE
+949,"Toedscruel"," ","Ground","Grass",Paldea,2/2,NONE,NONE
+950,"Klawf"," ","Rock"," ",Paldea,1,NONE,NONE
+951,"Capsakid"," ","Grass"," ",Paldea,1/2,NONE,NONE
+952,"Scovillain"," ","Grass","Fire",Paldea,2/2,NONE,NONE
+953,"Rellor"," ","Bug"," ",Paldea,1/2,NONE,NONE
+954,"Rabsca"," ","Bug","Psychic",Paldea,2/2,NONE,NONE
+955,"Flittle"," ","Psychic"," ",Paldea,1/2,NONE,NONE
+956,"Espathra"," ","Psychic"," ",Paldea,2/2,NONE,NONE
+957,"Tinkatink"," ","Fairy","Steel",Paldea,1/3,NONE,NONE
+958,"Tinkatuff"," ","Fairy","Steel",Paldea,2/3,NONE,NONE
+959,"Tinkaton"," ","Fairy","Steel",Paldea,3/3,NONE,NONE
+960,"Wiglett"," ","Water"," ",Paldea,1/2,NONE,NONE
+961,"Wugtrio"," ","Water"," ",Paldea,2/2,NONE,NONE
+962,"Bombirdier"," ","Flying","Dark",Paldea,1/1,NONE,NONE
+963,"Finizen"," ","Water"," ",Paldea,1/2,NONE,NONE
+964,"Palafin","Zero Form","Water"," ",Paldea,2/2,NONE,NONE
+964,"Palafin","Hero Form","Water"," ",Paldea,2/2,NONE,NONE
+965,"Varoom"," ","Steel","Poison",Paldea,1/2,NONE,NONE
+966,"Revavroom"," ","Steel","Poison",Paldea,2/2,NONE,NONE
+967,"Cyclizar"," ","Dragon","Normal",Paldea,1/1,NONE,NONE
+968,"Orthworm"," ","Steel"," ",Paldea,1/1,NONE,NONE
+969,"Glimmet"," ","Rock","Poison",Paldea,1/2,NONE,NONE
+970,"Glimmora"," ","Rock","Poison",Paldea,2/2,NONE,NONE
+971,"Greavard"," ","Ghost"," ",Paldea,1/2,NONE,NONE
+972,"Houndstone"," ","Ghost"," ",Paldea,2/2,NONE,NONE
+973,"Flamigo"," ","Flying","Fighting",Paldea,1/1,NONE,NONE
+974,"Cetoddle"," ","Ice"," ",Paldea,1/2,NONE,NONE
+975,"Cetitan"," ","Ice"," ",Paldea,2/2,NONE,NONE
+976,"Veluza"," ","Water","Psychic",Paldea,1/1,NONE,NONE
+977,"Dondozo"," ","Water"," ",Paldea,1/1,NONE,NONE
+978,"Tatsugiri","Curly Form","Dragon","Water",Paldea,1/1,NONE,NONE
+978,"Tatsugiri","Droopy Form","Dragon","Water",Paldea,1/1,NONE,NONE
+978,"Tatsugiri","Stretchy Form","Dragon","Water",Paldea,1/1,NONE,NONE
+979,"Annihilape"," ","Fighting","Ghost",Paldea,3/3,NONE,NONE
+980,"Clodsire"," ","Poison","Ground",Paldea,2/2,NONE,NONE
+981,"Farigiraf"," ","Normal","Psychic",Paldea,2/2,NONE,NONE
+982,"Dudunsparce","Two-Segment Form","Normal"," ",Paldea,2/2,NONE,NONE
+982,"Dudunsparce","Three-Segment Form","Normal"," ",Paldea,2/2,NONE,NONE
+983,"Kingambit"," ","Dark","Steel",Paldea,3/3,NONE,NONE
+984,"Great Tusk"," ","Ground","Fighting",Paldea,1/1,NONE,NONE
+985,"Scream Tail"," ","Fairy","Psychic",Paldea,1/1,NONE,NONE
+986,"Brute Bonnet"," ","Grass","Dark",Paldea,1/1,NONE,NONE
+987,"Flutter Mane"," ","Ghost","Fairy",Paldea,1/1,NONE,NONE
+988,"Slither Wing"," ","Bug","Fighting",Paldea,1/1,NONE,NONE
+989,"Sandy Shocks"," ","Electric","Ground",Paldea,1/1,NONE,NONE
+990,"Iron Treads"," ","Ground","Steel",Paldea,1/1,NONE,NONE
+991,"Iron Bundle"," ","Ice","Water",Paldea,1/1,NONE,NONE
+992,"Iron Hands"," ","Fighting","Electric",Paldea,1/1,NONE,NONE
+993,"Iron Jugulis"," ","Dark","Flying",Paldea,1/1,NONE,NONE
+994,"Iron Moth"," ","Fire","Poison",Paldea,1/1,NONE,NONE
+995,"Iron Thorns"," ","Rock","Electric",Paldea,1/1,NONE,NONE
+996,"Frigibax"," ","Dragon","Ice",Paldea,1/3,NONE,NONE
+997,"Arctibax"," ","Dragon","Ice",Paldea,2/3,NONE,NONE
+998,"Baxcalibur"," ","Dragon","Ice",Paldea,3/3,NONE,NONE
+999,"Gimmighoul","Chest Form","Ghost"," ",Paldea,1/2,NONE,NONE
+999,"Gimmighoul","Roaming Form","Ghost"," ",Paldea,1/2,NONE,NONE
+1000,"Gholdengo"," ","Steel","Ghost",Paldea,2/2,NONE,NONE
+1001,"Wo-Chien"," ","Dark","Grass",Paldea,1/1,NONE,NONE
+1002,"Chien-Pao"," ","Dark","Ice",Paldea,1/1,NONE,NONE
+1003,"Ting-Lu"," ","Dark","Ground",Paldea,1/1,NONE,NONE
+1004,"Chi-Yu"," ","Dark","Fire",Paldea,1/1,NONE,NONE
+1005,"Roaring Moon"," ","Dragon","Dark",Paldea,1/1,NONE,NONE
+1006,"Iron Valiant"," ","Fairy","Fighting",Paldea,1/1,NONE,NONE
+1007,"Koraidon"," ","Fighting","Dragon",Paldea,1/1,NONE,NONE
+1008,"Miraidon"," ","Electric","Dragon",Paldea,1/1,NONE,NONE
+1009,"Walking Wake"," ","Water","Dragon",Paldea,1/1,NONE,NONE
+1010,"Iron Leaves"," ","Grass","Psychic",Paldea,1/1,NONE,NONE

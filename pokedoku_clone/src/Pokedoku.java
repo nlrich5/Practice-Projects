@@ -9,7 +9,13 @@ public class Pokedoku {
             list = csvLoader.loadCSV();
         }
         catch (FileNotFoundException e) {
-            System.out.println("File could not be loaded.");
+            e.printStackTrace();
         }
+    }
+
+    public Grid generateGrid() {
+        Grid grid = new Grid();
+
+        return grid;
     }
 }

@@ -33,4 +33,17 @@ class Card {
     public void setAction(String action) {
         this.action = action;
     }
+
+    @Override
+    public String toString() {
+        if (value >= 0) {
+            return "" + this.card_color + " " + this.value;
+        }
+        else if (this.card_color != Color.any) {
+            return "" + this.card_color + " " + this.action;
+        }
+        else {
+            return "" + this.action;
+        }
+    }
 }

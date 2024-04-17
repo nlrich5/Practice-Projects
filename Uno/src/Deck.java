@@ -38,50 +38,46 @@ public class Deck {
             for (int j = 1; j < 10; j++) {
                 for (int k = 0; k < 2; k++) {
                     currCard = new Card(currColor, j, "NONE");
-                    this.cards.add(currCard);
+                    deck.cards.add(currCard);
                 }
             }
 
             for (int j = 0; j < 2; j++) {
                 currCard = new Card(currColor, -1, "skip");
-                this.cards.add(currCard);
+                deck.cards.add(currCard);
 
                 currCard = new Card(currColor, -2, "reverse");
-                this.cards.add(currCard);
+                deck.cards.add(currCard);
 
                 currCard = new Card(currColor, -3, "+2");
-                this.cards.add(currCard);
+                deck.cards.add(currCard);
             }
 
             currCard = new Card(currColor, 0, "NONE");
-            this.cards.add(currCard);
+            deck.cards.add(currCard);
 
             currCard = new Card(Color.any, -4, "wild");
-            this.cards.add(currCard);
+            deck.cards.add(currCard);
 
             currCard = new Card(Color.any, -5, "wild plus 4");
-            this.cards.add(currCard);
+            deck.cards.add(currCard);
         }
 
         return deck;
     }
 
-    public Deck shuffleCards() {
-        Deck newDeck = new Deck();
-        ArrayList<Card> currArray = this.cards;
+    public ArrayList<Card> shuffleCards(ArrayList<Card> inputList) {
         ArrayList<Card> shuffled = new ArrayList<Card>();
 
         for (int i = 0; i < 3; i++) {
-            while (currArray.size() > 0) {
-                int index = (int)(Math.random() * currArray.size());
-                shuffled.add(currArray.remove(index));
+            while (inputList.size() > 0) {
+                int index = (int)(Math.random() * inputList.size());
+                shuffled.add(inputList.remove(index));
             }
-            currArray = shuffled;
+            inputList = shuffled;
             shuffled = new ArrayList<Card>();
         }
 
-        newDeck.cards = currArray;
-
-        return newDeck;
+        return inputList;
     }
 }

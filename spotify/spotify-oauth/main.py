@@ -62,15 +62,25 @@ def callback():
         session['refresh_token'] = token_info['refresh_token']
         session['expires_at'] = datetime.now().timestamp() + token_info['expires_in']
 
-        return redirect('/playlists')
+
+
+        return render_template('ask-for-playlist.html')
     
-@app.route('/playlists')
-def get_playlists():
+@app.route('/ask-for-playlist', methods=['POST', 'GET'])
+def ask_for_playlist():
     if 'access_token' not in session:
         return redirect('/login')
     
     if datetime.now().timestamp() > session['expires_at']:
         return redirect('/refresh-token')
+    result = request.form
+    session['search_playlist'] = request.form.get('search')
+    
+    return redirect('/playlists')
+
+    
+@app.route('/playlists')
+def get_playlists():
     
     plMaker = PlaylistMaker(session['access_token'], USER_ID)
 
@@ -78,13 +88,12 @@ def get_playlists():
         'Authorization': f"Bearer {session['access_token']}"
     }
 
-    search_playlist = input("Select a playlist:")
-
     response = requests.get(API_BASE_URL + 'me/playlists', headers=headers)
-    print(response.text)
+
     playlists = response.json()
+    print(session['search_playlist'])
     for item in playlists['items']:
-        if item['name'] == search_playlist:
+        if item['name'] == session['search_playlist']:
             tracks_url = item['tracks']['href']
             response2 = requests.get(tracks_url, headers=headers)
             tracks = response2.json()
@@ -116,7 +125,7 @@ def get_playlists():
             for index, track in enumerate(rec_tracks):
                 print(f"{index + 1} - {track}")
             
-            playlist = plMaker.create_playlist(name=f"{search_playlist} (Expanded)")
+            playlist = plMaker.create_playlist(name=f"{session['search_playlist']} (Expanded)")
             playlist_json = plMaker.populate_playlist(playlist=playlist, tracks=rec_tracks)
 
             return jsonify(playlist_json)

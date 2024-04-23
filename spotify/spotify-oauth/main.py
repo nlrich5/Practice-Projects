@@ -134,7 +134,7 @@ def get_recs():
     playlist = plMaker.create_playlist(name=f"{session['search_playlist']} (Expanded)")
     playlist_json = plMaker.populate_playlist(playlist=playlist, tracks=rec_tracks)
 
-    return jsonify(playlist_json)
+    return render_template('rec-songs.html', data=rec_tracks)
 
 @app.route('/refresh-token')
 def refresh_token():

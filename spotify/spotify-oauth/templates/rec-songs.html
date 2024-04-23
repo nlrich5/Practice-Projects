@@ -1,0 +1,11 @@
+<!doctype html> 
+<html> 
+    <body> 
+        <h2>Here are the songs that will be in the new playlist:</h2>
+        <p>
+            {% for song in data %}
+                {{loop.index}}. {{song}} <br>
+            {% endfor %}
+        </p>
+    </body> 
+</html> 

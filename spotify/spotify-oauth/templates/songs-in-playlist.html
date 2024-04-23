@@ -1,0 +1,16 @@
+<!doctype html> 
+<html> 
+    <body> 
+        <h2>Here are the songs that are in the selected playlist:</h2>
+        <p>
+            {% for song in data %}
+                {{loop.index}}. {{song}} <br>
+            {% endfor %}
+        </p>
+
+        <form class="seeds_get" method="POST" action="/get_recs">
+            <p>Enter the songs you want to base the playlist on, seperated by spaces: <input type='text' name='seeds'/></p>
+            <button type="submit">Submit</button>
+       </form>
+    </body> 
+</html> 

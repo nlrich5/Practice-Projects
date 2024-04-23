@@ -1,3 +1,4 @@
+import json
 from flask import Flask, redirect, request, jsonify, session, render_template
 from datetime import datetime, timedelta
 import requests
@@ -17,6 +18,8 @@ TOKEN_URL = 'https://accounts.spotify.com/api/token'
 API_BASE_URL = 'https://api.spotify.com/v1/'
 
 USER_ID = "nlrich175"
+
+songs = []
 
 @app.route('/')
 def index():
@@ -73,7 +76,7 @@ def ask_for_playlist():
     
     if datetime.now().timestamp() > session['expires_at']:
         return redirect('/refresh-token')
-    result = request.form
+    
     session['search_playlist'] = request.form.get('search')
     
     return redirect('/playlists')
@@ -81,8 +84,7 @@ def ask_for_playlist():
     
 @app.route('/playlists')
 def get_playlists():
-    
-    plMaker = PlaylistMaker(session['access_token'], USER_ID)
+    global songs
 
     headers = {
         'Authorization': f"Bearer {session['access_token']}"
@@ -98,39 +100,41 @@ def get_playlists():
             response2 = requests.get(tracks_url, headers=headers)
             tracks = response2.json()
             songs = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in tracks["items"]]
-            print(f"\nHere are all songs in that playlist:")
-            for index, song in enumerate(songs):
-                print(f"{index + 1} - {song}")
-
-            indexes = input("\nEnter a list of up to 5 tracks you'd like to use as seeds. Use indexes separated by a space: ")
-            indexes = indexes.split()
-            seed_tracks = [songs[int(index) - 1] for index in indexes]
-            seed_tracks_url = ""
-            for seed_track in seed_tracks:
-                seed_tracks_url += seed_track.id + ","
-            seed_tracks_url = seed_tracks_url[:-1]
-            url = f"https://api.spotify.com/v1/recommendations?seed_tracks={seed_tracks_url}&limit={50}"
             
-            rec_response = requests.get(
-                url,
-                headers={
-                    "Content-Type": "application/json",
-                    "Authorization": f"Bearer {session['access_token']}"
-                }
-            )
-            rec_json = rec_response.json()
-            rec_tracks_json = rec_json['tracks']
-            rec_tracks = [Track(rec_track["name"], rec_track["id"], rec_track["artists"][0]["name"]) for rec_track in rec_json["tracks"]]
-            print("\nHere are the recommended tracks which will be included in your new playlist:")
-            for index, track in enumerate(rec_tracks):
-                print(f"{index + 1} - {track}")
-            
-            playlist = plMaker.create_playlist(name=f"{session['search_playlist']} (Expanded)")
-            playlist_json = plMaker.populate_playlist(playlist=playlist, tracks=rec_tracks)
-
-            return jsonify(playlist_json)
-
+            return render_template('songs-in-playlist.html', data=songs)
+        
     return jsonify(playlists)
+
+@app.route('/get_recs', methods=['POST', 'GET'])
+def get_recs():
+    global songs
+    plMaker = PlaylistMaker(session['access_token'], USER_ID)
+    indexes = request.form.get('seeds')
+    indexes = indexes.split()
+    seed_tracks = [songs[int(index) - 1] for index in indexes]
+    seed_tracks_url = ""
+    for seed_track in seed_tracks:
+        seed_tracks_url += seed_track.track_id + ","
+    seed_tracks_url = seed_tracks_url[:-1]
+    url = f"https://api.spotify.com/v1/recommendations?seed_tracks={seed_tracks_url}&limit={50}"
+    
+    rec_response = requests.get(
+        url,
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {session['access_token']}"
+        }
+    )
+    rec_json = rec_response.json()
+    rec_tracks = [Track(rec_track["name"], rec_track["id"], rec_track["artists"][0]["name"]) for rec_track in rec_json["tracks"]]
+    print("\nHere are the recommended tracks which will be included in your new playlist:")
+    for index, track in enumerate(rec_tracks):
+        print(f"{index + 1} - {track}")
+    
+    playlist = plMaker.create_playlist(name=f"{session['search_playlist']} (Expanded)")
+    playlist_json = plMaker.populate_playlist(playlist=playlist, tracks=rec_tracks)
+
+    return jsonify(playlist_json)
 
 @app.route('/refresh-token')
 def refresh_token():

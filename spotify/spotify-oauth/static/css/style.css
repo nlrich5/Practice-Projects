@@ -33,3 +33,26 @@ p {
     background-color: #1DB954;
     color: white;
 }
+
+.restart {
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+}
+
+.restart:hover {
+    background-color: gray;
+    color: white;
+}
+
+.main-menu-button {
+    background-color: white;
+    color: black;
+    border: 2px solid #1DB954;
+    border-radius: 3px;
+}
+
+.main-menu-button:hover {
+    background-color: #1DB954;
+    color: white;
+}

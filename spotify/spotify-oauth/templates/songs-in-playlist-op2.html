@@ -13,9 +13,10 @@
             {% endfor %}
         </p>
 
-        <form class="seeds_get" method="POST" action="/get_recs">
-            <p>Enter the songs you want to base the playlist on, seperated by spaces: <input type='text' name='seeds'/></p>
-            <button type="submit">Submit</button>
-       </form>
+        <p>Continue with this playlist?</p>
+
+        <a href="/get-recs-op2">
+            <button class="button restart">Continue</button>
+        </a>
     </body> 
 </html> 

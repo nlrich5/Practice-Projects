@@ -23,18 +23,20 @@ songs = []
 
 @app.route('/')
 def index():
+    global songs
+    songs = []
     return render_template('index.html')
 
 @app.route('/login')
 def login():
-    scope = 'user-read-private user-read-email playlist-modify-public'
+    scope = 'user-read-private user-read-email playlist-modify-public playlist-modify-private'
 
     params = {
         'client_id': CLIENT_ID,
         'response_type': 'code',
         'scope': scope,
         'redirect_uri': REDIRECT_URI,
-        'show_dialog': True
+        'show_dialog': False
     }
 
     auth_url = f"{AUTH_URL}?{urllib.parse.urlencode(params)}"
@@ -65,11 +67,17 @@ def callback():
         session['refresh_token'] = token_info['refresh_token']
         session['expires_at'] = datetime.now().timestamp() + token_info['expires_in']
 
-
-
-        return render_template('ask-for-playlist.html')
+        return render_template('main-menu.html')
     
-@app.route('/ask-for-playlist', methods=['POST', 'GET'])
+@app.route('/op1', methods=['POST', 'GET'])
+def option1():
+    return render_template('ask-for-playlist-op1.html')
+
+@app.route('/op2', methods=['POST', 'GET'])
+def option2():
+    return render_template('ask-for-playlist-op2.html')
+    
+@app.route('/ask-for-playlist-op1', methods=['POST', 'GET'])
 def ask_for_playlist():
     if 'access_token' not in session:
         return redirect('/login')
@@ -81,7 +89,6 @@ def ask_for_playlist():
     
     return redirect('/playlists')
 
-    
 @app.route('/playlists')
 def get_playlists():
     global songs
@@ -135,6 +142,68 @@ def get_recs():
     playlist_json = plMaker.populate_playlist(playlist=playlist, tracks=rec_tracks)
 
     return render_template('rec-songs.html', data=rec_tracks)
+
+@app.route('/ask-for-playlist-op2', methods=['POST', 'GET'])
+def ask_for_playlist_op2():
+    if 'access_token' not in session:
+        return redirect('/login')
+    
+    if datetime.now().timestamp() > session['expires_at']:
+        return redirect('/refresh-token')
+    
+    session['search_playlist'] = request.form.get('search')
+    
+    return redirect('/playlists-op2')
+
+@app.route('/playlists-op2')
+def get_playlists_op2():
+    global songs
+
+    headers = {
+        'Authorization': f"Bearer {session['access_token']}"
+    }
+
+    response = requests.get(API_BASE_URL + 'me/playlists', headers=headers)
+
+    playlists = response.json()
+    print(session['search_playlist'])
+    for item in playlists['items']:
+        if item['name'] == session['search_playlist']:
+            tracks_url = item['tracks']['href']
+            response2 = requests.get(tracks_url, headers=headers)
+            tracks = response2.json()
+            songs = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in tracks["items"]]
+            
+            return render_template('songs-in-playlist-op2.html', data=songs)
+        
+    return jsonify(playlists)
+
+@app.route('/get-recs-op2', methods=['POST', 'GET'])
+def get_recs_op2():
+    global songs
+
+    plMaker = PlaylistMaker(session['access_token'], USER_ID)
+    songs_str = []
+    playlist = plMaker.create_playlist(name=f"{session['search_playlist']} (Expanded)")
+
+    for song in songs:
+        url = f"https://api.spotify.com/v1/recommendations?seed_tracks={song.track_id}&limit={3}"
+        
+        rec_response = requests.get(
+            url,
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {session['access_token']}"
+            }
+        )
+        rec_json = rec_response.json()
+
+        rec_tracks = [Track(rec_track["name"], rec_track["id"], rec_track["artists"][0]["name"]) for rec_track in rec_json["tracks"]]
+        playlist_json = plMaker.populate_playlist(playlist=playlist, tracks=rec_tracks)
+        for song in rec_tracks:
+            songs_str.append(f"{song}")
+
+    return render_template('rec-songs.html', data=songs_str)
 
 @app.route('/refresh-token')
 def refresh_token():

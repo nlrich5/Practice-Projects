@@ -58,3 +58,68 @@ class PlaylistMaker:
         response = self._place_post_api_request(url, data)
         response_json = response.json()
         return response_json
+    
+    def sort_songs(self, songs):
+        genres = {}
+        for song in songs:
+            string = ''
+            url = f"https://api.spotify.com/v1/audio-features/{song.track_id}"
+            response = self._place_get_api_request(url)
+            response_json = response.json()
+
+            if response_json['acousticness'] < 0.33333:
+                string = string + 'L'
+            elif response_json['acousticness'] < 0.66667:
+                string = string + 'M'
+            else:
+                string = string + 'H'
+
+            if response_json['danceability'] < 0.33333:
+                string = string + 'L'
+            elif response_json['danceability'] < 0.66667:
+                string = string + 'M'
+            else:
+                string = string + 'H'
+
+            if response_json['energy'] < 0.33333:
+                string = string + 'L'
+            elif response_json['energy'] < 0.66667:
+                string = string + 'M'
+            else:
+                string = string + 'H'
+
+            if response_json['instrumentalness'] <= 0.5:
+                string = string + 'L'
+            else:
+                string = string + 'H'
+
+            if response_json['speechiness'] < 0.33333:
+                string = string + 'L'
+            elif response_json['speechiness'] < 0.66667:
+                string = string + 'M'
+            else:
+                string = string + 'H'
+
+            if response_json['tempo'] < 60:
+                string = string + 'L'
+            elif response_json['tempo'] < 100:
+                string = string + 'M'
+            else:
+                string = string + 'H'
+
+            if response_json['valence'] < 0.33333:
+                string = string + 'L'
+            elif response_json['valence'] < 0.66667:
+                string = string + 'M'
+            else:
+                string = string + 'H'
+
+            if string in genres.keys():
+                curr_genres = []
+                curr_genres = genres.get(string)
+                curr_genres.append(song)
+                genres[string] = curr_genres
+            else:
+                genres[string] = [song]
+
+        return genres

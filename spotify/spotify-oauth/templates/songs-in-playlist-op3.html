@@ -1,0 +1,22 @@
+<!doctype html> 
+<html> 
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
+        <title>Playlist</title>
+    </head>
+    <body> 
+        <h2>Here are the songs that are in the selected playlist:</h2>
+        <p>
+            {% for song in data %}
+                {{loop.index}}. {{song}} <br>
+            {% endfor %}
+        </p>
+
+        <p>Continue with this playlist?</p>
+
+        <a href="/sort-op3">
+            <button class="button restart">Continue</button>
+        </a>
+    </body> 
+</html> 

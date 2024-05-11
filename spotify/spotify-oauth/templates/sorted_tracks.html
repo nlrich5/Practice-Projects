@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
+        <title>Sorted Songs</title>
+    </head>
+    <body>
+        <h2>The following playlists have been created:</h2>
+        <p>
+            {% for string in data %}
+                {{string}} <br>
+            {% endfor %}
+        </p>
+
+        <p>Want to create another playlist? Click below!</p>
+        <a href="/">
+            <button class="button restart">Create new playlist</button>
+        </a>
+    </body>
+</html>

@@ -123,3 +123,34 @@ class PlaylistMaker:
                 genres[string] = [song]
 
         return genres
+    
+    def merge_playlists(self, genre_dict):
+        # order of merge: acousticness, speechiness, instrumentalness, danceability, energy, valence, tempo
+        needs_merge = []
+        for key, value in genre_dict.items():
+            if len(value) < 4:
+                needs_merge.append(key)
+
+        temp_dict = {}
+        for playlist in needs_merge:
+            temp_name = playlist[2] + playlist[5] + playlist[6]
+            if temp_name in temp_dict.keys():
+                temp = []
+                temp = temp_dict.get(temp_name)
+                temp.append(playlist)
+                temp_dict[temp_name] = temp
+            else:
+                temp_dict[temp_name] = [playlist]
+        
+        for key2, value2 in temp_dict.items():
+            playlist_songs = []
+            for playlist in value2:
+                temp = []
+                temp = genre_dict.get(playlist)
+                for song in temp:
+                    playlist_songs.append(song)
+                genre_dict.pop(playlist)
+
+            genre_dict[key2] = playlist_songs
+
+        return genre_dict

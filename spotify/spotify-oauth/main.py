@@ -307,6 +307,7 @@ def sort():
     plMaker = PlaylistMaker(session['access_token'], USER_ID)
 
     genres = plMaker.sort_songs(songs)
+    genres = plMaker.merge_playlists(genres)
     for key, value in genres.items():
         print(f"{key}:")
         for song in value:

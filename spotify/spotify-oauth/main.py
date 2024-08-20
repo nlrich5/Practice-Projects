@@ -5,6 +5,7 @@ import requests
 import urllib.parse
 from track import Track
 from playlistMaker import PlaylistMaker
+from playlist import Playlist
 
 app = Flask(__name__)
 app.secret_key = '345e42a3-51b0-437a-1230-1f4e443a2a3e'
@@ -100,6 +101,10 @@ def option2():
 @app.route('/op3', methods=['POST', 'GET'])
 def option3():
     return render_template('ask-for-playlist-op3.html')
+
+@app.route('/op4', methods=['POST', 'GET'])
+def option4():
+    return render_template('ask-for-playlist-op4.html')
     
 @app.route('/ask-for-playlist-op1', methods=['POST', 'GET'])
 def ask_for_playlist():
@@ -319,6 +324,160 @@ def sort():
         playlists.append(f"Playlist named '{key}' was created with {len(value)} songs.")
 
     return render_template('sorted_tracks.html', data=playlists)
+
+@app.route('/ask-for-playlist-op4', methods=['POST', 'GET'])
+def ask_for_playlist_op4():
+    if 'access_token' not in session:
+        return redirect('/login')
+    
+    if datetime.now().timestamp() > session['expires_at']:
+        return redirect('/refresh-token')
+    
+    session['search_playlist'] = request.form.get('search')
+    
+    return redirect('/playlists-op4')
+
+@app.route('/playlists-op4')
+def get_playlists_op4():
+    global songs
+
+    songs = []
+
+    headers = {
+        'Authorization': f"Bearer {session['access_token']}"
+    }
+
+    response = requests.get(API_BASE_URL + 'me/playlists', headers=headers)
+
+    playlists = response.json()
+    print(session['search_playlist'])
+    for item in playlists['items']:
+        if item['name'] == session['search_playlist']:
+            i = 1
+            output_fp = f"temp/pl_part{i}.json"
+            createFile(output_fp)
+            tracks_url = item['tracks']['href']
+            response2 = requests.get(tracks_url, headers=headers)
+            tracks = response2.json()
+            with open(output_fp, 'w') as outfile:
+                json.dump(tracks, outfile)
+
+            while tracks['items'] != []:
+                i += 1
+                output_fp = f"temp/pl_part{i}.json"
+                createFile(output_fp)
+                url = tracks_url + f"?limit=100&offset={(i - 1) * 100}"
+                curr_res = requests.get(url, headers=headers)
+                tracks = curr_res.json()
+                with open(output_fp, 'w') as outfile:
+                    json.dump(tracks, outfile)
+
+            all_data = combine_json(i)
+            createFile('temp/final.json')
+            with open('temp/final.json', 'w') as file:
+                json.dump(all_data, file)
+
+            _i = 1
+            while _i < i:
+                data = ''
+                fp = f"temp/pl_part{_i}.json"
+                with open(fp, 'r') as file:
+                    data = json.load(file)
+                curr_songs = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in data["items"]]
+                songs.extend(curr_songs)
+                _i += 1
+            
+            return render_template('songs-in-playlist-op4.html', data=songs)
+        
+    return jsonify(playlists)
+
+@app.route('/sort-op4')
+def sort_and_add():
+    global songs
+    genres = {}
+    playlists = []
+    songs_to_add = []
+
+    headers = {
+        'Authorization': f"Bearer {session['access_token']}"
+    }
+    response = requests.get(API_BASE_URL + 'me/playlists', headers=headers)
+    response_json = response.json()
+    for item in response_json['items']:
+        if item["name"] == session["search_playlist"]:
+            original_playlist = Playlist(name=item["name"], id=item["id"])
+
+    plMaker = PlaylistMaker(session['access_token'], USER_ID)
+
+    genres = plMaker.sort_songs(songs)
+    genres = plMaker.merge_playlists(genres)
+    for key, value in genres.items():
+        print(f"{key}:")
+        for song in value:
+            print(song)
+
+        
+        if len(value) <= 5:
+            seed_tracks_url = ""
+            for seed_track in value:
+                seed_tracks_url += seed_track.track_id + ","
+            seed_tracks_url = seed_tracks_url[:-1]
+            url = f"https://api.spotify.com/v1/recommendations?seed_tracks={seed_tracks_url}&limit={len(value)}"
+    
+            rec_response = requests.get(
+                url,
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": f"Bearer {session['access_token']}"
+                }
+            )
+            rec_json = rec_response.json()
+            rec_tracks = [Track(rec_track["name"], rec_track["id"], rec_track["artists"][0]["name"]) for rec_track in rec_json["tracks"]]
+            playlist_json = plMaker.populate_playlist(playlist=original_playlist, tracks=rec_tracks)
+
+        else:
+            tracks_left = len(value)
+            cycles = 0
+            while tracks_left > 5:
+                seed_tracks_url = ""
+                seed_tracks = value[(cycles * 5):(cycles * 5 + 4)]
+                for seed_track in seed_tracks:
+                    seed_tracks_url += seed_track.track_id + ","
+                seed_tracks_url = seed_tracks_url[:-1]
+                url = f"https://api.spotify.com/v1/recommendations?seed_tracks={seed_tracks_url}&limit={5}"
+    
+                rec_response = requests.get(
+                    url,
+                    headers={
+                        "Content-Type": "application/json",
+                        "Authorization": f"Bearer {session['access_token']}"
+                    }
+                )
+                rec_json = rec_response.json()
+                rec_tracks = [Track(rec_track["name"], rec_track["id"], rec_track["artists"][0]["name"]) for rec_track in rec_json["tracks"]]
+                playlist_json = plMaker.populate_playlist(playlist=original_playlist, tracks=rec_tracks)
+
+                tracks_left -= 5
+                cycles += 1
+            
+            seed_tracks = value[(cycles * 5):]
+            for seed_track in seed_tracks:
+                seed_tracks_url += seed_track.track_id + ","
+            seed_tracks_url = seed_tracks_url[:-1]
+            url = f"https://api.spotify.com/v1/recommendations?seed_tracks={seed_tracks_url}&limit={tracks_left}"
+
+            rec_response = requests.get(
+                    url,
+                    headers={
+                        "Content-Type": "application/json",
+                        "Authorization": f"Bearer {session['access_token']}"
+                    }
+                )
+            rec_json = rec_response.json()
+            rec_tracks = [Track(rec_track["name"], rec_track["id"], rec_track["artists"][0]["name"]) for rec_track in rec_json["tracks"]]
+            playlist_json = plMaker.populate_playlist(playlist=original_playlist, tracks=rec_tracks)
+
+    return redirect('/')
 
 @app.route('/refresh-token')
 def refresh_token():

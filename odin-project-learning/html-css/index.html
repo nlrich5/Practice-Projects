@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="https://httpbin.org/post" method="post">
+
+        <table>
+            <tr>
+                <td>First Name:</td>
+                <td><input type="text" name="first_name" id="first_name"></td>
+            </tr>
+            <tr>
+                <td>Age:</td>
+                <td><input type="number" name="age" id="age"></td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td><input type="email" name="email" id="user_email"></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" name="user_password" id="user_password"></td>
+            </tr>
+            <tr>
+                <td>Date of Birth:</td>
+                <td><input type="date" name="dob" id="dob"></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    <select name="gender" id="gender">
+                        <option value="" selected> </option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Location:</td>
+                <td>
+                    <select name="city" id="city">
+                        <optgroup label="Arizona">
+                            <option value="Chandler">Chandler</option>
+                            <option value="Gilbert">Gilbert</option>
+                            <option value="Mesa">Mesa</option>
+                        </optgroup>
+                        <optgroup label="California">
+                            <option value="Los Angeles">Los Angeles</option>
+                            <option value="San Jose">San Jose</option>
+                            <option value="Sacramento">Sacramento</option>
+                        </optgroup>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Opt in for emails?</td>
+                <td>
+                    <div>
+                        <input type="radio" name="email_opt" id="opt_in" value="Opt In">
+                        <label for="opt_in">Opt in for emails</label>
+                    </div>
+             
+                    <div>
+                        <input type="radio" name="email_opt" id="opt_out" value="Opt Out">
+                        <label for="opt_out">Opt out of emails</label>
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+        <div>
+            <textarea rows="5" columns="60">Enter a paragraph here</textarea>
+        </div>  
+
+        <button type="submit">Submit</button>
+      </form>
+</body>
+</html>

@@ -108,6 +108,8 @@ def read_csv(filepath):
 def main():
     parser = argparse.ArgumentParser(description="Score sumo data from a CSV file.")
     parser.add_argument("csv_file", help="Path to the input CSV file")
+    parser.add_argument("-o", "--output", default=None,
+                        help="Path to the output CSV file (default: <input>_scored.csv)")
     args = parser.parse_args()
 
     rows = read_csv(args.csv_file)
@@ -115,18 +117,57 @@ def main():
     if rows:
         print(f"Columns: {list(rows[0].keys())}")
 
+    # Detect tournament columns: find all columns ending with " Rank"
+    if rows:
+        all_cols = list(rows[0].keys())
+        rank_cols = [c for c in all_cols if c.endswith(" Rank")]
+        # Also handle simple "Rank"/"Record" columns
+        if not rank_cols and "Rank" in all_cols:
+            rank_cols = ["Rank"]
+
     for row in rows:
-        rank = row.get("Rank", "")
-        record = row.get("Record", "")
-        rp = rank_score(rank)
-        rec = record_points(record, rank) if rp is not None else None
-        ts = total_score(rank, record)
-        if ts is not None:
-            row["RankScore"] = rp
-            row["RecordPoints"] = rec
-            row["TotalScore"] = ts
-            print(f"  {row.get('Name', '?'):20s}  Rank: {rank:4s}  Record: {record:8s}  "
-                  f"RankPts: {rp:6d}  RecPts: {rec:+6d}  Total: {ts:6d}")
+        for rank_col in rank_cols:
+            # Derive the matching record and score column names
+            if rank_col == "Rank":
+                record_col = "Record"
+                score_col = "TotalScore"
+                rp_col = "RankScore"
+                rec_col = "RecordPoints"
+            else:
+                basho = rank_col.rsplit(" Rank", 1)[0]  # e.g. "2025 Hatsu"
+                record_col = f"{basho} Record"
+                score_col = f"{basho} TotalScore"
+                rp_col = f"{basho} RankScore"
+                rec_col = f"{basho} RecordPoints"
+
+            rank = row.get(rank_col, "")
+            record = row.get(record_col, "")
+            if not rank:
+                row[rp_col] = ""
+                row[rec_col] = ""
+                row[score_col] = ""
+                continue
+            rp = rank_score(rank)
+            rec = record_points(record, rank) if rp is not None else None
+            ts = total_score(rank, record)
+            row[rp_col] = rp if rp is not None else ""
+            row[rec_col] = rec if rec is not None else ""
+            row[score_col] = ts if ts is not None else ""
+
+    # Determine output path
+    output_path = args.output
+    if output_path is None:
+        base = args.csv_file.rsplit(".", 1)
+        output_path = base[0] + "_scored.csv" if len(base) == 2 else args.csv_file + "_scored.csv"
+
+    # Write scored CSV
+    if rows:
+        fieldnames = list(rows[0].keys())
+        with open(output_path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(rows)
+        print(f"Wrote {len(rows)} rows to {output_path}")
 
 
 if __name__ == "__main__":

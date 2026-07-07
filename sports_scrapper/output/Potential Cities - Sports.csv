@@ -1,0 +1,913 @@
+Sport,League,Team,City,State/Prov,Country
+Soccer,MLS,Atlanta United FC,Atlanta,Georgia,USA
+Soccer,MLS,Charlotte FC,Charlotte,North Carolina,USA
+Soccer,MLS,Chicago Fire FC,Chicago,Illinois,USA
+Soccer,MLS,FC Cincinnati,Cincinnati,Ohio,USA
+Soccer,MLS,Columbus Crew,Columbus,Ohio,USA
+Soccer,MLS,D.C. United,Washington,D.C.,USA
+Soccer,MLS,Inter Miami CF,Miami,Florida,USA
+Soccer,MLS,CF Montréal,Montreal,Québec,Canada
+Soccer,MLS,Nashville SC,Nashville,Tennessee,USA
+Soccer,MLS,New England Revolution,Foxborough,Massachusetts,USA
+Soccer,MLS,New York City FC,Bronx,New York,USA
+Soccer,MLS,New York Red Bulls,Harrison,New Jersey,USA
+Soccer,MLS,Orlando City SC,Orlando,Florida,USA
+Soccer,MLS,Philadelphia Union,Chester,Pennsylvania,USA
+Soccer,MLS,Toronto FC,Toronto,Ontario,Canada
+Soccer,MLS,Austin FC,Austin,Texas,USA
+Soccer,MLS,Colorado Rapids,Commerce City,Colorado,USA
+Soccer,MLS,FC Dallas,Frisco,Texas,USA
+Soccer,MLS,Houston Dynamo FC,Houston,Texas,USA
+Soccer,MLS,Sporting Kansas City,Kansas City,Kansas,USA
+Soccer,MLS,LA Galaxy,Carson,California,USA
+Soccer,MLS,Los Angeles FC,Los Angeles,California,USA
+Soccer,MLS,Minnesota United FC,Saint Paul,Minnesota,USA
+Soccer,MLS,Portland Timbers,Portland,Oregon,USA
+Soccer,MLS,Real Salt Lake,Sandy,Utah,USA
+Soccer,MLS,San Diego FC,San Diego,California,USA
+Soccer,MLS,San Jose Earthquakes,San Jose,California,USA
+Soccer,MLS,Seattle Sounders FC,Seattle,Washington,USA
+Soccer,MLS,St. Louis City SC,St. Louis,Missouri,USA
+Soccer,MLS,Vancouver Whitecaps FC,Vancouver,British Columbia,Canada
+Soccer,USL Championship,Birmingham Legion FC,Birmingham,Alabama,USA
+Soccer,USL Championship,Brooklyn FC,Brooklyn,New York,USA
+Soccer,USL Championship,Charleston Battery,Mount Pleasant,South Carolina,USA
+Soccer,USL Championship,Detroit City FC,Hamtramck,Michigan,USA
+Soccer,USL Championship,Hartford Athletic,Hartford,Connecticut,USA
+Soccer,USL Championship,Indy Eleven,Indianapolis,Indiana,USA
+Soccer,USL Championship,Loudoun United FC,Leesburg,Virginia,USA
+Soccer,USL Championship,Louisville City FC,Louisville,Kentucky,USA
+Soccer,USL Championship,Miami FC,University Park,Florida,USA
+Soccer,USL Championship,Pittsburgh Riverhounds SC,Pittsburgh,Pennsylvania,USA
+Soccer,USL Championship,Rhode Island FC,Pawtucket,Rhode Island,USA
+Soccer,USL Championship,Sporting Club Jacksonville,Jacksonville,Florida,USA
+Soccer,USL Championship,Tampa Bay Rowdies,St. Petersburg,Florida,USA
+Soccer,USL Championship,Colorado Springs Switchbacks FC,Colorado Springs,Colorado,USA
+Soccer,USL Championship,El Paso Locomotive FC,El Paso,Texas,USA
+Soccer,USL Championship,Las Vegas Lights FC,Las Vegas,Nevada,USA
+Soccer,USL Championship,Lexington SC,Lexington,Kentucky,USA
+Soccer,USL Championship,Monterey Bay FC,Seaside,California,USA
+Soccer,USL Championship,New Mexico United,Albuquerque,New Mexico,USA
+Soccer,USL Championship,Oakland Roots SC,Oakland,California,USA
+Soccer,USL Championship,Orange County SC,Irvine,California,USA
+Soccer,USL Championship,Phoenix Rising FC,Phoenix,Arizona,USA
+Soccer,USL Championship,Sacramento Republic FC,Sacramento,California,USA
+Soccer,USL Championship,San Antonio FC,San Antonio,Texas,USA
+Soccer,USL Championship,FC Tulsa,Tulsa,Oklahoma,USA
+Soccer,USL Championship,Atlético Dallas,Dallas,Texas,USA
+Soccer,USL Championship,Santa Barbara Sky FC,Santa Barbara,California,USA
+Soccer,USL Championship,Reno Pro Soccer,Reno,Nevada,USA
+Soccer,USL Championship,Ozark United FC,Rogers,Arkansas,USA
+Soccer,USL Championship,USL Pro Iowa,Des Moines,Iowa,USA
+Soccer,USL Championship,Buffalo Pro Soccer,Buffalo,New York,USA
+Soccer,USL League One,Athletic Club Boise,Garden City,Idaho,USA
+Soccer,USL League One,AV Alta FC,Lancaster,California,USA
+Soccer,USL League One,Charlotte Independence,Charlotte,North Carolina,USA
+Soccer,USL League One,Chattanooga Red Wolves SC,East Ridge,Tennessee,USA
+Soccer,USL League One,Corpus Christi FC,Corpus Christi,Texas,USA
+Soccer,USL League One,Fort Wayne FC,Fort Wayne,Indiana,USA
+Soccer,USL League One,Forward Madison FC,Madison,Wisconsin,USA
+Soccer,USL League One,Greenville Triumph SC,Mauldin,South Carolina,USA
+Soccer,USL League One,FC Naples,Naples,Florida,USA
+Soccer,USL League One,New York Cosmos,Paterson,New Jersey,USA
+Soccer,USL League One,One Knoxville SC,Knoxville,Tennessee,USA
+Soccer,USL League One,Portland Hearts of Pine,Portland,Maine,USA
+Soccer,USL League One,Richmond Kickers,Richmond,Virginia,USA
+Soccer,USL League One,Sarasota Paradise,Lakewood Ranch,Florida,USA
+Soccer,USL League One,Spokane Velocity FC,Spokane,Washington,USA
+Soccer,USL League One,Union Omaha,Omaha,Nebraska,USA
+Soccer,USL League One,Westchester SC,Mount Vernon,New York,USA
+Soccer,USL League One,Sporting Cascades FC,Eugene,Oregon,USA
+Soccer,USL League One,Fort Lauderdale United FC,Fort Lauderdale,Florida,USA
+Soccer,USL League One,Port St. Lucie SC,Port St. Lucie,Florida,USA
+Soccer,USL League One,Thousand Oaks Pro Soccer,Thousand Oaks,California,USA
+Soccer,USL League One,Rodeo SC,Celina,Texas,USA
+Soccer,MLS Next Pro,CT United FC,New Haven,Connecticut,USA
+Soccer,MLS Next Pro,Carolina Core FC,High Point,North Carolina,USA
+Soccer,MLS Next Pro,Chattanooga FC,Chattanooga,Tennessee,USA
+Soccer,MLS Next Pro,Jacksonville Armada FC,Jacksonville,Florida,USA
+Soccer,MLS Next Pro,Forest City Cleveland,Cleveland,Ohio,USA
+Soccer,MLS Next Pro,AC Grand Rapids,Grand Rapids,Michigan,USA
+Soccer,MLS Next Pro,The Island F.C.,Long Island,New York,USA
+Soccer,Canadian Premier League,Atlético Ottawa,Ottawa,Ontario,Canada
+Soccer,Canadian Premier League,Cavalry FC,Foothills County,Alberta,Canada
+Soccer,Canadian Premier League,Forge FC,Hamilton,Ontario,Canada
+Soccer,Canadian Premier League,HFX Wanderers FC,Halifax,Nova Scotia,Canada
+Soccer,Canadian Premier League,Inter Toronto FC,Toronto,Ontario,Canada
+Soccer,Canadian Premier League,Pacific FC,Langford,British Columbia,Canada
+Soccer,Canadian Premier League,FC Supra du Québec,Laval,Quebec,Canada
+Soccer,Canadian Premier League,Vancouver FC,Langley,British Columbia,Canada
+Soccer,Ontario Premier League 1,Burlington SC,Burlington,Ontario,Canada
+Soccer,Ontario Premier League 1,International FC,Vaughan,Ontario,Canada
+Soccer,Ontario Premier League 1,North Toronto Nitros,Toronto,Ontario,Canada
+Soccer,Ontario Premier League 1,Oakville SC,Oakville,Ontario,Canada
+Soccer,Ontario Premier League 1,Scrosoppi FC,Milton,Ontario,Canada
+Soccer,Ontario Premier League 1,Sigma FC,Mississauga,Ontario,Canada
+Soccer,Ontario Premier League 1,Simcoe County Rovers FC,Barrie,Ontario,Canada
+Soccer,Ontario Premier League 1,St. Catharines Roma Wolves,St. Catharines,Ontario,Canada
+Soccer,Ontario Premier League 1,Sudbury Cyclones,Sudbury,Ontario,Canada
+Soccer,Ontario Premier League 1,Unionville Milliken SC,Unionville,Ontario,Canada
+Soccer,Ontario Premier League 1,Vaughan Azzurri,Vaughan,Ontario,Canada
+Soccer,Ontario Premier League 1,Woodbridge Strikers,Woodbridge,Ontario,Canada
+Soccer,Ontario Premier League 2,Cambridge United,Cambridge,Ontario,Canada
+Soccer,Ontario Premier League 2,FC London,London,Ontario,Canada
+Soccer,Ontario Premier League 2,Guelph United,Guelph,Ontario,Canada
+Soccer,Ontario Premier League 2,Hamilton United,Hamilton,Ontario,Canada
+Soccer,Ontario Premier League 2,Inter Toronto II,Toronto,Ontario,Canada
+Soccer,Ontario Premier League 2,Master's FA,Scarborough,Ontario,Canada
+Soccer,Ontario Premier League 2,North Mississauga SC,Mississauga,Ontario,Canada
+Soccer,Ontario Premier League 2,Pickering FC,Pickering,Ontario,Canada
+Soccer,Ontario Premier League 2,The Borough FC,Scarborough,Ontario,Canada
+Soccer,Ontario Premier League 2,Waterloo United,Waterloo,Ontario,Canada
+Soccer,Ontario Premier League 2,Whitby FC,Whitby,Ontario,Canada
+Soccer,Ontario Premier League 2,Windsor City FC,Windsor,Ontario,Canada
+Soccer,Ontario Premier League 3,Kingston Sentinels,Kingston,Ontario,Canada
+Soccer,Ontario Premier League 3,Richmond Hill SC,Richmond Hill,Ontario,Canada
+Soccer,Ontario Premier League 3,Rush Canada SA,Oakville,Ontario,Canada
+Soccer,Ontario Premier League 3,Railway City FC,St. Thomas,Ontario,Canada
+Soccer,British Columbia Premier League,Altitude FC,North Vancouver,British Columbia,Canada
+Soccer,British Columbia Premier League,Burnaby FC,Burnaby,British Columbia,Canada
+Soccer,British Columbia Premier League,Langley United FC,Langley,British Columbia,Canada
+Soccer,British Columbia Premier League,Kamloops United FC,Kamloops,British Columbia,Canada
+Soccer,British Columbia Premier League,Nanaimo United FC,Nanaimo,British Columbia,Canada
+Soccer,British Columbia Premier League,TSS FC Rovers,Burnaby,British Columbia,Canada
+Soccer,British Columbia Premier League,Unity FC,Surrey,British Columbia,Canada
+Soccer,British Columbia Premier League,Whitecaps FC Academy,Vancouver,British Columbia,Canada
+Soccer,Alberta Premier League,Callies United,Calgary,Alberta,Canada
+Soccer,Alberta Premier League,Calgary Blizzard SC,Calgary,Alberta,Canada
+Soccer,Alberta Premier League,Calgary Foothills FC,Calgary,Alberta,Canada
+Soccer,Alberta Premier League,Calgary Rangers SC,Calgary,Alberta,Canada
+Soccer,Alberta Premier League,Calgary Wild FC U23,Calgary,Alberta,Canada
+Soccer,Alberta Premier League,Calgary Villains FC,Calgary,Alberta,Canada
+Soccer,Alberta Premier League,Cavalry FC II,Calgary,Alberta,Canada
+Soccer,Alberta Premier League,Edmonton BTB SC,Edmonton,Alberta,Canada
+Soccer,Alberta Premier League,St. Albert Impact,St. Albert,Alberta,Canada
+Soccer,Prairies Premier League,Bonivital Flames,Winnipeg,Manitoba,Canada
+Soccer,Prairies Premier League,FC Manitoba,Winnipeg,Manitoba,Canada
+Soccer,Prairies Premier League,Forza Soccer Academy,Saskatoon,Saskatchewan,Canada
+Soccer,Prairies Premier League,Queen City United SC,Regina,Saskatchewan,Canada
+Soccer,Prairies Premier League,Saskatchewan EXCEL,Saskatoon,Saskatchewan,Canada
+Soccer,Prairies Premier League,Thunder Bay Chill,Thunder Bay,Ontario,Canada
+Soccer,Prairies Premier League,Winnipeg Lucania FC,Winnipeg,Manitoba,Canada
+Soccer,Ligue 1 Québec,A.S. Blainville,Blainville,Québec,Canada
+Soccer,Ligue 1 Québec,Celtix du Haut-Richelieu,Saint-Jean-sur-Richelieu,Québec,Canada
+Soccer,Ligue 1 Québec,AS Laval,Laval,Québec,Canada
+Soccer,Ligue 1 Québec,FC Laval,Laval,Québec,Canada
+Soccer,Ligue 1 Québec,CS Longueuil,Longueuil,Québec,Canada
+Soccer,Ligue 1 Québec,CS Mont-Royal Outremont,Mount Royal,Québec,Canada
+Soccer,Ligue 1 Québec,CS Saint-Laurent,Montreal,Québec,Canada
+Soccer,Ligue 1 Québec,CS St-Hubert,Longueuil,Québec,Canada
+Soccer,Ligue 1 Québec,Ottawa South United,Ottawa,Ontario,Canada
+Soccer,Ligue 1 Québec,Royal-Sélect de Beauport,Quebec City,Québec,Canada
+Soccer,Ligue 1 Québec,CS LaSalle,Montréal,Québec,Canada
+Soccer,Ligue 1 Québec,AS Gatineau,Gatineau,Québec,Canada
+Soccer,Ligue 2 Québec,CF L'International de Québec,Quebec City,Québec,Canada
+Soccer,Ligue 2 Québec,AS Chaudière-Ouest,Lévis,Québec,Canada
+Soccer,Ligue 2 Québec,CS Montréal Centre,Montréal,Québec,Canada
+Soccer,Ligue 2 Québec,CS Roussilion,Saint-Constant,Québec,Canada
+Soccer,Ligue 2 Québec,CS Saint-Lazare/Hudson,Saint-Lazare,Québec,Canada
+Soccer,Ligue 2 Québec,CS Trident,Quebec City,Québec,Canada
+Soccer,Ligue 2 Québec,CS Rivière-des-Prairies,Montreal,Québec,Canada
+Soccer,Ligue 2 Québec,Lakeshore SC,Kirkland,Québec,Canada
+Soccer,Ligue 2 Québec,CS Mistral de Sherbrooke,Sherbrooke,Québec,Canada
+Soccer,Ligue 2 Québec,Panellinios St Michel FC,Montreal,Québec,Canada
+Soccer,Ligue 2 Québec,Revolution FC,Saint-Eustache,Québec,Canada
+Soccer,Ligue 2 Québec,CS Union Lanaudière Sud,Repentigny,Québec,Canada
+Soccer,Ligue 3 Québec,CS Vallée de l'Or (Blizz'Or),Val-d'Or,Québec,Canada
+Soccer,Ligue 3 Québec,CS Boréal d'Alma,Alma,Québec,Canada
+Soccer,Ligue 3 Québec,Chevaliers NDMC,Notre-Dame-du-Mont-Carmel,Québec,Canada
+Soccer,Ligue 3 Québec,CS Mondial de Rivière-du-Loup,Rivière-du-Loup,Québec,Canada
+Soccer,Ligue 3 Québec,CS Fury de Rimouski,Rimouski,Québec,Canada
+Soccer,Ligue 3 Québec,CS Haute-Saint-Charles,Quebec City,Québec,Canada
+Soccer,Ligue 3 Québec,CS Titans,Bois-des-Filion,Québec,Canada
+Soccer,Ligue 3 Québec,FS Salaberry,Montréal,Québec,Canada
+Soccer,Ligue 3 Québec,Notre-Dame-de-Grâce SA,Notre-Dame-de-Grâce,Québec,Canada
+Soccer,Ligue 3 Québec,CS Venturi de Saguenay,Saguenay,Québec,Canada
+Soccer,Ligue 3 Québec,Granby Cosmos,Granby,Québec,Canada
+Soccer,Ligue 3 Québec,West Ottawa SC,Ottawa,Ontario,Canada
+Soccer,Ligue 3 Québec,Soccer Pointe Clare,Pointe-Claire,Québec,Canada
+Soccer,Ligue 3 Québec,AS Saint Lambart,Saint-Lambart,Québec,Canada
+Soccer,Ligue 3 Québec,Dollard SC,Dollard-des-Ormeaux,Québec,Canada
+Soccer,Ligue 3 Québec,CS Optimum de Victoriaville,Victoriaville,Québec,Canada
+Soccer,Ligue 3 Québec,AS Montis,Saint-Bruno-de-Montarville,Québec,Canada
+Soccer,Ligue 3 Québec,CS Les Ambassadeurs de Saint-Jérôme,Saint-Jérôme,Québec,Canada
+Soccer,Ligue 3 Québec,FC Boréal,Prévost,Québec,Canada
+Soccer,Ligue 3 Québec,AS Brossard,Brossard,Québec,Canada
+Soccer,Ligue 3 Québec,AS St-Léonard,St Leonard,Québec,Canada
+Soccer,Ligue 3 Québec,CS Trois-Rivières,Trois-Rivières,Québec,Canada
+Soccer,Ligue 3 Québec,CS Boucherville,Boucherville,Québec,Canada
+Soccer,Ligue 3 Québec,CS Lévis-Est,Lévis,Québec,Canada
+Soccer,Ligue 3 Québec,CS Phénix des Rivières,Quebec City,Québec,Canada
+Soccer,NWSL,Angel City FC,Los Angeles,California,USA
+Soccer,NWSL,Bay FC,San Jose,California,USA
+Soccer,NWSL,Boston Legacy FC,Foxborough,Massachusetts,USA
+Soccer,NWSL,Chicago Stars FC,Evanston,Illinois,USA
+Soccer,NWSL,Denver Summit FC,Centennial,Colorado,USA
+Soccer,NWSL,Gotham FC,Harrison,New Jersey,USA
+Soccer,NWSL,Houston Dash,Houston,Texas,USA
+Soccer,NWSL,Kansas City Current,Kansas City,Missouri,USA
+Soccer,NWSL,North Carolina Courage,Cary,North Carolina,USA
+Soccer,NWSL,Orlando Pride,Orlando,Florida,USA
+Soccer,NWSL,Portland Thorns FC,Portland,Oregon,USA
+Soccer,NWSL,Racing Louisville FC,Louisville,Kentucky,USA
+Soccer,NWSL,San Diego Wave FC,San Diego,California,USA
+Soccer,NWSL,Seattle Reign FC,Seattle,Washington,USA
+Soccer,NWSL,Utah Royals,Sandy,Utah,USA
+Soccer,NWSL,Washington Spirit,Washington,D.C.,USA
+Soccer,NWSL,Atlanta,Atlanta,Georgia,USA
+Soccer,NWSL,Columbus,Columbus,Ohio,USA
+Soccer,USL Super League,Brooklyn FC,New York City,New York,USA
+Soccer,USL Super League,Carolina Ascent FC,Charlotte,North Carolina,USA
+Soccer,USL Super League,Dallas Trinity FC,Dallas,Texas,USA
+Soccer,USL Super League,DC Power FC,Washington,D.C.,USA
+Soccer,USL Super League,Fort Lauderdale United FC,Fort Lauderdale,Florida,USA
+Soccer,USL Super League,Lexington SC,Lexington,Kentucky,USA
+Soccer,USL Super League,Sporting Club Jacksonville,Jacksonville,Florida,USA
+Soccer,USL Super League,Tampa Bay Sun FC,Tampa,Florida,USA
+Soccer,USL Super League,Athletic Club Boise,Garden City,Idaho,USA
+Soccer,USL Super League,New York Cosmos,Paterson,New Jersey,USA
+Soccer,USL Super League,Ozark United FC,Rogers,Arkansas,USA
+Soccer,USL Super League,USL Pro Iowa,Des Moines,Iowa,USA
+Soccer,USL Super League,Buffalo Pro Soccer,Buffalo,New York,USA
+Soccer,USL Super League,Chattanooga Red Wolves SC,East Ridge,Tennessee,USA
+Soccer,USL Super League,Indy Eleven,Indianapolis,Indiana,USA
+Soccer,USL Super League,Oakland Soul SC,Oakland,California,USA
+Soccer,USL Super League,Rally Madison FC,Madison,Wisconsin,USA
+Soccer,USL Super League,USL Palm Beach,Palm Beach,Florida,USA
+Soccer,Northern Super League,Calgary Wild FC,Calgary,Alberta,Canada
+Soccer,Northern Super League,Halifax Tides FC,Halifax,Nova Scotia,Canada
+Soccer,Northern Super League,Montreal Roses FC,Laval,Quebec,Canada
+Soccer,Northern Super League,Ottawa Rapid FC,Ottawa,Ontario,Canada
+Soccer,Northern Super League,AFC Toronto,Toronto,Ontario,Canada
+Soccer,Northern Super League,Vancouver Rise FC,Burnaby,British Columbia,Canada
+Baseball,Major League Baseball,Baltimore Orioles,Baltimore,Maryland,USA
+Baseball,Major League Baseball,Boston Red Sox,Boston,Massachusetts,USA
+Baseball,Major League Baseball,New York Yankees,New York,New York,USA
+Baseball,Major League Baseball,Tampa Bay Rays,St. Petersburg,Florida,USA
+Baseball,Major League Baseball,Toronto Blue Jays,Toronto,Ontario,Canada
+Baseball,Major League Baseball,Chicago White Sox,Chicago,Illinois,USA
+Baseball,Major League Baseball,Cleveland Guardians,Cleveland,Ohio,USA
+Baseball,Major League Baseball,Detroit Tigers,Detroit,Michigan,USA
+Baseball,Major League Baseball,Kansas City Royals,Kansas City,Missouri,USA
+Baseball,Major League Baseball,Minnesota Twins,Minneapolis,Minnesota,USA
+Baseball,Major League Baseball,Athletics,Las Vegas,Nevada,USA
+Baseball,Major League Baseball,Houston Astros,Houston,Texas,USA
+Baseball,Major League Baseball,Los Angeles Angels,Anaheim,California,USA
+Baseball,Major League Baseball,Seattle Mariners,Seattle,Washington,USA
+Baseball,Major League Baseball,Texas Rangers,Arlington,Texas,USA
+Baseball,Major League Baseball,Atlanta Braves,Cumberland,Georgia,USA
+Baseball,Major League Baseball,Miami Marlins,Miami,Florida,USA
+Baseball,Major League Baseball,New York Mets,New York,New York,USA
+Baseball,Major League Baseball,Philadelphia Phillies,Philadelphia,Pennsylvania,USA
+Baseball,Major League Baseball,Washington Nationals,Washington,D.C.,USA
+Baseball,Major League Baseball,Chicago Cubs,Chicago,Illinois,USA
+Baseball,Major League Baseball,Cincinnati Reds,Cincinnati,Ohio,USA
+Baseball,Major League Baseball,Milwaukee Brewers,Milwaukee,Wisconsin,USA
+Baseball,Major League Baseball,Pittsburgh Pirates,Pittsburgh,Pennsylvania,USA
+Baseball,Major League Baseball,St. Louis Cardinals,St. Louis,Missouri,USA
+Baseball,Major League Baseball,Arizona Diamondbacks,Phoenix,Arizona,USA
+Baseball,Major League Baseball,Colorado Rockies,Denver,Colorado,USA
+Baseball,Major League Baseball,Los Angeles Dodgers,Los Angeles,California,USA
+Baseball,Major League Baseball,San Diego Padres,San Diego,California,USA
+Baseball,Major League Baseball,San Francisco Giants,San Francisco,California,USA
+Baseball,International League (AAA),Buffalo Bisons,Buffalo,New York,USA
+Baseball,International League (AAA),Charlotte Knights,Charlotte,North Carolina,USA
+Baseball,International League (AAA),Columbus Clippers,Columbus,Ohio,USA
+Baseball,International League (AAA),Durham Bulls,Durham,North Carolina,USA
+Baseball,International League (AAA),Gwinnett Stripers,Lawrenceville,Georgia,USA
+Baseball,International League (AAA),Indianapolis Indians,Indianapolis,Indiana,USA
+Baseball,International League (AAA),Iowa Cubs,Des Moines,Iowa,USA
+Baseball,International League (AAA),Jacksonville Jumbo Shrimp,Jacksonville,Florida,USA
+Baseball,International League (AAA),Lehigh Valley IronPigs,Allentown,Pennsylvania,USA
+Baseball,International League (AAA),Louisville Bats,Louisville,Kentucky,USA
+Baseball,International League (AAA),Memphis Redbirds,Memphis,Tennessee,USA
+Baseball,International League (AAA),Nashville Sounds,Nashville,Tennessee,USA
+Baseball,International League (AAA),Norfolk Tides,Norfolk,Virginia,USA
+Baseball,International League (AAA),Omaha Storm Chasers,Papillion,Nebraska,USA
+Baseball,International League (AAA),Rochester Red Wings,Rochester,New York,USA
+Baseball,International League (AAA),Scranton/Wilkes-Barre RailRiders,Moosic,Pennsylvania,USA
+Baseball,International League (AAA),St. Paul Saints,Saint Paul,Minnesota,USA
+Baseball,International League (AAA),Syracuse Mets,Syracuse,New York,USA
+Baseball,International League (AAA),Toledo Mud Hens,Toledo,Ohio,USA
+Baseball,International League (AAA),Worcester Red Sox,Worcester,Massachusetts,USA
+Baseball,Pacific Coast League (AAA),Albuquerque Isotopes,Albuquerque,New Mexico,USA
+Baseball,Pacific Coast League (AAA),El Paso Chihuahuas,El Paso,Texas,USA
+Baseball,Pacific Coast League (AAA),Las Vegas Aviators,Las Vegas,Nevada,USA
+Baseball,Pacific Coast League (AAA),Oklahoma City Comets,Oklahoma City,Oklahoma,USA
+Baseball,Pacific Coast League (AAA),Reno Aces,Reno,Nevada,USA
+Baseball,Pacific Coast League (AAA),Round Rock Express,Round Rock,Texas,USA
+Baseball,Pacific Coast League (AAA),Sacramento River Cats,West Sacramento,California,USA
+Baseball,Pacific Coast League (AAA),Salt Lake Bees,South Jordan,Utah,USA
+Baseball,Pacific Coast League (AAA),Sugar Land Space Cowboys,Sugar Land,Texas,USA
+Baseball,Pacific Coast League (AAA),Tacoma Rainiers,Tacoma,Washington,USA
+Baseball,Eastern League (AA),Akron RubberDucks,Akron,Ohio,USA
+Baseball,Eastern League (AA),Altoona Curve,Altoona,Pennsylvania,USA
+Baseball,Eastern League (AA),Binghamton Rumble Ponies,Binghamton,New York,USA
+Baseball,Eastern League (AA),Chesapeake Baysox,Bowie,Maryland,USA
+Baseball,Eastern League (AA),Erie SeaWolves,Erie,Pennsylvania,USA
+Baseball,Eastern League (AA),Harrisburg Senators,Harrisburg,Pennsylvania,USA
+Baseball,Eastern League (AA),Hartford Yard Goats,Hartford,Connecticut,USA
+Baseball,Eastern League (AA),New Hampshire Fisher Cats,Manchester,New Hampshire,USA
+Baseball,Eastern League (AA),Portland Sea Dogs,Portland,Maine,USA
+Baseball,Eastern League (AA),Reading Fightin Phils,Reading,Pennsylvania,USA
+Baseball,Eastern League (AA),Richmond Flying Squirrels,Richmond,Virginia,USA
+Baseball,Eastern League (AA),Somerset Patriots,Bridgewater,New Jersey,USA
+Baseball,Southern League (AA),Biloxi Shuckers,Biloxi,Mississippi,USA
+Baseball,Southern League (AA),Birmingham Barons,Birmingham,Alabama,USA
+Baseball,Southern League (AA),Chattanooga Lookouts,Chattanooga,Tennessee,USA
+Baseball,Southern League (AA),Columbus Clingstones,Columbus,Georgia,USA
+Baseball,Southern League (AA),Knoxville Smokies,Knoxville,Tennessee,USA
+Baseball,Southern League (AA),Montgomery Biscuits,Montgomery,Alabama,USA
+Baseball,Southern League (AA),Pensacola Blue Wahoos,Pensacola,Florida,USA
+Baseball,Southern League (AA),Rocket City Trash Pandas,Madison,Alabama,USA
+Baseball,Texas League (AA),Amarillo Sod Poodles,Amarillo,Texas,USA
+Baseball,Texas League (AA),Arkansas Travelers,North Little Rock,Arkansas,USA
+Baseball,Texas League (AA),Corpus Christi Hooks,Corpus Christi,Texas,USA
+Baseball,Texas League (AA),Frisco RoughRiders,Frisco,Texas,USA
+Baseball,Texas League (AA),Midland RockHounds,Midland,Texas,USA
+Baseball,Texas League (AA),Northwest Arkansas Naturals,Springdale,Arkansas,USA
+Baseball,Texas League (AA),San Antonio Missions,San Antonio,Texas,USA
+Baseball,Texas League (AA),Springfield Cardinals,Springfield,Missouri,USA
+Baseball,Texas League (AA),Tulsa Drillers,Tulsa,Oklahoma,USA
+Baseball,Texas League (AA),Wichita Wind Surge,Wichita,Kansas,USA
+Baseball,Midwest League (A+),Beloit Sky Carp,Beloit,Wisconsin,USA
+Baseball,Midwest League (A+),Cedar Rapids Kernels,Cedar Rapids,Iowa,USA
+Baseball,Midwest League (A+),Dayton Dragons,Dayton,Ohio,USA
+Baseball,Midwest League (A+),Fort Wayne TinCaps,Fort Wayne,Indiana,USA
+Baseball,Midwest League (A+),Great Lakes Loons,Midland,Michigan,USA
+Baseball,Midwest League (A+),Lake County Captains,Eastlake,Ohio,USA
+Baseball,Midwest League (A+),Lansing Lugnuts,Lansing,Michigan,USA
+Baseball,Midwest League (A+),Peoria Chiefs,Peoria,Illinois,USA
+Baseball,Midwest League (A+),Quad Cities River Bandits,Davenport,Iowa,USA
+Baseball,Midwest League (A+),South Bend Cubs,South Bend,Indiana,USA
+Baseball,Midwest League (A+),West Michigan Whitecaps,Comstock Park,Michigan,USA
+Baseball,Midwest League (A+),Wisconsin Timber Rattlers,Appleton,Wisconsin,USA
+Baseball,South Atlantic League (A+),Asheville Tourists,Asheville,North Carolina,USA
+Baseball,South Atlantic League (A+),Bowling Green Hot Rods,Bowling Green,Kentucky,USA
+Baseball,South Atlantic League (A+),Brooklyn Cyclones,Brooklyn,New York,USA
+Baseball,South Atlantic League (A+),Frederick Keys,Frederick,Maryland,USA
+Baseball,South Atlantic League (A+),Greensboro Grasshoppers,Greensboro,North Carolina,USA
+Baseball,South Atlantic League (A+),Greenville Drive,Greenville,South Carolina,USA
+Baseball,South Atlantic League (A+),Hub City Spartanburgers,Spartanburg,South Carolina,USA
+Baseball,South Atlantic League (A+),Hudson Valley Renegades,Wappingers Falls,New York,USA
+Baseball,South Atlantic League (A+),Jersey Shore BlueClaws,Lakewood,New Jersey,USA
+Baseball,South Atlantic League (A+),Rome Emperors,Rome,Georgia,USA
+Baseball,South Atlantic League (A+),Wilmington Blue Rocks,Wilmington,Delaware,USA
+Baseball,South Atlantic League (A+),Winston-Salem Dash,Winston-Salem,North Carolina,USA
+Baseball,Northwest League (A+),Eugene Emeralds,Eugene,Oregon,USA
+Baseball,Northwest League (A+),Everett AquaSox,Everett,Washington,USA
+Baseball,Northwest League (A+),Hillsboro Hops,Hillsboro,Oregon,USA
+Baseball,Northwest League (A+),Spokane Indians,Spokane,Washington,USA
+Baseball,Northwest League (A+),Tri-City Dust Devils,Pasco,Washington,USA
+Baseball,Northwest League (A+),Vancouver Canadians,Vancouver,British Columbia,Canada
+Baseball,Carolina League (A),Augusta GreenJackets,North Augusta,South Carolina,USA
+Baseball,Carolina League (A),Charleston RiverDogs,Charleston,South Carolina,USA
+Baseball,Carolina League (A),Columbia Fireflies,Columbia,South Carolina,USA
+Baseball,Carolina League (A),Delmarva Shorebirds,Salisbury,Maryland,USA
+Baseball,Carolina League (A),Fayetteville Woodpeckers,Fayetteville,North Carolina,USA
+Baseball,Carolina League (A),Fredericksburg Nationals,Fredericksburg,Virginia,USA
+Baseball,Carolina League (A),Hickory Crawdads,Hickory,North Carolina,USA
+Baseball,Carolina League (A),Hill City Howlers,Lynchburg,Virginia,USA
+Baseball,Carolina League (A),Kannapolis Cannon Ballers,Kannapolis,North Carolina,USA
+Baseball,Carolina League (A),Myrtle Beach Pelicans,Myrtle Beach,South Carolina,USA
+Baseball,Carolina League (A),Salem RidgeYaks,Salem,Virginia,USA
+Baseball,Carolina League (A),Wilson Warbirds,Wilson,North Carolina,USA
+Baseball,Florida State League (A),Bradenton Marauders,Bradenton,Florida,USA
+Baseball,Florida State League (A),Clearwater Threshers,Clearwater,Florida,USA
+Baseball,Florida State League (A),Daytona Tortugas,Daytona Beach,Florida,USA
+Baseball,Florida State League (A),Dunedin Blue Jays,Dunedin,Florida,USA
+Baseball,Florida State League (A),Fort Myers Mighty Mussels,Fort Myers,Florida,USA
+Baseball,Florida State League (A),Jupiter Hammerheads,Jupiter,Florida,USA
+Baseball,Florida State League (A),Lakeland Flying Tigers,Lakeland,Florida,USA
+Baseball,Florida State League (A),Palm Beach Cardinals,Jupiter,Florida,USA
+Baseball,Florida State League (A),St. Lucie Mets,Port St. Lucie,Florida,USA
+Baseball,Florida State League (A),Tampa Tarpons,Tampa,Florida,USA
+Baseball,California League (A),Fresno Grizzlies,Fresno,California,USA
+Baseball,California League (A),Inland Empire 66ers,San Bernardino,California,USA
+Baseball,California League (A),Lake Elsinore Storm,Lake Elsinore,California,USA
+Baseball,California League (A),Ontario Tower Buzzers,Ontario,California,USA
+Baseball,California League (A),Rancho Cucamonga Quakes,Rancho Cucamonga,California,USA
+Baseball,California League (A),San Jose Giants,San Jose,California,USA
+Baseball,California League (A),Stockton Ports,Stockton,California,USA
+Baseball,California League (A),Visalia Rawhide,Visalia,California,USA
+Baseball,American Association of Professional Baseball (IND),Chicago Dogs,Rosemont,Illinois,USA
+Baseball,American Association of Professional Baseball (IND),Cleburne Railroaders,Cleburne,Texas,USA
+Baseball,American Association of Professional Baseball (IND),Fargo-Moorhead RedHawks,Fargo,North Dakota,USA
+Baseball,American Association of Professional Baseball (IND),Gary SouthShore RailCats,Gary,Indiana,USA
+Baseball,American Association of Professional Baseball (IND),Kane County Cougars,Geneva,Illinois,USA
+Baseball,American Association of Professional Baseball (IND),Kansas City Monarchs,Kansas City,Kansas,USA
+Baseball,American Association of Professional Baseball (IND),Lake Country DockHounds,Oconomowoc,Wisconsin,USA
+Baseball,American Association of Professional Baseball (IND),Lincoln Saltdogs,Lincoln,Nebraska,USA
+Baseball,American Association of Professional Baseball (IND),Milwaukee Milkmen,Franklin,Wisconsin,USA
+Baseball,American Association of Professional Baseball (IND),Sioux City Explorers,Sioux City,Iowa,USA
+Baseball,American Association of Professional Baseball (IND),Sioux Falls Canaries,Sioux Falls,South Dakota,USA
+Baseball,American Association of Professional Baseball (IND),Winnipeg Goldeyes,Winnipeg,Manitoba,Canada
+Baseball,Atlantic League of Professional Baseball (IND),Charleston Dirty Birds,Charleston,West Virginia,USA
+Baseball,Atlantic League of Professional Baseball (IND),Gastonia Ghost Peppers,Gastonia,North Carolina,USA
+Baseball,Atlantic League of Professional Baseball (IND),Hagerstown Flying Boxcars,Hagerstown,Maryland,USA
+Baseball,Atlantic League of Professional Baseball (IND),High Point Rockers,High Point,North Carolina,USA
+Baseball,Atlantic League of Professional Baseball (IND),Lancaster Stormers,Lancaster,Pennsylvania,USA
+Baseball,Atlantic League of Professional Baseball (IND),Lexington Legends,Lexington,Kentucky,USA
+Baseball,Atlantic League of Professional Baseball (IND),Long Island Ducks,Central Islip,New York,USA
+Baseball,Atlantic League of Professional Baseball (IND),Southern Maryland Blue Crabs,Waldorf,Maryland,USA
+Baseball,Atlantic League of Professional Baseball (IND),Staten Island FerryHawks,Staten Island,New York,USA
+Baseball,Atlantic League of Professional Baseball (IND),York Revolution,York,Pennsylvania,USA
+Baseball,Frontier League (IND),Brockton Rox,Brockton,Massachusetts,USA
+Baseball,Frontier League (IND),Down East Bird Dawgs,Kinston,North Carolina,USA
+Baseball,Frontier League (IND),Evansville Otters,Evansville,Indiana,USA
+Baseball,Frontier League (IND),Florence Y'alls,Florence,Kentucky,USA
+Baseball,Frontier League (IND),Gateway Grizzlies,Sauget,Illinois,USA
+Baseball,Frontier League (IND),Joliet Slammers,Joliet,Illinois,USA
+Baseball,Frontier League (IND),Lake Erie Crushers,Avon,Ohio,USA
+Baseball,Frontier League (IND),Mississippi Mud Monsters,Pearl,Mississippi,USA
+Baseball,Frontier League (IND),New Jersey Jackals,Paterson,New Jersey,USA
+Baseball,Frontier League (IND),New York Boulders,Pomona,New York,USA
+Baseball,Frontier League (IND),Ottawa Titans,Ottawa,Ontario,Canada
+Baseball,Frontier League (IND),Quebec Capitales,Quebec City,Quebec,Canada
+Baseball,Frontier League (IND),Schaumburg Boomers,Schaumburg,Illinois,USA
+Baseball,Frontier League (IND),Sussex County Miners,Augusta,New Jersey,USA
+Baseball,Frontier League (IND),Tri-City ValleyCats,Troy,New York,USA
+Baseball,Frontier League (IND),Trois-Rivieres Aigles,Trois-Rivieres,Quebec,Canada
+Baseball,Frontier League (IND),Washington Wild Things,Washington,Pennsylvania,USA
+Baseball,Frontier League (IND),Windy City ThunderBolts,Crestwood,Illinois,USA
+Baseball,Pioneer League (IND),Billings Mustangs,Billings,Montana,USA
+Baseball,Pioneer League (IND),Boise Hawks,Boise,Idaho,USA
+Baseball,Pioneer League (IND),Glacier Range Riders,Kalispell,Montana,USA
+Baseball,Pioneer League (IND),Great Falls Voyagers,Great Falls,Montana,USA
+Baseball,Pioneer League (IND),Idaho Falls Chukars,Idaho Falls,Idaho,USA
+Baseball,Pioneer League (IND),Long Beach Coast,Long Beach,California,USA
+Baseball,Pioneer League (IND),Missoula PaddleHeads,Missoula,Montana,USA
+Baseball,Pioneer League (IND),Modesto Roadsters,Modesto,California,USA
+Baseball,Pioneer League (IND),Oakland Ballers,Oakland,California,USA
+Baseball,Pioneer League (IND),Ogden Raptors,Ogden,Utah,USA
+Baseball,Pioneer League (IND),RedPocket Mobiles,Traveling team,Traveling team,USA
+Baseball,Pioneer League (IND),Yuba-Sutter Freebirds,Marysville,California,USA
+Baseball,Canadian Baseball League (IND),Barrie Baycats,Springwater,Ontario,Canada
+Baseball,Canadian Baseball League (IND),Brantford Red Sox,Brantford,Ontario,Canada
+Baseball,Canadian Baseball League (IND),Chatham-Kent Barnstormers,Chatham-Kent,Ontario,Canada
+Baseball,Canadian Baseball League (IND),Guelph Royals,Guelph,Ontario,Canada
+Baseball,Canadian Baseball League (IND),Hamilton Cardinals,Hamilton,Ontario,Canada
+Baseball,Canadian Baseball League (IND),Kitchener Panthers,Kitchener,Ontario,Canada
+Baseball,Canadian Baseball League (IND),London Majors,London,Ontario,Canada
+Baseball,Canadian Baseball League (IND),Toronto Maple Leafs,Toronto,Ontario,Canada
+Baseball,Canadian Baseball League (IND),Welland Jackfish,Welland,Ontario,Canada
+Baseball,Empire Professional Baseball League (IND),Malone Border Hounds,Malone,New York,USA
+Baseball,Empire Professional Baseball League (IND),North Country Thunderbirds,Plattsburgh,New York,USA
+Baseball,Empire Professional Baseball League (IND),Saranac Lake Surge,Saranac Lake,New York,USA
+Baseball,Empire Professional Baseball League (IND),Tupper Lake Riverpigs,Tupper Lake,New York,USA
+Baseball,Pecos League (IND),Alpine Cowboys,Alpine,Texas,USA
+Baseball,Pecos League (IND),Austin Weirdos,Austin,Texas,USA
+Baseball,Pecos League (IND),Bakersfield Train Robbers,Bakersfield,California,USA
+Baseball,Pecos League (IND),Blackwell FlyCatchers,Blackwell,Oklahoma,USA
+Baseball,Pecos League (IND),Dublin Leprechauns,Dublin,California,USA
+Baseball,Pecos League (IND),Garden City Wind,Garden City,Kansas,USA
+Baseball,Pecos League (IND),Martinez Sturgeon,Martinez,California,USA
+Baseball,Pecos League (IND),Marysville Drakes,Marysville,California,USA
+Baseball,Pecos League (IND),North Platte 80s,North Platte,Nebraska,USA
+Baseball,Pecos League (IND),Pecos Bills,Pecos,Texas,USA
+Baseball,Pecos League (IND),Roswell Invaders,Roswell,New Mexico,USA
+Baseball,Pecos League (IND),San Rafael Pacifics,San Rafael,California,USA
+Baseball,Pecos League (IND),Santa Fe Fuego,Santa Fe,New Mexico,USA
+Baseball,Pecos League (IND),Trinidad Triggers,Trinidad,Colorado,USA
+Baseball,Pecos League (IND),Tucson Saguaros,Tucson,Arizona,USA
+Baseball,Pecos League (IND),Vallejo Seaweed,Vallejo,California,USA
+Hockey,National Hockey League,Boston Bruins,Boston,Massachusetts,USA
+Hockey,National Hockey League,Buffalo Sabres,Buffalo,New York,USA
+Hockey,National Hockey League,Detroit Red Wings,Detroit,Michigan,USA
+Hockey,National Hockey League,Florida Panthers,Sunrise,Florida,USA
+Hockey,National Hockey League,Montreal Canadiens,Montreal,Quebec,Canada
+Hockey,National Hockey League,Ottawa Senators,Ottawa,Ontario,Canada
+Hockey,National Hockey League,Tampa Bay Lightning,Tampa,Florida,USA
+Hockey,National Hockey League,Toronto Maple Leafs,Toronto,Ontario,Canada
+Hockey,National Hockey League,Carolina Hurricanes,Raleigh,North Carolina,USA
+Hockey,National Hockey League,Columbus Blue Jackets,Columbus,Ohio,USA
+Hockey,National Hockey League,New Jersey Devils,Newark,New Jersey,USA
+Hockey,National Hockey League,New York Islanders,Elmont,New York,USA
+Hockey,National Hockey League,New York Rangers,New York,New York,USA
+Hockey,National Hockey League,Philadelphia Flyers,Philadelphia,Pennsylvania,USA
+Hockey,National Hockey League,Pittsburgh Penguins,Pittsburgh,Pennsylvania,USA
+Hockey,National Hockey League,Washington Capitals,Washington,D.C.,USA
+Hockey,National Hockey League,Chicago Blackhawks,Chicago,Illinois,USA
+Hockey,National Hockey League,Colorado Avalanche,Denver,Colorado,USA
+Hockey,National Hockey League,Dallas Stars,Dallas,Texas,USA
+Hockey,National Hockey League,Minnesota Wild,Saint Paul,Minnesota,USA
+Hockey,National Hockey League,Nashville Predators,Nashville,Tennessee,USA
+Hockey,National Hockey League,St. Louis Blues,St. Louis,Missouri,USA
+Hockey,National Hockey League,Utah Mammoth,Salt Lake City,Utah,USA
+Hockey,National Hockey League,Winnipeg Jets,Winnipeg,Manitoba,Canada
+Hockey,National Hockey League,Anaheim Ducks,Anaheim,California,USA
+Hockey,National Hockey League,Calgary Flames,Calgary,Alberta,Canada
+Hockey,National Hockey League,Edmonton Oilers,Edmonton,Alberta,Canada
+Hockey,National Hockey League,Los Angeles Kings,Los Angeles,California,USA
+Hockey,National Hockey League,San Jose Sharks,San Jose,California,USA
+Hockey,National Hockey League,Seattle Kraken,Seattle,Washington,USA
+Hockey,National Hockey League,Vancouver Canucks,Vancouver,British Columbia,Canada
+Hockey,National Hockey League,Vegas Golden Knights,Paradise,Nevada,USA
+Hockey,American Hockey League (AAA),Charlotte Checkers,Charlotte,North Carolina,USA
+Hockey,American Hockey League (AAA),Hartford Wolf Pack,Hartford,Connecticut,USA
+Hockey,American Hockey League (AAA),Hershey Bears,Hershey,Pennsylvania,USA
+Hockey,American Hockey League (AAA),Lehigh Valley Phantoms,Allentown,Pennsylvania,USA
+Hockey,American Hockey League (AAA),Providence Bruins,Providence,Rhode Island,USA
+Hockey,American Hockey League (AAA),Springfield Thunderbirds,Springfield,Massachusetts,USA
+Hockey,American Hockey League (AAA),Wilkes-Barre/Scranton Penguins,Wilkes-Barre Township,Pennsylvania,USA
+Hockey,American Hockey League (AAA),Belleville Senators,Belleville,Ontario,Canada
+Hockey,American Hockey League (AAA),Cleveland Monsters,Cleveland,Ohio,USA
+Hockey,American Hockey League (AAA),Hamilton Hammers,Hamilton,Ontario,Canada
+Hockey,American Hockey League (AAA),Laval Rocket,Laval,Quebec,Canada
+Hockey,American Hockey League (AAA),Rochester Americans,Rochester,New York,USA
+Hockey,American Hockey League (AAA),Syracuse Crunch,Syracuse,New York,USA
+Hockey,American Hockey League (AAA),Toronto Marlies,Toronto,Ontario,Canada
+Hockey,American Hockey League (AAA),Utica Comets,Utica,New York,USA
+Hockey,American Hockey League (AAA),Chicago Wolves,Rosemont,Illinois,USA
+Hockey,American Hockey League (AAA),Grand Rapids Griffins,Grand Rapids,Michigan,USA
+Hockey,American Hockey League (AAA),Iowa Wild,Des Moines,Iowa,USA
+Hockey,American Hockey League (AAA),Manitoba Moose,Winnipeg,Manitoba,Canada
+Hockey,American Hockey League (AAA),Milwaukee Admirals,Milwaukee,Wisconsin,USA
+Hockey,American Hockey League (AAA),Rockford IceHogs,Rockford,Illinois,USA
+Hockey,American Hockey League (AAA),Texas Stars,Cedar Park,Texas,USA
+Hockey,American Hockey League (AAA),Abbotsford Canucks,Abbotsford,British Columbia,Canada
+Hockey,American Hockey League (AAA),Bakersfield Condors,Bakersfield,California,USA
+Hockey,American Hockey League (AAA),Calgary Wranglers,Calgary,Alberta,Canada
+Hockey,American Hockey League (AAA),Coachella Valley Firebirds,Thousand Palms,California,USA
+Hockey,American Hockey League (AAA),Colorado Eagles,Loveland,Colorado,USA
+Hockey,American Hockey League (AAA),Henderson Silver Knights,Henderson,Nevada,USA
+Hockey,American Hockey League (AAA),Ontario Reign,Ontario,California,USA
+Hockey,American Hockey League (AAA),San Diego Gulls,San Diego,California,USA
+Hockey,American Hockey League (AAA),San Jose Barracuda,San Jose,California,USA
+Hockey,American Hockey League (AAA),Tucson Roadrunners,Tucson,Arizona,USA
+Hockey,ECHL (AA),Adirondack Thunder,Glens Falls,New York,USA
+Hockey,ECHL (AA),Greensboro Gargoyles,Greensboro,North Carolina,USA
+Hockey,ECHL (AA),Maine Mariners,Portland,Maine,USA
+Hockey,ECHL (AA),Norfolk Admirals,Norfolk,Virginia,USA
+Hockey,ECHL (AA),Reading Royals,Reading,Pennsylvania,USA
+Hockey,ECHL (AA),Trois-Rivières Lions,Trois-Rivières,Quebec,Canada
+Hockey,ECHL (AA),Wheeling Nailers,Wheeling,West Virginia,USA
+Hockey,ECHL (AA),Worcester Railers,Worcester,Massachusetts,USA
+Hockey,ECHL (AA),Atlanta Gladiators,Duluth,Georgia,USA
+Hockey,ECHL (AA),Florida Everblades,Estero,Florida,USA
+Hockey,ECHL (AA),Greenville Swamp Rabbits,Greenville,South Carolina,USA
+Hockey,ECHL (AA),Jacksonville Icemen,Jacksonville,Florida,USA
+Hockey,ECHL (AA),Orlando Solar Bears,Orlando,Florida,USA
+Hockey,ECHL (AA),Savannah Ghost Pirates,Savannah,Georgia,USA
+Hockey,ECHL (AA),South Carolina Stingrays,North Charleston,South Carolina,USA
+Hockey,ECHL (AA),Bloomington Bison,Bloomington,Illinois,USA
+Hockey,ECHL (AA),Cincinnati Cyclones,Cincinnati,Ohio,USA
+Hockey,ECHL (AA),Fort Wayne Komets,Fort Wayne,Indiana,USA
+Hockey,ECHL (AA),Indy Fuel,Fishers,Indiana,USA
+Hockey,ECHL (AA),Kalamazoo Wings,Kalamazoo,Michigan,USA
+Hockey,ECHL (AA),Toledo Walleye,Toledo,Ohio,USA
+Hockey,ECHL (AA),Allen Americans,Allen,Texas,USA
+Hockey,ECHL (AA),Idaho Steelheads,Boise,Idaho,USA
+Hockey,ECHL (AA),Kansas City Mavericks,Independence,Missouri,USA
+Hockey,ECHL (AA),Rapid City Rush,Rapid City,South Dakota,USA
+Hockey,ECHL (AA),Tahoe Knight Monsters,Stateline,Nevada,USA
+Hockey,ECHL (AA),Tulsa Oilers,Tulsa,Oklahoma,USA
+Hockey,ECHL (AA),Wichita Thunder,Wichita,Kansas,USA
+Hockey,ECHL (AA),New Mexico Goatheads,Rio Rancho,New Mexico,USA
+Hockey,ECHL (AA),Trenton Ironhawks,Trenton,New Jersey,USA
+Hockey,ECHL (AA),Augusta Lynx,Augusta,Georgia,USA
+Hockey,SPHL (A),Athens Rock Lobsters,Athens,Georgia,USA
+Hockey,SPHL (A),Birmingham Bulls,Pelham,Alabama,USA
+Hockey,SPHL (A),Evansville Thunderbolts,Evansville,Indiana,USA
+Hockey,SPHL (A),Fayetteville Marksmen,Fayetteville,North Carolina,USA
+Hockey,SPHL (A),Huntsville Havoc,Huntsville,Alabama,USA
+Hockey,SPHL (A),Knoxville Ice Bears,Knoxville,Tennessee,USA
+Hockey,SPHL (A),Macon Mayhem,Macon,Georgia,USA
+Hockey,SPHL (A),Pee Dee IceCats,Florence,South Carolina,USA
+Hockey,SPHL (A),Pensacola Ice Flyers,Pensacola,Florida,USA
+Hockey,SPHL (A),Peoria Rivermen,Peoria,Illinois,USA
+Hockey,SPHL (A),Quad City Storm,Moline,Illinois,USA
+Hockey,SPHL (A),Roanoke Rail Yard Dawgs,Roanoke,Virginia,USA
+Hockey,SPHL (A),Mobile Pro Hockey Club,Mobile,Alabama,USA
+Hockey,Federal Prospects Hockey League (A),Columbus River Dragons,Columbus,Georgia,USA
+Hockey,Federal Prospects Hockey League (A),Monroe Moccasins,Monroe,Louisiana,USA
+Hockey,Federal Prospects Hockey League (A),Twin City Thunderbirds,Winston-Salem,North Carolina,USA
+Hockey,Federal Prospects Hockey League (A),Binghamton Black Bears,Binghamton,New York,USA
+Hockey,Federal Prospects Hockey League (A),Blue Ridge Bobcats,Wytheville,Virginia,USA
+Hockey,Federal Prospects Hockey League (A),Danbury Hat Tricks,Danbury,Connecticut,USA
+Hockey,Federal Prospects Hockey League (A),Indiana Sentinels,Columbus,Indiana,USA
+Hockey,Federal Prospects Hockey League (A),Port Huron Prowlers,Port Huron,Michigan,USA
+Hockey,Federal Prospects Hockey League (A),Topeka Scarecrows,Topeka,Kansas,USA
+Hockey,Federal Prospects Hockey League (A),Watertown Wolves,Watertown,New York,USA
+Hockey,Federal Prospects Hockey League (A),Baton Rouge FPHL Team,Baton Rouge,Louisiana,USA
+Hockey,Federal Prospects Hockey League (A),Fresno Falcons,Fresno,California,USA
+Hockey,Federal Prospects Hockey League (A),Mid-South Monarchs,Southaven,Mississippi,USA
+Hockey,Federal Prospects Hockey League (A),Minnesota Northern Lights,Thief River Falls,Minnesota,USA
+Hockey,Federal Prospects Hockey League (A),Motor City Rockers,Wyandotte,Michigan,USA
+Hockey,Federal Prospects Hockey League (A),San Diego FPHL team,Oceanside,California,USA
+Hockey,Federal Prospects Hockey League (A),Stockton Thunder,Stockton,California,USA
+Hockey,Ontario Hockey League (Maj),Brantford Bulldogs,Brantford,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Kingston Frontenacs,Kingston,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Oshawa Generals,Oshawa,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Ottawa 67's,Ottawa,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Peterborough Petes,Peterborough,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Barrie Colts,Barrie,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Brampton Steelheads,Brampton,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Niagara IceDogs,St. Catharines,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),North Bay Battalion,North Bay,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Sudbury Wolves,Greater Sudbury,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Erie Otters,Erie,Pennsylvania,USA
+Hockey,Ontario Hockey League (Maj),Guelph Storm,Guelph,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Kitchener Rangers,Kitchener,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),London Knights,London,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Owen Sound Attack,Owen Sound,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Flint Firebirds,Flint,Michigan,USA
+Hockey,Ontario Hockey League (Maj),Saginaw Spirit,Saginaw,Michigan,USA
+Hockey,Ontario Hockey League (Maj),Sarnia Sting,Sarnia,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Sault Ste. Marie Greyhounds,Sault Ste. Marie,Ontario,Canada
+Hockey,Ontario Hockey League (Maj),Windsor Spitfires,Windsor,Ontario,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Baie-Comeau Drakkar,Baie-Comeau,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Chicoutimi Saguenéens,Saguenay,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Quebec Remparts,Quebec City,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Rimouski Océanic,Rimouski,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Cape Breton Eagles,Cape Breton Regional Municipality,Nova Scotia,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Charlottetown Islanders,Charlottetown,Prince Edward Island,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Halifax Mooseheads,Halifax,Nova Scotia,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Moncton Wildcats,Moncton,New Brunswick,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Newfoundland Regiment,St. John's,Newfoundland and Labrador,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Saint John Sea Dogs,Saint John,New Brunswick,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Blainville-Boisbriand Armada,Boisbriand,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Gatineau Olympiques,Gatineau,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Rouyn-Noranda Huskies,Rouyn-Noranda,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Val-d'Or Foreurs,Val-d'Or,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Drummondville Voltigeurs,Drummondville,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Shawinigan Cataractes,Shawinigan,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Sherbrooke Phoenix,Sherbrooke,Quebec,Canada
+Hockey,Quebec Maritimes Junior Hockey League (Maj),Victoriaville Tigres,Victoriaville,Quebec,Canada
+Hockey,Western Hockey League (Maj),Calgary Hitmen,Calgary,Alberta,Canada
+Hockey,Western Hockey League (Maj),Edmonton Oil Kings,Edmonton,Alberta,Canada
+Hockey,Western Hockey League (Maj),Lethbridge Hurricanes,Lethbridge,Alberta,Canada
+Hockey,Western Hockey League (Maj),Medicine Hat Tigers,Medicine Hat,Alberta,Canada
+Hockey,Western Hockey League (Maj),Red Deer Rebels,Red Deer,Alberta,Canada
+Hockey,Western Hockey League (Maj),Brandon Wheat Kings,Brandon,Manitoba,Canada
+Hockey,Western Hockey League (Maj),Moose Jaw Warriors,Moose Jaw,Saskatchewan,Canada
+Hockey,Western Hockey League (Maj),Prince Albert Raiders,Prince Albert,Saskatchewan,Canada
+Hockey,Western Hockey League (Maj),Regina Pats,Regina,Saskatchewan,Canada
+Hockey,Western Hockey League (Maj),Saskatoon Blades,Saskatoon,Saskatchewan,Canada
+Hockey,Western Hockey League (Maj),Swift Current Broncos,Swift Current,Saskatchewan,Canada
+Hockey,Western Hockey League (Maj),Kamloops Blazers,Kamloops,British Columbia,Canada
+Hockey,Western Hockey League (Maj),Kelowna Rockets,Kelowna,British Columbia,Canada
+Hockey,Western Hockey League (Maj),Penticton Vees,Penticton,British Columbia,Canada
+Hockey,Western Hockey League (Maj),Prince George Cougars,Prince George,British Columbia,Canada
+Hockey,Western Hockey League (Maj),Vancouver Giants,Langley,British Columbia,Canada
+Hockey,Western Hockey League (Maj),Victoria Royals,Victoria,British Columbia,Canada
+Hockey,Western Hockey League (Maj),Everett Silvertips,Everett,Washington,USA
+Hockey,Western Hockey League (Maj),Portland Winterhawks,Portland,Oregon,USA
+Hockey,Western Hockey League (Maj),Seattle Thunderbirds,Kent,Washington,USA
+Hockey,Western Hockey League (Maj),Spokane Chiefs,Spokane,Washington,USA
+Hockey,Western Hockey League (Maj),Tri-City Americans,Kennewick,Washington,USA
+Hockey,Western Hockey League (Maj),Wenatchee Wild,Wenatchee,Washington,USA
+Hockey,Alberta Junior Hockey League (Junior A),Bonnyville Pontiacs,Bonnyville,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Devon Xtreme,Devon,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Fort McMurray Oil Barons,Fort McMurray,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Grande Prairie Storm,Grande Prairie,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Lloydminster Bobcats,Lloydminster,Saskatchewan,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Whitecourt Wolverines,Whitecourt,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Calgary Canucks,Calgary,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Camrose Kodiaks,Camrose,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Canmore Eagles,Canmore,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Drayton Valley Thunder,Drayton Valley,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Drumheller Dragons,Drumheller,Alberta,Canada
+Hockey,Alberta Junior Hockey League (Junior A),Olds Grizzlys,Olds,Alberta,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Kamloops Storm,Kamloops,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Merritt Centennials,Merritt,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Princeton Posse,Princeton,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Quesnel River Rush,Quesnel,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Revelstoke Grizzlies,Revelstoke,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Summerland Jets,Summerland,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Williams Lake Mustangs,Williams Lake,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Beaver Valley Nitehawks,Fruitvale,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Columbia Valley Rockies,Invermere,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Fernie Ghostriders,Fernie,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Grand Forks Border Bruins,Grand Forks,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Kimberley Dynamiters,Kimberley,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Nelson Leafs,Nelson,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Osoyoos Coyotes,Osoyoos,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Burnaby Steelers,Burnaby,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Chilliwack Jets,Chilliwack,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Coastal Tsunami,Gibsons,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Delta Ice Hawks,Delta,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Langley Trappers,Langley,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Port Coquitlam Trailblazers,Port Coquitlam,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Richmond Sockeyes,Richmond,British Columbia,Canada
+Hockey,British Columbia Hockey Conference (Junior A),Ridge Meadows Flames,Maple Ridge,British Columbia,Canada
+Hockey,Central Canada Hockey League (Junior A),Brockville Braves,Brockville,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Carleton Place Canadians,Carleton Place,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Kemptville 73's,Kemptville,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Pembroke Lumber Kings,Pembroke,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Renfrew Wolves,Renfrew,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Smiths Falls Bears,Smiths Falls,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Cornwall Colts,Cornwall,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Hawkesbury Hawks,Hawkesbury,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Navan Grads,Ottawa,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Nepean Raiders,Ottawa,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Ottawa Jr. Senators,Ottawa,Ontario,Canada
+Hockey,Central Canada Hockey League (Junior A),Rockland Nationals,Clarence-Rockland,Ontario,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Niverville Nighthawks,Niverville,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Portage Terriers,Portage la Prairie,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Selkirk Steelers,Selkirk,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Steinbach Pistons,Steinbach,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Winkler Flyers,Winkler,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Winnipeg Blues,Winnipeg,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Winnipeg Monarchs,Winnipeg,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Dauphin Kings,Dauphin,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Neepawa Titans,Neepawa,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Northern Manitoba Blizzard,The Pas,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Swan Valley Stampeders,Swan River,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Virden Oil Capitals,Virden,Manitoba,Canada
+Hockey,Manitoba Junior Hockey League (Junior A),Waywayseecappo Wolverines,Waywayseecappo,Manitoba,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Campbellton Tigers,Campbellton,New Brunswick,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Edmundston Blizzard,Edmundston,New Brunswick,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Chaleur Lightning,Bathurst,New Brunswick,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Grand Falls Rapids,Grand Falls,New Brunswick,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Miramichi Timberwolves,Miramichi,New Brunswick,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),West Kent Steamers,Bouctouche,New Brunswick,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Amherst Ramblers,Amherst,Nova Scotia,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Pictou County Crushers,New Glasgow,Nova Scotia,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Summerside Western Capitals,Summerside,Prince Edward Island,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Truro Bearcats,Truro,Nova Scotia,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Valley Wildcats,Berwick,Nova Scotia,Canada
+Hockey,Maritime Junior A Hockey League (Junior A),Yarmouth Mariners,Yarmouth,Nova Scotia,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Blind River Beavers,Blind River,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Elliot Lake Vikings,Elliot Lake,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Espanola Paper Kings,Espanola,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),French River Rapids,Noelville,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Greater Sudbury Cubs,Sudbury,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Hearst Lumberjacks,Hearst,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Iroquois Falls Storm,Iroquois Falls,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Kirkland Lake Gold Miners,Kirkland Lake,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Powassan Voodoos,Powassan,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Soo Eagles,Sault Ste. Marie,Michigan,USA
+Hockey,Northern Ontario Junior Hockey League (Junior A),Soo Thunderbirds,Sault Ste. Marie,Ontario,Canada
+Hockey,Northern Ontario Junior Hockey League (Junior A),Timmins Rock,Timmins,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Aurora Tigers,Aurora,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Cobourg Cougars,Cobourg,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Haliburton County Huskies,Haliburton,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Lindsay Muskies,Lindsay,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Markham Royals,Markham,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Newmarket Hurricanes,Newmarket,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),North York Rangers,Toronto,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Pickering Panthers,Pickering,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),St. Michael's Buzzers,Toronto,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Stouffville Spirit,Stouffville,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Trenton Golden Hawks,Trenton,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Wellington Dukes,Wellington,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Buffalo Jr. Sabres,Buffalo,New York,USA
+Hockey,Ontario Junior Hockey League (Junior A),Burlington Cougars,Burlington,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Caledon Admirals,Caledon,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Collingwood Blues,Collingwood,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Georgetown Raiders,Georgetown,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),King Rebellion,King Township,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Leamington Flyers,Leamington,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Milton Menace,Milton,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Mississauga Chargers,Mississauga,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Niagara Falls Canucks,Niagara Falls,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Oakville Blades,Oakville,Ontario,Canada
+Hockey,Ontario Junior Hockey League (Junior A),Toronto Patriots,Toronto,Ontario,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Beauce-Appalaches Condors,Saint-Georges,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Côte-du-Sud Everest,Montmagny,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Gatineau Flames,Gatineau,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Granby Indigo,Granby,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Joliette Prédateurs,Joliette,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Laval Prime,Laval,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Longueuil Collège Français,Longueuil,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Montreal Rangers,Montréal,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Montreal Phoenix,Montréal,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Princeville Titan,Princeville,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),St-Jérôme Panthères,Saint-Jérôme,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Terrebonne Cobras,Terrebonne,Quebec,Canada
+Hockey,Quebec Junior Hockey League (Junior A),Valleyfield Braves,Salaberry-de-Valleyfield,Quebec,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Estevan Bruins,Estevan,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Melville Millionaires,Melville,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Weyburn Red Wings,Weyburn,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Yorkton Terriers,Yorkton,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Battlefords North Stars,North Battleford,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Humboldt Broncos,Humboldt,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Kindersley Klippers,Kindersley,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Warman Wolverines,Warman,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Flin Flon Bombers,Flin Flon,Manitoba,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),La Ronge Ice Wolves,La Ronge,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Melfort Mustangs,Melfort,Saskatchewan,Canada
+Hockey,Saskatchewan Junior Hockey League (Junior A),Nipawin Hawks,Nipawin,Saskatchewan,Canada
+Hockey,Superior International Junior Hockey League (Junior A),Dryden Ice Dogs,Dryden,Ontario,Canada
+Hockey,Superior International Junior Hockey League (Junior A),Fort Frances Lakers,Fort Frances,Ontario,Canada
+Hockey,Superior International Junior Hockey League (Junior A),Ironwood Lumberjacks,Ironwood,Michigan,USA
+Hockey,Superior International Junior Hockey League (Junior A),Kam River Fighting Walleye,Oliver Paipoonge,Ontario,Canada
+Hockey,Superior International Junior Hockey League (Junior A),Red Lake Miners,Red Lake,Ontario,Canada
+Hockey,Superior International Junior Hockey League (Junior A),Sioux Lookout Bombers,Sioux Lookout,Ontario,Canada
+Hockey,Superior International Junior Hockey League (Junior A),Thunder Bay North Stars,Thunder Bay,Ontario,Canada
+Hockey,Calgary Junior Hockey League (Junior B),Several,Calgary,Alberta,Canada
+Hockey,Capital Junior Hockey League (Junior B),Several,Edmonton,Alberta,Canada
+Hockey,Capital Region Junior Hockey League (Junior B),Several,Winnipeg,Manitoba,Canada
+Hockey,Eastern Ontario Junior Hockey League (Junior B),Several,Eastern Ontario,Ontario,Canada
+Hockey,Greater Ontario Hockey League (Junior B),Several,Southern Ontario,Ontario,Canada
+Hockey,Heritage Junior Hockey League (Junior B),Several,Southern Alberta,Alberta,Canada
+Hockey,Island Junior Hockey League (Junior B),Several,Prince Edward Island,Prince Edward Island,Canada
+Hockey,Keystone Junior Hockey League (Junior B),Several,Northern Manitoba,Manitoba,Canada
+Hockey,Lakehead Junior Hockey League (Junior B),Several,Northwestern Ontario,Ontario,Canada
+Hockey,Capitale Junior AA Hockey League (Junior B),Several,Quebec City,Quebec,Canada
+Hockey,Chaudiere-Appalaches Junior AA Hockey League (Junior B),Several,Chaudiere-Appalaches,Quebec,Canada
+Hockey,Estrie-Mauricie Junior AA Hockey League (Junior B),Several,Estrie-Mauricie,Quebec,Canada
+Hockey,Laurentides-Lanaudière Junior AA Hockey League (Junior B),Several,Laurentides-Lanaudière,Quebec,Canada
+Hockey,Métropolitaine Junior AA Hockey League (Junior B),Several,Montréal,Quebec,Canada
+Hockey,Saguenay-Lac-St-Jean Junior AA Hockey League (Junior B),Several,Saguenay-Lac-St-Jean,Quebec,Canada
+Hockey,New Brunswick Junior Hockey League (Junior B),Several,New Brunswick,New Brunswick,Canada
+Hockey,North Eastern Alberta Junior B Hockey League (Junior B),Several,Northeast Alberta,Alberta,Canada
+Hockey,North West Junior Hockey League (Junior B),Several,Peace River Region,BC/Alberta,Canada
+Hockey,Nova Scotia Junior Hockey League (Junior B),Several,Nova Scotia,Nova Scotia,Canada
+Hockey,Prairie Junior Hockey League (Junior B),Several,Saskatchewan,Saskatchewan,Canada
+Hockey,St. John's Junior Hockey League (Junior B),Several,St. John's,Newfoundland and Labrador,Canada
+Hockey,USHL (Tier I),Cedar Rapids RoughRiders,Cedar Rapids,Iowa,USA
+Hockey,USHL (Tier I),Chicago Steel,Geneva,Illinois,USA
+Hockey,USHL (Tier I),Dubuque Fighting Saints,Dubuque,Iowa,USA
+Hockey,USHL (Tier I),Green Bay Gamblers,Ashwaubenon,Wisconsin,USA
+Hockey,USHL (Tier I),Madison Capitols,Middleton,Wisconsin,USA
+Hockey,USHL (Tier I),Muskegon Lumberjacks,Muskegon,Michigan,USA
+Hockey,USHL (Tier I),USA Hockey NTDP,Plymouth,Michigan,USA
+Hockey,USHL (Tier I),Youngstown Phantoms,Youngstown,Ohio,USA
+Hockey,USHL (Tier I),Des Moines Buccaneers,West Des Moines,Iowa,USA
+Hockey,USHL (Tier I),Fargo Force,Fargo,North Dakota,USA
+Hockey,USHL (Tier I),Lincoln Stars,Lincoln,Nebraska,USA
+Hockey,USHL (Tier I),Omaha Lancers,Ralston,Nebraska,USA
+Hockey,USHL (Tier I),Sioux City Musketeers,Sioux City,Iowa,USA
+Hockey,USHL (Tier I),Sioux Falls Stampede,Sioux Falls,South Dakota,USA
+Hockey,USHL (Tier I),Tri-City Storm,Kearney,Nebraska,USA
+Hockey,USHL (Tier I),Waterloo Black Hawks,Waterloo,Iowa,USA
+Hockey,North American Hockey League (Tier II),Aberdeen Wings,Aberdeen,South Dakota,USA
+Hockey,North American Hockey League (Tier II),Austin Bruins,Austin,Minnesota,USA
+Hockey,North American Hockey League (Tier II),Bismarck Bobcats,Bismarck,North Dakota,USA
+Hockey,North American Hockey League (Tier II),Minnesota Mallards,Forest Lake,Minnesota,USA
+Hockey,North American Hockey League (Tier II),Minot Minotauros,Minot,North Dakota,USA
+Hockey,North American Hockey League (Tier II),St. Cloud Norsemen,St. Cloud,Minnesota,USA
+Hockey,North American Hockey League (Tier II),Watertown Shamrocks,Watertown,South Dakota,USA
+Hockey,North American Hockey League (Tier II),Danbury Jr. Hat Tricks,Danbury,Connecticut,USA
+Hockey,North American Hockey League (Tier II),Elmira Aviators,Elmira,New York,USA
+Hockey,North American Hockey League (Tier II),Johnstown Tomahawks,Johnstown,Pennsylvania,USA
+Hockey,North American Hockey League (Tier II),Maryland Black Bears,Odenton,Maryland,USA
+Hockey,North American Hockey League (Tier II),New Hampshire Mountain Kings,Hooksett,New Hampshire,USA
+Hockey,North American Hockey League (Tier II),New Jersey Titans,Middletown Township,New Jersey,USA
+Hockey,North American Hockey League (Tier II),Northeast Generals,Canton,Massachusetts,USA
+Hockey,North American Hockey League (Tier II),Philadelphia Rebels,Washington Township,New Jersey,USA
+Hockey,North American Hockey League (Tier II),Anchorage Wolverines,Anchorage,Alaska,USA
+Hockey,North American Hockey League (Tier II),Fairbanks Ice Dogs,Fairbanks,Alaska,USA
+Hockey,North American Hockey League (Tier II),Janesville Jets,Janesville,Wisconsin,USA
+Hockey,North American Hockey League (Tier II),Kenai River Brown Bears,Soldotna,Alaska,USA
+Hockey,North American Hockey League (Tier II),Minnesota Wilderness,Cloquet,Minnesota,USA
+Hockey,North American Hockey League (Tier II),Springfield Jr. Blues,Springfield,Illinois,USA
+Hockey,North American Hockey League (Tier II),Wisconsin Windigo,Brookfield,Wisconsin,USA
+Hockey,North American Hockey League (Tier II),Amarillo Wranglers,Amarillo,Texas,USA
+Hockey,North American Hockey League (Tier II),Corpus Christi IceRays,Corpus Christi,Texas,USA
+Hockey,North American Hockey League (Tier II),El Paso Rhinos,El Paso,Texas,USA
+Hockey,North American Hockey League (Tier II),Houston Bulls,Richmond,Texas,USA
+Hockey,North American Hockey League (Tier II),Lone Star Brahmas,North Richland Hills,Texas,USA
+Hockey,North American Hockey League (Tier II),New Mexico Ice Wolves,Albuquerque,New Mexico,USA
+Hockey,North American Hockey League (Tier II),Odessa Jackalopes,Odessa,Texas,USA
+Hockey,North American Hockey League (Tier II),Oklahoma Warriors,Oklahoma City,Oklahoma,USA
+Hockey,North American Hockey League (Tier II),Shreveport Mudbugs,Shreveport,Louisiana,USA
+Hockey,North American Hockey League (Tier II),Billings Cattle Punchers,Billings,Montana,USA
+Hockey,North American Hockey League (Tier II),Grand Junction River Hawks,Grand Junction,Colorado,USA
+Hockey,North American Hockey League (Tier II),Idaho Falls Spud Kings,Idaho Falls,Idaho,USA
+Hockey,North American Hockey League (Tier II),Ogden Mustangs,Ogden,Utah,USA
+Hockey,North American Hockey League (Tier II),Pueblo,Pueblo,Colorado,USA
+Hockey,North American 3 Hockey League (Tier III),Peoria Mustangs,Peoria,Illinois,USA
+Hockey,North American 3 Hockey League (Tier III),Rochester Grizzlies,Rochester,Minnesota,USA
+Hockey,North American 3 Hockey League (Tier III),St. Louis Jr. Blues,Affton,Missouri,USA
+Hockey,North American 3 Hockey League (Tier III),Wausau Cyclones,Wausau,Wisconsin,USA
+Hockey,North American 3 Hockey League (Tier III),West Bend Power,West Bend,Wisconsin,USA
+Hockey,North American 3 Hockey League (Tier III),Wisconsin Woodsmen,Tomah,Wisconsin,USA
+Hockey,North American 3 Hockey League (Tier III),Binghamton Buzz,Binghamton,New York,USA
+Hockey,North American 3 Hockey League (Tier III),Long Beach Sharks,Long Beach,New York,USA
+Hockey,North American 3 Hockey League (Tier III),Maine Nordiques,Lewiston,Maine,USA
+Hockey,North American 3 Hockey League (Tier III),New Hampshire Jr. Mountain Kings,Hooksett,New Hampshire,USA
+Hockey,North American 3 Hockey League (Tier III),New Jersey Titans,Middletown Township,New Jersey,USA
+Hockey,North American 3 Hockey League (Tier III),Norwich Sea Captains,Norwich,Connecticut,USA
+Hockey,North American 3 Hockey League (Tier III),Badlands Sabres,Rapid City,South Dakota,USA
+Hockey,North American 3 Hockey League (Tier III),Bozeman Icedogs,Bozeman,Montana,USA
+Hockey,North American 3 Hockey League (Tier III),Butte Irish,Butte,Montana,USA
+Hockey,North American 3 Hockey League (Tier III),Gillette Wild,Gillette,Wyoming,USA
+Hockey,North American 3 Hockey League (Tier III),Great Falls Americans,Great Falls,Montana,USA
+Hockey,North American 3 Hockey League (Tier III),Helena Bighorns,Helena,Montana,USA
+Hockey,North American 3 Hockey League (Tier III),Sheridan Hawks,Sheridan,Wyoming,USA
+Hockey,North American 3 Hockey League (Tier III),Yellowstone Quake,Cody,Wyoming,USA
+Hockey,North American 3 Hockey League (Tier III),Austin Ice Bats,Cedar Park,Texas,USA
+Hockey,North American 3 Hockey League (Tier III),El Paso Rhinos,El Paso,Texas,USA
+Hockey,North American 3 Hockey League (Tier III),New Mexico Ice Wolves,Albuquerque,New Mexico,USA
+Hockey,North American 3 Hockey League (Tier III),Texas Jr. Brahmas,North Richland Hills,Texas,USA
+Hockey,North American 3 Hockey League (Tier III),Tulsa Jr. Oilers,Tulsa,Oklahoma,USA
+Hockey,North American 3 Hockey League (Tier III),West Texas Wranglers,Amarillo,Texas,USA
+Hockey,North American 3 Hockey League (Tier III),Atlanta Capitals,Duluth,Georgia,USA
+Hockey,North American 3 Hockey League (Tier III),Bayou State Rougarou,Monroe,Louisiana,USA
+Hockey,North American 3 Hockey League (Tier III),Carolina Rage,Greer,South Carolina,USA
+Hockey,North American 3 Hockey League (Tier III),Louisiana Drillers,Lafayette,Louisiana,USA
+Hockey,North American 3 Hockey League (Tier III),Pelham Prowlers,Pelham,Alabama,USA
+Hockey,North American 3 Hockey League (Tier III),Texas RoadRunners,College Station,Texas,USA
+Hockey,North American 3 Hockey League (Tier III),Alexandria Blizzard,Alexandria,Minnesota,USA
+Hockey,North American 3 Hockey League (Tier III),Granite City Lumberjacks,Sauk Rapids,Minnesota,USA
+Hockey,North American 3 Hockey League (Tier III),Mason City Toros,Mason City,Iowa,USA
+Hockey,North American 3 Hockey League (Tier III),Minnesota Moose,Blaine,Minnesota,USA
+Hockey,North American 3 Hockey League (Tier III),Minnesota Wilderness,Eveleth,Minnesota,USA
+Hockey,North American 3 Hockey League (Tier III),Willmar WarHawks,Willmar,Minnesota,USA
+Hockey,North American 3 Hockey League (Tier III),Fox Cities Forge,Appleton,Wisconsin,USA
+Hockey,North American 3 Hockey League (Tier III),Garden City Gamblers,Brick Township,New Jersey,USA
+Hockey,North American 3 Hockey League (Tier III),Oklahoma City Warriors,Oklahoma City,Oklahoma,USA
+Hockey,North American 3 Hockey League (Tier III),Phoenix Inferno,Phoenix,Arizona,USA

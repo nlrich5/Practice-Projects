@@ -1,0 +1,626 @@
+City,State/Prov,Country,Soccer,Baseball,Hockey
+Abbotsford,British Columbia,Canada,0,0,1
+Aberdeen,South Dakota,USA,0,0,1
+Affton,Missouri,USA,0,0,1
+Akron,Ohio,USA,0,1,0
+Albuquerque,New Mexico,USA,1,1,2
+Alexandria,Minnesota,USA,0,0,1
+Allen,Texas,USA,0,0,1
+Allentown,Pennsylvania,USA,0,1,1
+Alma,Québec,Canada,1,0,0
+Alpine,Texas,USA,0,1,0
+Altoona,Pennsylvania,USA,0,1,0
+Amarillo,Texas,USA,0,1,2
+Amherst,Nova Scotia,Canada,0,0,1
+Anaheim,California,USA,0,1,1
+Anchorage,Alaska,USA,0,0,1
+Appleton,Wisconsin,USA,0,1,1
+Arlington,Texas,USA,0,1,0
+Asheville,North Carolina,USA,0,1,0
+Ashwaubenon,Wisconsin,USA,0,0,1
+Athens,Georgia,USA,0,0,1
+Atlanta,Georgia,USA,2,0,0
+Augusta,Georgia,USA,0,0,1
+Augusta,New Jersey,USA,0,1,0
+Aurora,Ontario,Canada,0,0,1
+Austin,Minnesota,USA,0,0,1
+Austin,Texas,USA,1,1,0
+Avon,Ohio,USA,0,1,0
+Baie-Comeau,Quebec,Canada,0,0,1
+Bakersfield,California,USA,0,1,1
+Baltimore,Maryland,USA,0,1,0
+Barrie,Ontario,Canada,1,0,1
+Bathurst,New Brunswick,Canada,0,0,1
+Baton Rouge,Louisiana,USA,0,0,1
+Belleville,Ontario,Canada,0,0,1
+Beloit,Wisconsin,USA,0,1,0
+Berwick,Nova Scotia,Canada,0,0,1
+Billings,Montana,USA,0,1,1
+Biloxi,Mississippi,USA,0,1,0
+Binghamton,New York,USA,0,1,2
+Birmingham,Alabama,USA,1,1,0
+Bismarck,North Dakota,USA,0,0,1
+Blackwell,Oklahoma,USA,0,1,0
+Blaine,Minnesota,USA,0,0,1
+Blainville,Québec,Canada,1,0,0
+Blind River,Ontario,Canada,0,0,1
+Bloomington,Illinois,USA,0,0,1
+Bois-des-Filion,Québec,Canada,1,0,0
+Boisbriand,Quebec,Canada,0,0,1
+Boise,Idaho,USA,0,1,1
+Bonnyville,Alberta,Canada,0,0,1
+Boston,Massachusetts,USA,0,1,1
+Boucherville,Québec,Canada,1,0,0
+Bouctouche,New Brunswick,Canada,0,0,1
+Bowie,Maryland,USA,0,1,0
+Bowling Green,Kentucky,USA,0,1,0
+Bozeman,Montana,USA,0,0,1
+Bradenton,Florida,USA,0,1,0
+Brampton,Ontario,Canada,0,0,1
+Brandon,Manitoba,Canada,0,0,1
+Brantford,Ontario,Canada,0,1,1
+Brick Township,New Jersey,USA,0,0,1
+Bridgewater,New Jersey,USA,0,1,0
+Brockton,Massachusetts,USA,0,1,0
+Brockville,Ontario,Canada,0,0,1
+Bronx,New York,USA,1,0,0
+Brookfield,Wisconsin,USA,0,0,1
+Brooklyn,New York,USA,1,1,0
+Brossard,Québec,Canada,1,0,0
+Buffalo,New York,USA,2,1,2
+Burlington,Ontario,Canada,1,0,1
+Burnaby,British Columbia,Canada,3,0,1
+Butte,Montana,USA,0,0,1
+Caledon,Ontario,Canada,0,0,1
+Calgary,Alberta,Canada,8,0,5
+Cambridge,Ontario,Canada,1,0,0
+Campbellton,New Brunswick,Canada,0,0,1
+Camrose,Alberta,Canada,0,0,1
+Canmore,Alberta,Canada,0,0,1
+Canton,Massachusetts,USA,0,0,1
+Cape Breton Regional Municipality,Nova Scotia,Canada,0,0,1
+Carleton Place,Ontario,Canada,0,0,1
+Carson,California,USA,1,0,0
+Cary,North Carolina,USA,1,0,0
+Cedar Park,Texas,USA,0,0,2
+Cedar Rapids,Iowa,USA,0,1,1
+Celina,Texas,USA,1,0,0
+Centennial,Colorado,USA,1,0,0
+Central Islip,New York,USA,0,1,0
+Charleston,South Carolina,USA,0,1,0
+Charleston,West Virginia,USA,0,1,0
+Charlotte,North Carolina,USA,3,1,1
+Charlottetown,Prince Edward Island,Canada,0,0,1
+Chatham-Kent,Ontario,Canada,0,1,0
+Chattanooga,Tennessee,USA,1,1,0
+Chaudiere-Appalaches,Quebec,Canada,0,0,1
+Chester,Pennsylvania,USA,1,0,0
+Chicago,Illinois,USA,1,2,1
+Chilliwack,British Columbia,Canada,0,0,1
+Cincinnati,Ohio,USA,1,1,1
+Clarence-Rockland,Ontario,Canada,0,0,1
+Clearwater,Florida,USA,0,1,0
+Cleburne,Texas,USA,0,1,0
+Cleveland,Ohio,USA,1,1,1
+Cloquet,Minnesota,USA,0,0,1
+Cobourg,Ontario,Canada,0,0,1
+Cody,Wyoming,USA,0,0,1
+College Station,Texas,USA,0,0,1
+Collingwood,Ontario,Canada,0,0,1
+Colorado Springs,Colorado,USA,1,0,0
+Columbia,South Carolina,USA,0,1,0
+Columbus,Georgia,USA,0,1,1
+Columbus,Indiana,USA,0,0,1
+Columbus,Ohio,USA,2,1,1
+Commerce City,Colorado,USA,1,0,0
+Comstock Park,Michigan,USA,0,1,0
+Cornwall,Ontario,Canada,0,0,1
+Corpus Christi,Texas,USA,1,1,1
+Crestwood,Illinois,USA,0,1,0
+Cumberland,Georgia,USA,0,1,0
+Dallas,Texas,USA,2,0,1
+Danbury,Connecticut,USA,0,0,2
+Dauphin,Manitoba,Canada,0,0,1
+Davenport,Iowa,USA,0,1,0
+Dayton,Ohio,USA,0,1,0
+Daytona Beach,Florida,USA,0,1,0
+Delta,British Columbia,Canada,0,0,1
+Denver,Colorado,USA,0,1,1
+Des Moines,Iowa,USA,2,1,1
+Detroit,Michigan,USA,0,1,1
+Devon,Alberta,Canada,0,0,1
+Dollard-des-Ormeaux,Québec,Canada,1,0,0
+Drayton Valley,Alberta,Canada,0,0,1
+Drumheller,Alberta,Canada,0,0,1
+Drummondville,Quebec,Canada,0,0,1
+Dryden,Ontario,Canada,0,0,1
+Dublin,California,USA,0,1,0
+Dubuque,Iowa,USA,0,0,1
+Duluth,Georgia,USA,0,0,2
+Dunedin,Florida,USA,0,1,0
+Durham,North Carolina,USA,0,1,0
+East Ridge,Tennessee,USA,2,0,0
+Eastern Ontario,Ontario,Canada,0,0,1
+Eastlake,Ohio,USA,0,1,0
+Edmonton,Alberta,Canada,1,0,3
+Edmundston,New Brunswick,Canada,0,0,1
+El Paso,Texas,USA,1,1,2
+Elliot Lake,Ontario,Canada,0,0,1
+Elmira,New York,USA,0,0,1
+Elmont,New York,USA,0,0,1
+Erie,Pennsylvania,USA,0,1,1
+Espanola,Ontario,Canada,0,0,1
+Estero,Florida,USA,0,0,1
+Estevan,Saskatchewan,Canada,0,0,1
+Estrie-Mauricie,Quebec,Canada,0,0,1
+Eugene,Oregon,USA,1,1,0
+Evanston,Illinois,USA,1,0,0
+Evansville,Indiana,USA,0,1,1
+Eveleth,Minnesota,USA,0,0,1
+Everett,Washington,USA,0,1,1
+Fairbanks,Alaska,USA,0,0,1
+Fargo,North Dakota,USA,0,1,1
+Fayetteville,North Carolina,USA,0,1,1
+Fernie,British Columbia,Canada,0,0,1
+Fishers,Indiana,USA,0,0,1
+Flin Flon,Manitoba,Canada,0,0,1
+Flint,Michigan,USA,0,0,1
+Florence,Kentucky,USA,0,1,0
+Florence,South Carolina,USA,0,0,1
+Foothills County,Alberta,Canada,1,0,0
+Forest Lake,Minnesota,USA,0,0,1
+Fort Frances,Ontario,Canada,0,0,1
+Fort Lauderdale,Florida,USA,2,0,0
+Fort McMurray,Alberta,Canada,0,0,1
+Fort Myers,Florida,USA,0,1,0
+Fort Wayne,Indiana,USA,1,1,1
+Foxborough,Massachusetts,USA,2,0,0
+Franklin,Wisconsin,USA,0,1,0
+Frederick,Maryland,USA,0,1,0
+Fredericksburg,Virginia,USA,0,1,0
+Fresno,California,USA,0,1,1
+Frisco,Texas,USA,1,1,0
+Fruitvale,British Columbia,Canada,0,0,1
+Garden City,Idaho,USA,2,0,0
+Garden City,Kansas,USA,0,1,0
+Gary,Indiana,USA,0,1,0
+Gastonia,North Carolina,USA,0,1,0
+Gatineau,Quebec,Canada,0,0,2
+Gatineau,Québec,Canada,1,0,0
+Geneva,Illinois,USA,0,1,1
+Georgetown,Ontario,Canada,0,0,1
+Gibsons,British Columbia,Canada,0,0,1
+Gillette,Wyoming,USA,0,0,1
+Glens Falls,New York,USA,0,0,1
+Granby,Quebec,Canada,0,0,1
+Granby,Québec,Canada,1,0,0
+Grand Falls,New Brunswick,Canada,0,0,1
+Grand Forks,British Columbia,Canada,0,0,1
+Grand Junction,Colorado,USA,0,0,1
+Grand Rapids,Michigan,USA,1,0,1
+Grande Prairie,Alberta,Canada,0,0,1
+Great Falls,Montana,USA,0,1,1
+Greater Sudbury,Ontario,Canada,0,0,1
+Greensboro,North Carolina,USA,0,1,1
+Greenville,South Carolina,USA,0,1,1
+Greer,South Carolina,USA,0,0,1
+Guelph,Ontario,Canada,1,1,1
+Hagerstown,Maryland,USA,0,1,0
+Haliburton,Ontario,Canada,0,0,1
+Halifax,Nova Scotia,Canada,2,0,1
+Hamilton,Ontario,Canada,2,1,1
+Hamtramck,Michigan,USA,1,0,0
+Harrisburg,Pennsylvania,USA,0,1,0
+Harrison,New Jersey,USA,2,0,0
+Hartford,Connecticut,USA,1,1,1
+Hawkesbury,Ontario,Canada,0,0,1
+Hearst,Ontario,Canada,0,0,1
+Helena,Montana,USA,0,0,1
+Henderson,Nevada,USA,0,0,1
+Hershey,Pennsylvania,USA,0,0,1
+Hickory,North Carolina,USA,0,1,0
+High Point,North Carolina,USA,1,1,0
+Hillsboro,Oregon,USA,0,1,0
+Hooksett,New Hampshire,USA,0,0,2
+Houston,Texas,USA,2,1,0
+Humboldt,Saskatchewan,Canada,0,0,1
+Huntsville,Alabama,USA,0,0,1
+Idaho Falls,Idaho,USA,0,1,1
+Independence,Missouri,USA,0,0,1
+Indianapolis,Indiana,USA,2,1,0
+Invermere,British Columbia,Canada,0,0,1
+Ironwood,Michigan,USA,0,0,1
+Iroquois Falls,Ontario,Canada,0,0,1
+Irvine,California,USA,1,0,0
+Jacksonville,Florida,USA,3,1,1
+Janesville,Wisconsin,USA,0,0,1
+Johnstown,Pennsylvania,USA,0,0,1
+Joliet,Illinois,USA,0,1,0
+Joliette,Quebec,Canada,0,0,1
+Jupiter,Florida,USA,0,2,0
+Kalamazoo,Michigan,USA,0,0,1
+Kalispell,Montana,USA,0,1,0
+Kamloops,British Columbia,Canada,1,0,2
+Kannapolis,North Carolina,USA,0,1,0
+Kansas City,Kansas,USA,1,1,0
+Kansas City,Missouri,USA,1,1,0
+Kearney,Nebraska,USA,0,0,1
+Kelowna,British Columbia,Canada,0,0,1
+Kemptville,Ontario,Canada,0,0,1
+Kennewick,Washington,USA,0,0,1
+Kent,Washington,USA,0,0,1
+Kimberley,British Columbia,Canada,0,0,1
+Kindersley,Saskatchewan,Canada,0,0,1
+King Township,Ontario,Canada,0,0,1
+Kingston,Ontario,Canada,1,0,1
+Kinston,North Carolina,USA,0,1,0
+Kirkland,Québec,Canada,1,0,0
+Kirkland Lake,Ontario,Canada,0,0,1
+Kitchener,Ontario,Canada,0,1,1
+Knoxville,Tennessee,USA,1,1,1
+La Ronge,Saskatchewan,Canada,0,0,1
+Lafayette,Louisiana,USA,0,0,1
+Lake Elsinore,California,USA,0,1,0
+Lakeland,Florida,USA,0,1,0
+Lakewood,New Jersey,USA,0,1,0
+Lakewood Ranch,Florida,USA,1,0,0
+Lancaster,California,USA,1,0,0
+Lancaster,Pennsylvania,USA,0,1,0
+Langford,British Columbia,Canada,1,0,0
+Langley,British Columbia,Canada,2,0,2
+Lansing,Michigan,USA,0,1,0
+Las Vegas,Nevada,USA,1,2,0
+Laurentides-Lanaudière,Quebec,Canada,0,0,1
+Laval,Quebec,Canada,2,0,2
+Laval,Québec,Canada,2,0,0
+Lawrenceville,Georgia,USA,0,1,0
+Leamington,Ontario,Canada,0,0,1
+Leesburg,Virginia,USA,1,0,0
+Lethbridge,Alberta,Canada,0,0,1
+Lewiston,Maine,USA,0,0,1
+Lexington,Kentucky,USA,2,1,0
+Lincoln,Nebraska,USA,0,1,1
+Lindsay,Ontario,Canada,0,0,1
+Lloydminster,Saskatchewan,Canada,0,0,1
+London,Ontario,Canada,1,1,1
+Long Beach,California,USA,0,1,0
+Long Beach,New York,USA,0,0,1
+Long Island,New York,USA,1,0,0
+Longueuil,Quebec,Canada,0,0,1
+Longueuil,Québec,Canada,2,0,0
+Los Angeles,California,USA,2,1,1
+Louisville,Kentucky,USA,2,1,0
+Loveland,Colorado,USA,0,0,1
+Lynchburg,Virginia,USA,0,1,0
+Lévis,Québec,Canada,2,0,0
+Macon,Georgia,USA,0,0,1
+Madison,Alabama,USA,0,1,0
+Madison,Wisconsin,USA,2,0,0
+Malone,New York,USA,0,1,0
+Manchester,New Hampshire,USA,0,1,0
+Maple Ridge,British Columbia,Canada,0,0,1
+Markham,Ontario,Canada,0,0,1
+Martinez,California,USA,0,1,0
+Marysville,California,USA,0,2,0
+Mason City,Iowa,USA,0,0,1
+Mauldin,South Carolina,USA,1,0,0
+Medicine Hat,Alberta,Canada,0,0,1
+Melfort,Saskatchewan,Canada,0,0,1
+Melville,Saskatchewan,Canada,0,0,1
+Memphis,Tennessee,USA,0,1,0
+Merritt,British Columbia,Canada,0,0,1
+Miami,Florida,USA,1,1,0
+Middleton,Wisconsin,USA,0,0,1
+Middletown Township,New Jersey,USA,0,0,2
+Midland,Michigan,USA,0,1,0
+Midland,Texas,USA,0,1,0
+Milton,Ontario,Canada,1,0,1
+Milwaukee,Wisconsin,USA,0,1,1
+Minneapolis,Minnesota,USA,0,1,0
+Minot,North Dakota,USA,0,0,1
+Miramichi,New Brunswick,Canada,0,0,1
+Mississauga,Ontario,Canada,2,0,1
+Missoula,Montana,USA,0,1,0
+Mobile,Alabama,USA,0,0,1
+Modesto,California,USA,0,1,0
+Moline,Illinois,USA,0,0,1
+Moncton,New Brunswick,Canada,0,0,1
+Monroe,Louisiana,USA,0,0,2
+Montgomery,Alabama,USA,0,1,0
+Montmagny,Quebec,Canada,0,0,1
+Montreal,Quebec,Canada,0,0,1
+Montreal,Québec,Canada,4,0,0
+Montréal,Quebec,Canada,0,0,3
+Montréal,Québec,Canada,3,0,0
+Moose Jaw,Saskatchewan,Canada,0,0,1
+Moosic,Pennsylvania,USA,0,1,0
+Mount Pleasant,South Carolina,USA,1,0,0
+Mount Royal,Québec,Canada,1,0,0
+Mount Vernon,New York,USA,1,0,0
+Muskegon,Michigan,USA,0,0,1
+Myrtle Beach,South Carolina,USA,0,1,0
+Nanaimo,British Columbia,Canada,1,0,0
+Naples,Florida,USA,1,0,0
+Nashville,Tennessee,USA,1,1,1
+Neepawa,Manitoba,Canada,0,0,1
+Nelson,British Columbia,Canada,0,0,1
+New Brunswick,New Brunswick,Canada,0,0,1
+New Glasgow,Nova Scotia,Canada,0,0,1
+New Haven,Connecticut,USA,1,0,0
+New York,New York,USA,0,2,1
+New York City,New York,USA,1,0,0
+Newark,New Jersey,USA,0,0,1
+Newmarket,Ontario,Canada,0,0,1
+Niagara Falls,Ontario,Canada,0,0,1
+Nipawin,Saskatchewan,Canada,0,0,1
+Niverville,Manitoba,Canada,0,0,1
+Noelville,Ontario,Canada,0,0,1
+Norfolk,Virginia,USA,0,1,1
+North Augusta,South Carolina,USA,0,1,0
+North Battleford,Saskatchewan,Canada,0,0,1
+North Bay,Ontario,Canada,0,0,1
+North Charleston,South Carolina,USA,0,0,1
+North Little Rock,Arkansas,USA,0,1,0
+North Platte,Nebraska,USA,0,1,0
+North Richland Hills,Texas,USA,0,0,2
+North Vancouver,British Columbia,Canada,1,0,0
+Northeast Alberta,Alberta,Canada,0,0,1
+Northern Manitoba,Manitoba,Canada,0,0,1
+Northwestern Ontario,Ontario,Canada,0,0,1
+Norwich,Connecticut,USA,0,0,1
+Notre-Dame-de-Grâce,Québec,Canada,1,0,0
+Notre-Dame-du-Mont-Carmel,Québec,Canada,1,0,0
+Nova Scotia,Nova Scotia,Canada,0,0,1
+Oakland,California,USA,2,1,0
+Oakville,Ontario,Canada,2,0,1
+Oceanside,California,USA,0,0,1
+Oconomowoc,Wisconsin,USA,0,1,0
+Odenton,Maryland,USA,0,0,1
+Odessa,Texas,USA,0,0,1
+Ogden,Utah,USA,0,1,1
+Oklahoma City,Oklahoma,USA,0,1,2
+Olds,Alberta,Canada,0,0,1
+Oliver Paipoonge,Ontario,Canada,0,0,1
+Omaha,Nebraska,USA,1,0,0
+Ontario,California,USA,0,1,1
+Orlando,Florida,USA,2,0,1
+Oshawa,Ontario,Canada,0,0,1
+Osoyoos,British Columbia,Canada,0,0,1
+Ottawa,Ontario,Canada,4,1,5
+Owen Sound,Ontario,Canada,0,0,1
+Palm Beach,Florida,USA,1,0,0
+Papillion,Nebraska,USA,0,1,0
+Paradise,Nevada,USA,0,0,1
+Pasco,Washington,USA,0,1,0
+Paterson,New Jersey,USA,2,1,0
+Pawtucket,Rhode Island,USA,1,0,0
+Peace River Region,BC/Alberta,Canada,0,0,1
+Pearl,Mississippi,USA,0,1,0
+Pecos,Texas,USA,0,1,0
+Pelham,Alabama,USA,0,0,2
+Pembroke,Ontario,Canada,0,0,1
+Pensacola,Florida,USA,0,1,1
+Penticton,British Columbia,Canada,0,0,1
+Peoria,Illinois,USA,0,1,2
+Peterborough,Ontario,Canada,0,0,1
+Philadelphia,Pennsylvania,USA,0,1,1
+Phoenix,Arizona,USA,1,1,1
+Pickering,Ontario,Canada,1,0,1
+Pittsburgh,Pennsylvania,USA,1,1,1
+Plattsburgh,New York,USA,0,1,0
+Plymouth,Michigan,USA,0,0,1
+Pointe-Claire,Québec,Canada,1,0,0
+Pomona,New York,USA,0,1,0
+Port Coquitlam,British Columbia,Canada,0,0,1
+Port Huron,Michigan,USA,0,0,1
+Port St. Lucie,Florida,USA,1,1,0
+Portage la Prairie,Manitoba,Canada,0,0,1
+Portland,Maine,USA,1,1,1
+Portland,Oregon,USA,2,0,1
+Powassan,Ontario,Canada,0,0,1
+Prince Albert,Saskatchewan,Canada,0,0,1
+Prince Edward Island,Prince Edward Island,Canada,0,0,1
+Prince George,British Columbia,Canada,0,0,1
+Princeton,British Columbia,Canada,0,0,1
+Princeville,Quebec,Canada,0,0,1
+Providence,Rhode Island,USA,0,0,1
+Prévost,Québec,Canada,1,0,0
+Pueblo,Colorado,USA,0,0,1
+Quebec City,Quebec,Canada,0,1,2
+Quebec City,Québec,Canada,5,0,0
+Quesnel,British Columbia,Canada,0,0,1
+Raleigh,North Carolina,USA,0,0,1
+Ralston,Nebraska,USA,0,0,1
+Rancho Cucamonga,California,USA,0,1,0
+Rapid City,South Dakota,USA,0,0,2
+Reading,Pennsylvania,USA,0,1,1
+Red Deer,Alberta,Canada,0,0,1
+Red Lake,Ontario,Canada,0,0,1
+Regina,Saskatchewan,Canada,1,0,1
+Renfrew,Ontario,Canada,0,0,1
+Reno,Nevada,USA,1,1,0
+Repentigny,Québec,Canada,1,0,0
+Revelstoke,British Columbia,Canada,0,0,1
+Richmond,British Columbia,Canada,0,0,1
+Richmond,Texas,USA,0,0,1
+Richmond,Virginia,USA,1,1,0
+Richmond Hill,Ontario,Canada,1,0,0
+Rimouski,Quebec,Canada,0,0,1
+Rimouski,Québec,Canada,1,0,0
+Rio Rancho,New Mexico,USA,0,0,1
+Rivière-du-Loup,Québec,Canada,1,0,0
+Roanoke,Virginia,USA,0,0,1
+Rochester,Minnesota,USA,0,0,1
+Rochester,New York,USA,0,1,1
+Rockford,Illinois,USA,0,0,1
+Rogers,Arkansas,USA,2,0,0
+Rome,Georgia,USA,0,1,0
+Rosemont,Illinois,USA,0,1,1
+Roswell,New Mexico,USA,0,1,0
+Round Rock,Texas,USA,0,1,0
+Rouyn-Noranda,Quebec,Canada,0,0,1
+Sacramento,California,USA,1,0,0
+Saginaw,Michigan,USA,0,0,1
+Saguenay,Quebec,Canada,0,0,1
+Saguenay,Québec,Canada,1,0,0
+Saguenay-Lac-St-Jean,Quebec,Canada,0,0,1
+Saint John,New Brunswick,Canada,0,0,1
+Saint Paul,Minnesota,USA,1,1,1
+Saint-Bruno-de-Montarville,Québec,Canada,1,0,0
+Saint-Constant,Québec,Canada,1,0,0
+Saint-Eustache,Québec,Canada,1,0,0
+Saint-Georges,Quebec,Canada,0,0,1
+Saint-Jean-sur-Richelieu,Québec,Canada,1,0,0
+Saint-Jérôme,Quebec,Canada,0,0,1
+Saint-Jérôme,Québec,Canada,1,0,0
+Saint-Lambart,Québec,Canada,1,0,0
+Saint-Lazare,Québec,Canada,1,0,0
+Salaberry-de-Valleyfield,Quebec,Canada,0,0,1
+Salem,Virginia,USA,0,1,0
+Salisbury,Maryland,USA,0,1,0
+Salt Lake City,Utah,USA,0,0,1
+San Antonio,Texas,USA,1,1,0
+San Bernardino,California,USA,0,1,0
+San Diego,California,USA,2,1,1
+San Francisco,California,USA,0,1,0
+San Jose,California,USA,2,1,2
+San Rafael,California,USA,0,1,0
+Sandy,Utah,USA,2,0,0
+Santa Barbara,California,USA,1,0,0
+Santa Fe,New Mexico,USA,0,1,0
+Saranac Lake,New York,USA,0,1,0
+Sarnia,Ontario,Canada,0,0,1
+Saskatchewan,Saskatchewan,Canada,0,0,1
+Saskatoon,Saskatchewan,Canada,2,0,1
+Sauget,Illinois,USA,0,1,0
+Sauk Rapids,Minnesota,USA,0,0,1
+Sault Ste. Marie,Michigan,USA,0,0,1
+Sault Ste. Marie,Ontario,Canada,0,0,2
+Savannah,Georgia,USA,0,0,1
+Scarborough,Ontario,Canada,2,0,0
+Schaumburg,Illinois,USA,0,1,0
+Seaside,California,USA,1,0,0
+Seattle,Washington,USA,2,1,1
+Selkirk,Manitoba,Canada,0,0,1
+Shawinigan,Quebec,Canada,0,0,1
+Sherbrooke,Quebec,Canada,0,0,1
+Sherbrooke,Québec,Canada,1,0,0
+Sheridan,Wyoming,USA,0,0,1
+Shreveport,Louisiana,USA,0,0,1
+Sioux City,Iowa,USA,0,1,1
+Sioux Falls,South Dakota,USA,0,1,1
+Sioux Lookout,Ontario,Canada,0,0,1
+Smiths Falls,Ontario,Canada,0,0,1
+Soldotna,Alaska,USA,0,0,1
+South Bend,Indiana,USA,0,1,0
+South Jordan,Utah,USA,0,1,0
+Southaven,Mississippi,USA,0,0,1
+Southern Alberta,Alberta,Canada,0,0,1
+Southern Ontario,Ontario,Canada,0,0,1
+Spartanburg,South Carolina,USA,0,1,0
+Spokane,Washington,USA,1,1,1
+Springdale,Arkansas,USA,0,1,0
+Springfield,Illinois,USA,0,0,1
+Springfield,Massachusetts,USA,0,0,1
+Springfield,Missouri,USA,0,1,0
+Springwater,Ontario,Canada,0,1,0
+St Leonard,Québec,Canada,1,0,0
+St. Albert,Alberta,Canada,1,0,0
+St. Catharines,Ontario,Canada,1,0,1
+St. Cloud,Minnesota,USA,0,0,1
+St. John's,Newfoundland and Labrador,Canada,0,0,2
+St. Louis,Missouri,USA,1,1,1
+St. Petersburg,Florida,USA,1,1,0
+St. Thomas,Ontario,Canada,1,0,0
+Stateline,Nevada,USA,0,0,1
+Staten Island,New York,USA,0,1,0
+Steinbach,Manitoba,Canada,0,0,1
+Stockton,California,USA,0,1,1
+Stouffville,Ontario,Canada,0,0,1
+Sudbury,Ontario,Canada,1,0,1
+Sugar Land,Texas,USA,0,1,0
+Summerland,British Columbia,Canada,0,0,1
+Summerside,Prince Edward Island,Canada,0,0,1
+Sunrise,Florida,USA,0,0,1
+Surrey,British Columbia,Canada,1,0,0
+Swan River,Manitoba,Canada,0,0,1
+Swift Current,Saskatchewan,Canada,0,0,1
+Syracuse,New York,USA,0,1,1
+Tacoma,Washington,USA,0,1,0
+Tampa,Florida,USA,1,1,1
+Terrebonne,Quebec,Canada,0,0,1
+The Pas,Manitoba,Canada,0,0,1
+Thief River Falls,Minnesota,USA,0,0,1
+Thousand Oaks,California,USA,1,0,0
+Thousand Palms,California,USA,0,0,1
+Thunder Bay,Ontario,Canada,1,0,1
+Timmins,Ontario,Canada,0,0,1
+Toledo,Ohio,USA,0,1,1
+Tomah,Wisconsin,USA,0,0,1
+Topeka,Kansas,USA,0,0,1
+Toronto,Ontario,Canada,5,2,5
+Traveling team,Traveling team,USA,0,1,0
+Trenton,New Jersey,USA,0,0,1
+Trenton,Ontario,Canada,0,0,1
+Trinidad,Colorado,USA,0,1,0
+Trois-Rivieres,Quebec,Canada,0,1,0
+Trois-Rivières,Quebec,Canada,0,0,1
+Trois-Rivières,Québec,Canada,1,0,0
+Troy,New York,USA,0,1,0
+Truro,Nova Scotia,Canada,0,0,1
+Tucson,Arizona,USA,0,1,1
+Tulsa,Oklahoma,USA,1,1,2
+Tupper Lake,New York,USA,0,1,0
+Unionville,Ontario,Canada,1,0,0
+University Park,Florida,USA,1,0,0
+Utica,New York,USA,0,0,1
+Val-d'Or,Quebec,Canada,0,0,1
+Val-d'Or,Québec,Canada,1,0,0
+Vallejo,California,USA,0,1,0
+Vancouver,British Columbia,Canada,2,1,1
+Vaughan,Ontario,Canada,2,0,0
+Victoria,British Columbia,Canada,0,0,1
+Victoriaville,Quebec,Canada,0,0,1
+Victoriaville,Québec,Canada,1,0,0
+Virden,Manitoba,Canada,0,0,1
+Visalia,California,USA,0,1,0
+Waldorf,Maryland,USA,0,1,0
+Wappingers Falls,New York,USA,0,1,0
+Warman,Saskatchewan,Canada,0,0,1
+Washington,D.C.,USA,3,1,1
+Washington,Pennsylvania,USA,0,1,0
+Washington Township,New Jersey,USA,0,0,1
+Waterloo,Iowa,USA,0,0,1
+Waterloo,Ontario,Canada,1,0,0
+Watertown,New York,USA,0,0,1
+Watertown,South Dakota,USA,0,0,1
+Wausau,Wisconsin,USA,0,0,1
+Waywayseecappo,Manitoba,Canada,0,0,1
+Welland,Ontario,Canada,0,1,0
+Wellington,Ontario,Canada,0,0,1
+Wenatchee,Washington,USA,0,0,1
+West Bend,Wisconsin,USA,0,0,1
+West Des Moines,Iowa,USA,0,0,1
+West Sacramento,California,USA,0,1,0
+Weyburn,Saskatchewan,Canada,0,0,1
+Wheeling,West Virginia,USA,0,0,1
+Whitby,Ontario,Canada,1,0,0
+Whitecourt,Alberta,Canada,0,0,1
+Wichita,Kansas,USA,0,1,1
+Wilkes-Barre Township,Pennsylvania,USA,0,0,1
+Williams Lake,British Columbia,Canada,0,0,1
+Willmar,Minnesota,USA,0,0,1
+Wilmington,Delaware,USA,0,1,0
+Wilson,North Carolina,USA,0,1,0
+Windsor,Ontario,Canada,1,0,1
+Winkler,Manitoba,Canada,0,0,1
+Winnipeg,Manitoba,Canada,3,1,5
+Winston-Salem,North Carolina,USA,0,1,1
+Woodbridge,Ontario,Canada,1,0,0
+Worcester,Massachusetts,USA,0,1,1
+Wyandotte,Michigan,USA,0,0,1
+Wytheville,Virginia,USA,0,0,1
+Yarmouth,Nova Scotia,Canada,0,0,1
+York,Pennsylvania,USA,0,1,0
+Yorkton,Saskatchewan,Canada,0,0,1
+Youngstown,Ohio,USA,0,0,1

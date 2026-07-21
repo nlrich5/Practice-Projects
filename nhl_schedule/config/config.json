@@ -1,0 +1,162 @@
+[
+    {
+        "team": "Anaheim Ducks",
+        "page_index": 1,
+        "selected": "no"
+    },
+    {
+        "team": "Boston Bruins",
+        "page_index": 3,
+        "selected": "no"
+    },
+    {
+        "team": "Buffalo Sabres",
+        "page_index": 5,
+        "selected": "no"
+    },
+    {
+        "team": "Calgary Flames",
+        "page_index": 7,
+        "selected": "no"
+    },
+    {
+        "team": "Carolina Hurricanes",
+        "page_index": 9,
+        "selected": "no"
+    },
+    {
+        "team": "Chicago Blackhawks",
+        "page_index": 11,
+        "selected": "no"
+    },
+    {
+        "team": "Colorado Avalanche",
+        "page_index": 13,
+        "selected": "no"
+    },
+    {
+        "team": "Columbus Blue Jackets",
+        "page_index": 15,
+        "selected": "no"
+    },
+    {
+        "team": "Dallas Stars",
+        "page_index": 17,
+        "selected": "no"
+    },
+    {
+        "team": "Detroit Red Wings",
+        "page_index": 19,
+        "selected": "no"
+    },
+    {
+        "team": "Edmonton Oilers",
+        "page_index": 21,
+        "selected": "no"
+    },
+    {
+        "team": "Florida Panthers",
+        "page_index": 23,
+        "selected": "no"
+    },
+    {
+        "team": "Los Angeles Kings",
+        "page_index": 25,
+        "selected": "no"
+    },
+    {
+        "team": "Minnesota Wild",
+        "page_index": 27,
+        "selected": "no"
+    },
+    {
+        "team": "Montreal Canadiens",
+        "page_index": 29,
+        "selected": "no"
+    },
+    {
+        "team": "Nashville Predators",
+        "page_index": 31,
+        "selected": "no"
+    },
+    {
+        "team": "New Jersey Devils",
+        "page_index": 33,
+        "selected": "no"
+    },
+    {
+        "team": "N.Y. Islanders",
+        "page_index": 35,
+        "selected": "no"
+    },
+    {
+        "team": "N.Y. Rangers",
+        "page_index": 37,
+        "selected": "no"
+    },
+    {
+        "team": "Ottawa Senators",
+        "page_index": 39,
+        "selected": "no"
+    },
+    {
+        "team": "Philadelphia Flyers",
+        "page_index": 41,
+        "selected": "no"
+    },
+    {
+        "team": "Pittsburgh Penguins",
+        "page_index": 43,
+        "selected": "no"
+    },
+    {
+        "team": "San Jose Sharks",
+        "page_index": 45,
+        "selected": "no"
+    },
+    {
+        "team": "Seattle Kraken",
+        "page_index": 47,
+        "selected": "no"
+    },
+    {
+        "team": "St. Louis Blues",
+        "page_index": 49,
+        "selected": "no"
+    },
+    {
+        "team": "Tampa Bay Lightning",
+        "page_index": 51,
+        "selected": "no"
+    },
+    {
+        "team": "Toronto Maple Leafs",
+        "page_index": 53,
+        "selected": "no"
+    },
+    {
+        "team": "Utah Mammoth",
+        "page_index": 55,
+        "selected": "no"
+    },
+    {
+        "team": "Vancouver Canucks",
+        "page_index": 57,
+        "selected": "no"
+    },
+    {
+        "team": "Vegas Golden Knights",
+        "page_index": 59,
+        "selected": "no"
+    },
+    {
+        "team": "Washington Capitals",
+        "page_index": 61,
+        "selected": "no"
+    },
+    {
+        "team": "Winnipeg Jets",
+        "page_index": 63,
+        "selected": "no"
+    }
+]

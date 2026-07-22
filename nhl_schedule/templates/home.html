@@ -7,9 +7,22 @@
 </head>
 <body>
     <h1>NHL Schedule Compiler</h1>
+
+    <h2>Timezone</h2>
+    <form method="POST" action="/">
+    <select class="timezone_drop" name="timezone" id="timezone">
+        <option value="Atlantic">Atlantic</option>
+        <option value="Eastern">Eastern</option>
+        <option value="Alberta">Alberta</option>
+        <option value="Central">Central</option>
+        <option value="Arizona" selected>Arizona</option>
+        <option value="Mountain">Mountain</option>
+        <option value="BC">BC</option>
+        <option value="Pacific">Pacific</option>
+    </select>
+
     <h2>Teams</h2>
 
-    <form method="POST" action="/">
     <table>
         <tr>
             <th>Team</th>

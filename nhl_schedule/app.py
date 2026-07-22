@@ -31,9 +31,11 @@ def index():
 
     if request.method == 'POST':
         selected_teams = [team for team in TEAMS if request.form.get(team) == 'yes']
+        timezone = request.form.get('timezone')
         print("Selected teams:", selected_teams)
+        print("Timezone:", timezone)
         update_config(selected_teams=selected_teams)
-        pdf_parser.parse_pdf()
+        pdf_parser.parse_pdf(timezone)
 
     return render_template("home.html", items=TEAMS)
 

@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template, send_file
 import json
 import os
 import sys
@@ -36,6 +36,13 @@ def index():
         print("Timezone:", timezone)
         update_config(selected_teams=selected_teams)
         pdf_parser.parse_pdf(timezone)
+
+        output_path = os.path.join(_HERE, "output", "schedule.csv")                                                                                                                   
+        return send_file(                                                                                                                                                                                               
+            output_path,                                                                                                                                                                                                
+            as_attachment=True,           # triggers browser "Save As" / Downloads                                                                                                                                      
+            download_name="schedule.csv"  # filename the user sees                                                                                                                                                      
+        )
 
     return render_template("home.html", items=TEAMS)
 

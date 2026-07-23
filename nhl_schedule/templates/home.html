@@ -3,38 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <title>NHL Schedule Compiler</title>
 </head>
 <body>
-    <h1>NHL Schedule Compiler</h1>
+    <header>
+        <h1>NHL Schedule Compiler</h1>
+    </header>
 
+    <div class="container">
     <h2>Timezone</h2>
     <form method="POST" action="/">
-    <select class="timezone_drop" name="timezone" id="timezone">
-        <option value="Atlantic">Atlantic</option>
-        <option value="Eastern">Eastern</option>
-        <option value="Alberta">Alberta</option>
-        <option value="Central">Central</option>
-        <option value="Arizona" selected>Arizona</option>
-        <option value="Mountain">Mountain</option>
-        <option value="BC">BC</option>
-        <option value="Pacific">Pacific</option>
-    </select>
+        <select class="timezone_drop" name="timezone" id="timezone">
+            <option value="Atlantic">Atlantic</option>
+            <option value="Eastern">Eastern</option>
+            <option value="Alberta">Alberta</option>
+            <option value="Central">Central</option>
+            <option value="Arizona" selected>Arizona</option>
+            <option value="Mountain">Mountain</option>
+            <option value="BC">BC</option>
+            <option value="Pacific">Pacific</option>
+        </select>
 
     <h2>Teams</h2>
 
     <table>
         <tr>
+            <th></th>
             <th>Team</th>
             <th>Include?</th>
         </tr>
         {% for item in items %}
             <tr>
+                <td><img src="{{ url_for('static', filename='images/' ~ item ~ '.png') }}" width="50"></td>
                 <td>{{ item }}</td>
                 <td>
                     <select class="team_yn" name="{{ item }}" id="{{ item }}">
-                        <option value="no" selected>No</option>
-                        <option value="yes">Yes</option>
+                        <option style="background-color: red" value="no" selected>No</option>
+                        <option style="background-color: lime" value="yes">Yes</option>
                     </select>
                 </td>
             </tr>
@@ -43,5 +49,6 @@
     <br>
     <button type="submit">Submit</button>
     </form>
+    </div>
 </body>
 </html>

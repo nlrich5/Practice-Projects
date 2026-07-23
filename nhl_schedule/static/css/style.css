@@ -1,0 +1,66 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #242424;
+}
+
+.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #f6f6f6;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+header {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+h2 {
+    margin-left: 25px;
+}
+
+#timezone {
+    margin-left: 30px;
+}
+
+table {
+    margin: 15px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px 10px;
+    vertical-align: middle;
+}
+
+td {
+    min-height: 70px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+tr {
+    border: 1px solid;
+    border-color: #f0f0f0;
+}
+
+img {
+    display: block;
+    height: 50px;
+    width: auto;
+    margin: 0 auto;
+}
+
+button {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+select {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 25px;
+}

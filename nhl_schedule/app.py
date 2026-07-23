@@ -40,8 +40,8 @@ def index():
         output_path = os.path.join(_HERE, "output", "schedule.csv")                                                                                                                   
         return send_file(                                                                                                                                                                                               
             output_path,                                                                                                                                                                                                
-            as_attachment=True,           # triggers browser "Save As" / Downloads                                                                                                                                      
-            download_name="schedule.csv"  # filename the user sees                                                                                                                                                      
+            as_attachment=True,                                                                                                                                    
+            download_name="schedule.csv"                                                                                                                                                       
         )
 
     return render_template("home.html", items=TEAMS)

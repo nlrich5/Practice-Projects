@@ -147,6 +147,39 @@ def is_DST_active(game_date: str):
         case "Aug":
             return True
 
+def adjust_date(game_date: str):
+    [month, day] = game_date.split(" ")
+    day_int = int(day)
+    year = 2026
+    month_int = 0
+
+    match month:
+        case "Sep":
+            month_int = 9
+        case "Oct":
+            month_int = 10
+        case "Nov":
+            month_int = 11
+        case "Dec":
+            month_int = 12
+        case "Jan":
+            month_int = 1
+            year = 2027
+        case "Feb":
+            month_int = 2
+            year = 2027
+        case "Mar":
+            month_int = 3
+            year = 2027
+        case "Apr":
+            month_int = 4
+            year = 2027
+        case "May":
+            month_int = 5
+            year = 2027
+
+    return str(month_int) + "/" + str(day_int) + "/" + str(year)
+
 def handle_time_change(date_str: str, time_str: str, home_team: str, desired_timezone: str):
     timezone = TEAM_TIMEZONE_MAP[home_team]
     if is_DST_active(date_str):
@@ -192,7 +225,7 @@ def parse_schedule(text, team_name, timezone):
 
         games.append({
             "Day":       day_abbr,
-            "Date":      date_str,
+            "Date":      adjust_date(date_str),
             "Time":      handle_time_change(date_str, time_str, home_team, timezone),
             "Home Team": home_team,
             "Away Team": away_team,

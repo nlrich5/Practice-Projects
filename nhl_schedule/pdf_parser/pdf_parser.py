@@ -4,6 +4,11 @@ import os
 import re
 from pypdf import PdfReader
 
+try:
+    import pdfplumber
+except ImportError:
+    pdfplumber = None
+
 # Paths relative to this script's location, regardless of where it is invoked from
 _HERE       = os.path.dirname(os.path.abspath(__file__))
 CONFIG_FILE = os.path.join(_HERE, "..", "config", "config.json")
@@ -207,7 +212,7 @@ def handle_time_change(date_str: str, time_str: str, home_team: str, desired_tim
 
     return str(hour_int) + ":" + minute + " " + am_pm
 
-def parse_schedule(text, team_name, timezone):
+def parse_schedule(text, team_name, excluded_teams: list[str], timezone):
     games = []
     for match in GAME_PATTERN.finditer(text):
         day_abbr = match.group(1)
@@ -223,14 +228,63 @@ def parse_schedule(text, team_name, timezone):
             home_team = team_name
             away_team = opponent
 
-        games.append({
-            "Day":       day_abbr,
-            "Date":      adjust_date(date_str),
-            "Time":      handle_time_change(date_str, time_str, home_team, timezone),
-            "Home Team": home_team,
-            "Away Team": away_team,
-        })
+        if opponent not in excluded_teams:
+            games.append({
+                "Day":       day_abbr,
+                "Date":      adjust_date(date_str),
+                "Time":      handle_time_change(date_str, time_str, home_team, timezone),
+                "Home Team": home_team,
+                "Away Team": away_team,
+            })
+
     return games
+
+def extract_text_from_page(page_index: int):
+    if pdfplumber is None:
+        reader = PdfReader(PDF_FILE)
+        return reader.pages[page_index].extract_text() or ""
+
+    def words_to_text(words):
+        sorted_words = sorted(words, key=lambda item: (round(item["top"], 1), item["x0"]))
+        lines = []
+        current_line = []
+        current_top = None
+
+        for word in sorted_words:
+            top = round(word["top"], 1)
+            if current_top is None:
+                current_top = top
+
+            if abs(top - current_top) > 4:
+                if current_line:
+                    lines.append(" ".join(current_line))
+                current_line = [word["text"]]
+                current_top = top
+            else:
+                current_line.append(word["text"])
+
+        if current_line:
+            lines.append(" ".join(current_line))
+
+        return "\n".join(lines)
+
+    with pdfplumber.open(PDF_FILE) as pdf:
+        page = pdf.pages[page_index]
+        width = page.width
+        mid_x = width / 2
+        words = page.extract_words(x_tolerance=3, y_tolerance=3, keep_blank_chars=False)
+
+        if not words:
+            return page.extract_text() or ""
+
+        left_words = [word for word in words if word["x0"] < mid_x]
+        right_words = [word for word in words if word["x0"] >= mid_x]
+
+        left_text = words_to_text(left_words)
+        right_text = words_to_text(right_words)
+
+        return (left_text + "\n" + right_text).strip()
+
 
 def parse_pdf(timezone):
     # Load teams and filter to selected ones
@@ -238,17 +292,17 @@ def parse_pdf(timezone):
         teams = json.load(f)
 
     selected_teams = [t for t in teams if t["selected"].strip().lower() == "yes"]
+    excluded_teams = [t["team"] for t in teams if t["selected"].strip().lower() == "exclude"]
 
     if not selected_teams:
         print("No teams marked as selected in config.json.")
     else:
-        reader = PdfReader(PDF_FILE)
         fieldnames = ["Day", "Date", "Time", "Home Team", "Away Team"]
         all_games = []
 
         for team in selected_teams:
-            text  = reader.pages[team["page_index"]].extract_text()
-            games = parse_schedule(text, team["team"], timezone)
+            text = extract_text_from_page(team["page_index"])
+            games = parse_schedule(text, team["team"], excluded_teams, timezone)
             all_games.extend(games)
             print(f"Parsed {len(games)} games for {team['team']}")
 

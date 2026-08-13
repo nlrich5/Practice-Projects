@@ -10,15 +10,12 @@ app = Flask(__name__)
 _HERE       = os.path.dirname(os.path.abspath(__file__))
 CONFIG_FILE = os.path.join(_HERE, "config", "config.json")
 
-def update_config(selected_teams):
+def update_config(team_status):
     with open(CONFIG_FILE, 'r') as config:
         config_json = json.load(config)
 
     for item in config_json:
-        if item['team'] in selected_teams:
-            item['selected'] = 'yes'
-        else:
-            item['selected'] = 'no'
+        item['selected'] = team_status.get(item['team'], 'no')
 
     with open(CONFIG_FILE, 'w') as config:
         json.dump(config_json, config, indent=4)
@@ -27,14 +24,20 @@ def update_config(selected_teams):
 def index():
     with open(CONFIG_FILE, 'r') as config_file:
         config_json = json.load(config_file)
-        TEAMS = [item['team'] for item in config_json]
+        TEAMS = [{
+            'team': item['team'],
+            'selected': item.get('selected', 'no')
+        } for item in config_json]
 
     if request.method == 'POST':
-        selected_teams = [team for team in TEAMS if request.form.get(team) == 'yes']
+        team_status = {
+            team['team']: request.form.get(team['team'], 'no')
+            for team in TEAMS
+        }
         timezone = request.form.get('timezone')
-        print("Selected teams:", selected_teams)
+        print("Team status:", team_status)
         print("Timezone:", timezone)
-        update_config(selected_teams=selected_teams)
+        update_config(team_status=team_status)
         pdf_parser.parse_pdf(timezone)
 
         output_path = os.path.join(_HERE, "output", "schedule.csv")                                                                                                                   

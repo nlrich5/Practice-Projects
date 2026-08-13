@@ -35,12 +35,13 @@
         </tr>
         {% for item in items %}
             <tr>
-                <td><img src="{{ url_for('static', filename='images/' ~ item ~ '.png') }}" width="50"></td>
-                <td>{{ item }}</td>
+                <td><img src="{{ url_for('static', filename='images/' ~ item.team ~ '.png') }}" width="50"></td>
+                <td>{{ item.team }}</td>
                 <td>
-                    <select class="team_yn" name="{{ item }}" id="{{ item }}">
-                        <option style="background-color: red" value="no" selected>No</option>
-                        <option style="background-color: lime" value="yes">Yes</option>
+                    <select class="team_yn" name="{{ item.team }}" id="{{ item.team }}">
+                        <option style="background-color: red" value="no" {% if item.selected != 'yes' and item.selected != 'exclude' %}selected{% endif %}>No</option>
+                        <option style="background-color: lime" value="yes" {% if item.selected == 'yes' %}selected{% endif %}>Yes</option>
+                        <option style="background-color: black; color: white;" value="exclude" {% if item.selected == 'exclude' %}selected{% endif %}>Exclude</option>
                     </select>
                 </td>
             </tr>

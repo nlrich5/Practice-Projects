@@ -1,15 +1,6 @@
-from dataclasses import dataclass
 from typing import List, Tuple
 
-@dataclass
-class Wrestler:
-    id: str
-    name: str
-    rank_val: float          # Current numerical rank position
-    target_val: float = 0.0  # Performance target score calculated post-basho
-    wins: int = 0
-    is_yokozuna: bool = False
-    is_ozeki: bool = False
+from wrestler import Wrestler
 
 class DynamicBanzukeEngine:
 

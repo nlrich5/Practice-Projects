@@ -11,15 +11,36 @@ for team in league.teams:
     if team.team_name == "Silly Little Guys":
         silly_little_fellas = team
 
-week = int(input("What week is it: "))
-box_scores = league.box_scores(week=week)
+project_week = int(input("What week to project: "))
+results_week = int(input("What week for results: "))
+get_FAs = input("Get free agents (y/n): ")
 
-with open(f"./week{week}.csv", "w") as f:
-    f.write("Name,Position,Current Position,Project Points,Opposition Rank,Points\n")
-    for match in box_scores:
-        if match.away_team == silly_little_fellas:
-            for player in match.away_lineup:
-                f.write(f"{player.name},{player.position},{player.slot_position},{player.projected_points},{player.pro_pos_rank},{player.points if (week == 1) else (player.points / (week - 1))}\n")
-        elif match.home_team == silly_little_fellas:
-            for player in match.home_lineup:
-                f.write(f"{player.name},{player.position},{player.slot_position},{player.projected_points},{player.pro_pos_rank},{player.points if (week == 1) else (player.points / (week - 1))}\n")
+if project_week != 0:
+    box_scores = league.box_scores(week=project_week)
+    with open(f"./project_week{project_week}.csv", "w") as f:
+        f.write("Name,Position,Current Position,Status,Projected Points,Opposition Rank,Points\n")
+        for match in box_scores:
+            if match.away_team == silly_little_fellas:
+                for player in match.away_lineup:
+                    f.write(f"{player.name},{player.position},{player.slot_position},{player.injuryStatus},{player.projected_points},{player.pro_pos_rank}\n")
+            elif match.home_team == silly_little_fellas:
+                for player in match.home_lineup:
+                    f.write(f"{player.name},{player.position},{player.slot_position},{player.injuryStatus},{player.projected_points},{player.pro_pos_rank}\n")
+
+if results_week != 0:
+    box_scores = league.box_scores(week=results_week)
+    with open(f"./results_week{results_week}.csv", "w") as f:
+        f.write("Name,Position,Current Position,Projected Points,Points\n")
+        for match in box_scores:
+            if match.away_team == silly_little_fellas:
+                for player in match.away_lineup:
+                    f.write(f"{player.name},{player.position},{player.slot_position},{player.projected_points},{player.points}\n")
+            elif match.home_team == silly_little_fellas:
+                for player in match.home_lineup:
+                    f.write(f"{player.name},{player.position},{player.slot_position},{player.projected_points},{player.points}\n")
+
+if get_FAs.find("y") != -1:
+    with open(f"./free_agents.csv", "w") as f:
+        f.write("Name,Position,Projected Average Points,Percent Owned\n")
+        for player in league.free_agents(size=200):
+            f.write(f"{player.name},{player.position},{player.projected_avg_points},{player.percent_owned}\n")
